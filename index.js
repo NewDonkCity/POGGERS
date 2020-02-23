@@ -4539,4 +4539,4 @@ client.on('message', message => {
 	}
 });
 
-client.login(process.env.NjY5OTYzNjI3NTAzMjg4MzMx.XlK8Ow.wdXIQIQwjFEXXCad19tKC0zFveo);
+client.login(process.env.BOT_TOKEN);
