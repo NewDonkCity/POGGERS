@@ -302,67 +302,31 @@ client.on('message', message => {
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
 	if (message_content.includes("😍")) {
-		Promise.all([
-			message.react('632997792150847515'),
-			message.react('632997790527782913'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('632997792150847515');
 	}
 	if (message_content.includes("😻")) {
-		Promise.all([
-			message.react('632997792150847515'),
-			message.react('632997790527782913'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('632997792150847515');
 	}
 	if (message_content.includes("ove you the")) {
-		Promise.all([
-			message.react('632997792150847515'),
-			message.react('632997790527782913'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('632997792150847515');
 	}
 	if (message_content.includes("oveyouthe")) {
-		Promise.all([
-			message.react('632997792150847515'),
-			message.react('632997790527782913'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('632997792150847515');
 	}
 	if (message_content.includes("we stan")) {
-		Promise.all([
-			message.react('632997792150847515'),
-			message.react('632997790527782913'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('632997792150847515');
 	}
 	if (message_content.includes("anyway stan")) {
-		Promise.all([
-			message.react('632997792150847515'),
-			message.react('632997790527782913'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('632997792150847515');
 	}
 	if (message_content.includes("anyways stan")) {
-		Promise.all([
-			message.react('632997792150847515'),
-			message.react('632997790527782913'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('632997792150847515');
 	}
 	if (message_content.includes("anyway, stan")) {
-		Promise.all([
-			message.react('632997792150847515'),
-			message.react('632997790527782913'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('632997792150847515');
 	}
 	if (message_content.includes("anyways, stan")) {
-		Promise.all([
-			message.react('632997792150847515'),
-			message.react('632997790527782913'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('632997792150847515');
 	}
 	if (message_content == "dab") {
 		message.react('461662128861085707');
@@ -1514,34 +1478,40 @@ client.on('message', message => {
 		message.react('670156862921900042');
 	}
 	if (message_content.includes("🔥")) {
-		message.react('663933198455013376');
+		message.react('316752108437372928');
+	}
+	if (message_content.includes("gonna be lit")) {
+		message.react('316752108437372928');
+	}
+	if (message_content.includes("gonna be fire")) {
+		message.react('316752108437372928');
 	}
 	if (message_content.includes("shits lit")) {
-		message.react('663933198455013376');
+		message.react('316752108437372928');
 	}
 	if (message_content.includes("shit's fire")) {
-		message.react('663933198455013376');
+		message.react('316752108437372928');
 	}
 	if (message_content.includes("shit is fire")) {
-		message.react('663933198455013376');
+		message.react('316752108437372928');
 	}
 	if (message_content.includes("this is fire")) {
-		message.react('663933198455013376');
+		message.react('316752108437372928');
 	}
 	if (message_content.includes("that is fire")) {
-		message.react('663933198455013376');
+		message.react('316752108437372928');
 	}
 	if (message_content.includes("'s fire")) {
-		message.react('663933198455013376');
+		message.react('316752108437372928');
 	}
 	if (message_content.includes("lit af")) {
-		message.react('663933198455013376');
+		message.react('316752108437372928');
 	}
 	if (message_content.includes("fire af")) {
-		message.react('663933198455013376');
+		message.react('316752108437372928');
 	}
 	if (message_content == "lit") {
-		message.react('663933198455013376');
+		message.react('316752108437372928');
 	}
 	if (message_content.includes("my bop")) {
 		message.react('316752108437372928');
@@ -3680,16 +3650,16 @@ client.on('message', message => {
 		message.react('653344834018344960');
 	}
 	if (message_content.includes("d'oh i missed")) {
-		message.react('632997791039356938');
+		message.react('681260211809419328');
 	}
 	if (message_content.includes("doh i missed")) {
-		message.react('632997791039356938');
+		message.react('681260211809419328');
 	}
 	if (message_content.includes("so ein mist")) {
-		message.react('632997791039356938');
+		message.react('681260211809419328');
 	}
 	if (message_content.includes("hello darkness my old friend")) {
-		message.react('632997791039356938');
+		message.react('650886937632309268');
 	}
 	if (message_content.includes("wahah")) {
 		message.react('230129083533623296');
@@ -3968,6 +3938,12 @@ client.on('message', message => {
 		message.react('632997783065854003');
 	}
 	if (message_content.includes("youre pretty good")) {
+		message.react('632997783065854003');
+	}
+	if (message_content == "nice") {
+		message.react('632997783065854003');
+	}
+	if (message_content == "nice.") {
 		message.react('632997783065854003');
 	}
 	if (message_content.includes("chocolate milk")) {
