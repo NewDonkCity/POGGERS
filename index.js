@@ -103,6 +103,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -118,6 +119,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -133,6 +135,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -148,6 +151,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -163,6 +167,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -178,6 +183,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -193,6 +199,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -208,6 +215,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -223,6 +231,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -238,21 +247,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
-	}
-	if (message_content.includes("everybody jam")) {
-		Promise.all([
-			message.react('404196849017421824'),
-			message.react('653056076740165633'),
-			message.react('408092112748544001'),
-			message.react('636617752429199415'),
-			message.react('408084695109074944'),
-			message.react('408084677510037535'),
-			message.react('432801135288385536'),
-			message.react('404197167486730240'),
-			message.react('425793292932743169'),
-			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -268,6 +263,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -283,6 +279,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -298,6 +295,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
+			message.react('527614081369112578');
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -980,16 +978,16 @@ client.on('message', message => {
 		message.react('230128660580007937');
 	}
 	if (message_content == "c:") {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content == ":3") {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content == ":>") {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content == "<:") {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content == ":D") {
 		message.react('414701504143032331');
@@ -1016,16 +1014,16 @@ client.on('message', message => {
 		message.react('282297846554951681');
 	}
 	if (message_content.includes(" c: ")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes(" :>")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes(" :3 ")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("<: ")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes(" :)")) {
 		message.react('647686065557340160');
@@ -1067,28 +1065,28 @@ client.on('message', message => {
 		message.react('414701504143032331');
 	}
 	if (message_content == "c=") {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content == "=3") {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content == "=>") {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content == "<=") {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("c= ")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes(" =>")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes(" =3")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("<= ")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes(" =)")) {
 		message.react('647686065557340160');
@@ -1501,13 +1499,7 @@ client.on('message', message => {
 	if (message_content.includes("that is fire")) {
 		message.react('316752108437372928');
 	}
-	if (message_content.includes("'s fire")) {
-		message.react('316752108437372928');
-	}
 	if (message_content.includes("lit af")) {
-		message.react('316752108437372928');
-	}
-	if (message_content.includes("fire af")) {
 		message.react('316752108437372928');
 	}
 	if (message_content == "lit") {
@@ -2254,6 +2246,18 @@ client.on('message', message => {
 	if (message_content.includes("^w^")) {
 		message.react('230128660580007937');
 	}
+	if (message_content.includes("ᵔ_ᵔ")) {
+		message.react('230128660580007937');
+	}
+	if (message_content.includes("ᵔ.ᵔ")) {
+		message.react('230128660580007937');
+	}
+	if (message_content.includes("ᵔ-ᵔ")) {
+		message.react('230128660580007937');
+	}
+	if (message_content.includes("ᵔwᵔ")) {
+		message.react('230128660580007937');
+	}
 	if (message_content.includes("🤷")) {
 		message.react('415972129650245635');
 	}
@@ -2855,9 +2859,15 @@ client.on('message', message => {
 		message.react('282292955761475584');
 	}
 	if (message_content.includes("👻")) {
-		message.react('638180015854321699');
+		message.react('316752108437372928');
 	}
 	if (message_content.includes("😜")) {
+		message.react('653344834018344960');
+	}
+	if (message_content.includes("😗")) {
+		message.react('653344834018344960');
+	}
+	if (message_content.includes("😙")) {
 		message.react('653344834018344960');
 	}
 	if (message_content.includes(";p")) {
@@ -3257,40 +3267,55 @@ client.on('message', message => {
 		message.react('282295242407936000');
 	}
 	if (message_content == "owo") {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("notices ur")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("notices your")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("owo ")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("•ᴥ•")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("ᵔᴥᵔ")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
+	}
+	if (message_content.includes("-ᴥ-")) {
+		message.react('681392742630555755');
+	}
+	if (message_content.includes("oᴥo")) {
+		message.react('681392742630555755');
+	}
+	if (message_content.includes("0ᴥ0")) {
+		message.react('681392742630555755');
+	}
+	if (message_content.includes("^ᴥ^")) {
+		message.react('681392742630555755');
 	}
 	if (message_content.includes(" owo")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("o3o")) {
 		message.react('647686065557340160');
 	}
 	if (message_content.includes("ovo ")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes(" ovo")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("0w0")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
 	}
 	if (message_content.includes("0v0")) {
-		message.react('647686065557340160');
+		message.react('681392742630555755');
+	}
+	if (message_content.includes("0v0")) {
+		message.react('681392742630555755');
 	}
 	if (message_content.includes(">.<")) {
 		message.react('632997788527099925');
@@ -3963,15 +3988,6 @@ client.on('message', message => {
 	}
 	if (message_content == "olden") {
 		message.react('342063809105625099');
-	}
-	if (message_content.includes("there go all my bones")) {
-		message.react('647326428299395072');
-	}
-	if (message_content.includes("rattle me bones")) {
-		message.react('647326428299395072');
-	}
-	if (message_content.includes("blues")) {
-		message.react('647326428299395072');
 	}
 	if (message_content.includes("everybody cheat")) {
 		message.react('415041303718395932');
