@@ -103,7 +103,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -119,7 +119,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -135,7 +135,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -151,7 +151,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -167,7 +167,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -183,7 +183,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -199,7 +199,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -215,7 +215,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -231,7 +231,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -247,7 +247,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -263,7 +263,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -279,7 +279,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -295,7 +295,7 @@ client.on('message', message => {
 			message.react('404197167486730240'),
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
-			message.react('527614081369112578');
+			message.react('527614081369112578'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
