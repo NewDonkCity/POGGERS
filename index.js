@@ -1415,6 +1415,9 @@ client.on('message', message => {
 	if (message_content.includes("hey stinky")) {
 		message.react('282295903006621697');
 	}
+	if (message_content.includes("hey, stinky")) {
+		message.react('282295903006621697');
+	}
 	if (message_content.includes(" :^)")) {
 		message.react('282295903006621697');
 	}
@@ -4004,6 +4007,9 @@ client.on('message', message => {
 	if (message_content.includes("chocolate milk")) {
 		message.react('342063809105625099');
 	}
+	if (message_content.includes("choccy milk")) {
+		message.react('342063809105625099');
+	}
 	if (message_content.includes("lonely space vixens")) {
 		message.react('342063809105625099');
 	}
@@ -4023,6 +4029,9 @@ client.on('message', message => {
 		message.react('415041303718395932');
 	}
 	if (message_content.includes("next time i'll cheat")) {
+		message.react('415041303718395932');
+	}
+	if (message_content.includes("next time ill cheat")) {
 		message.react('415041303718395932');
 	}
 	if (message_content.includes("😓")) {
