@@ -2838,7 +2838,10 @@ client.on('message', message => {
 		message.react('266819167787810816');
 	}
 	if (message_content.includes("wutface")) {
-		message.react('282297179459158026');
+		message.react('266819167787810816');
+	}
+	if (message_content.includes("failfish")) {
+		message.react('282292955761475584');
 	}
 	if (message_content.includes("notlikethis")) {
 		message.react('364306822330580993');
@@ -2984,6 +2987,9 @@ client.on('message', message => {
 	if (message_content.includes("i'm down.")) {
 		message.react('414678363526135818');
 	}
+	if (message_content.includes("i`m down.")) {
+		message.react('414678363526135818');
+	}
 	if (message_content.includes("i am down.")) {
 		message.react('414678363526135818');
 	}
@@ -3008,6 +3014,9 @@ client.on('message', message => {
 	if (message_content.includes("i'm up")) {
 		message.react('414678363526135818');
 	}
+	if (message_content.includes("i`m up")) {
+		message.react('414678363526135818');
+	}
 	if (message_content.includes("im up")) {
 		message.react('414678363526135818');
 	}
@@ -3023,6 +3032,9 @@ client.on('message', message => {
 	if (message_content.includes("i'll play")) {
 		message.react('414678363526135818');
 	}
+	if (message_content.includes("i`ll play")) {
+		message.react('414678363526135818');
+	}
 	if (message_content == "ill join") {
 		message.react('414678363526135818');
 	}
@@ -3030,6 +3042,9 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("i'll join")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i`ll join")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("i can join")) {
@@ -3057,6 +3072,9 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("i'll game")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i`ll game")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("count me in")) {
@@ -3459,6 +3477,9 @@ client.on('message', message => {
 		message.react('637113890442051614');
 	}
 	if (message_content.includes("hell ye")) {
+		message.react('637113890442051614');
+	}
+	if (message_content.includes("he'll ye")) {
 		message.react('637113890442051614');
 	}
 	if (message_content.includes("ck yas")) {
