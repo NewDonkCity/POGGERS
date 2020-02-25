@@ -3326,6 +3326,12 @@ client.on('message', message => {
 	if (message_content.includes("^ᴥ^")) {
 		message.react('681392742630555755');
 	}
+	if (message_content.includes(":3c")) {
+		message.react('681392742630555755');
+	}
+	if (message_content.includes("=3c")) {
+		message.react('681392742630555755');
+	}
 	if (message_content.includes(" owo")) {
 		message.react('681392742630555755');
 	}
