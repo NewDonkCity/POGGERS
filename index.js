@@ -878,6 +878,15 @@ client.on('message', message => {
 	if (message_content == "lel") {
 		message.react('323972935230685184');
 	}
+	if (message_content == "laff") {
+		message.react('323972935230685184');
+	}
+	if (message_content == "laff.") {
+		message.react('323972935230685184');
+	}
+	if (message_content == "laff!") {
+		message.react('323972935230685184');
+	}
 	if (message_content == "lol") {
 		message.react('323972935230685184');
 	}
@@ -2192,15 +2201,6 @@ client.on('message', message => {
 	if (message_content.includes("<^=<")) {
 		message.react('316737233279385600');
 	}
-	if (message_content.includes("💰")) {
-		message.react('632997786912292876');
-	}
-	if (message_content.includes("💸")) {
-		message.react('632997786912292876');
-	}
-	if (message_content.includes("💵")) {
-		message.react('632997786912292876');
-	}
 	if (message_content.includes("😬")) {
 		message.react('632997788527099925');
 	}
@@ -2827,12 +2827,6 @@ client.on('message', message => {
 	}
 	if (message_content.includes(".-.")) {
 		message.react('282295242407936000');
-	}
-	if (message_content.includes("⭐")) {
-		message.react('635520571974877184');
-	}
-	if (message_content.includes("🌟")) {
-		message.react('635520571974877184');
 	}
 	if (message_content.includes("😱")) {
 		message.react('266819167787810816');
@@ -4052,14 +4046,29 @@ client.on('message', message => {
 	if (message_content.includes("uh oh")) {
 		message.react('458023278234042399');
 	}
-	if (message_content.includes("oh shit")) {
+	if (message_content.includes("ww crap")) {
+		message.react('458023278234042399');
+	}
+	if (message_content.includes("aw crap")) {
+		message.react('458023278234042399');
+	}
+	if (message_content.includes("holy shit")) {
 		message.react('632997788673769513');
+	}
+	if (message_content.includes("holy fuck")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("holy crap")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("oh shit")) {
+		message.react('458023278234042399');
 	}
 	if (message_content.includes("oh fuck")) {
 		message.react('458023278234042399');
 	}
 	if (message_content.includes("oh crap")) {
-		message.react('632997788673769513');
+		message.react('458023278234042399');
 	}
 	if (message_content.includes("monkas")) {
 		message.react('458023278234042399');
