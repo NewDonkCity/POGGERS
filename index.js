@@ -330,22 +330,22 @@ client.on('message', message => {
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
 	if (message_content.includes("gu huh")) {
-		message.react('632997792150847515');
+		message.react('682035336255111175');
 	}
 	if (message_content.includes("guh huh")) {
-		message.react('632997792150847515');
+		message.react('682035336255111175');
 	}
 	if (message_content.includes("gu-huh")) {
-		message.react('632997792150847515');
+		message.react('682035336255111175');
 	}
 	if (message_content.includes("guh-huh")) {
-		message.react('632997792150847515');
+		message.react('682035336255111175');
 	}
 	if (message_content.includes("guh uh")) {
-		message.react('632997792150847515');
+		message.react('682035336255111175');
 	}
 	if (message_content.includes("guh-uh")) {
-		message.react('632997792150847515');
+		message.react('682035336255111175');
 	}
 	if (message_content.includes("hey jeffery, fu")) {
 		message.react('682040117527052359');
