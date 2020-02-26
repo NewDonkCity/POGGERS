@@ -104,6 +104,7 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -120,6 +121,7 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -136,6 +138,7 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -152,6 +155,7 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -168,10 +172,11 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
-	if (message_content.includes("party like it's 10 pm")) {
+	if (message_content.includes("party like it's 10")) {
 		Promise.all([
 			message.react('404196849017421824'),
 			message.react('653056076740165633'),
@@ -184,6 +189,24 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
+		])
+			.catch(() => console.error('One of the emojis failed to react.'));
+	}
+	if (message_content.includes("party like its 10")) {
+		Promise.all([
+			message.react('404196849017421824'),
+			message.react('653056076740165633'),
+			message.react('408092112748544001'),
+			message.react('636617752429199415'),
+			message.react('408084695109074944'),
+			message.react('408084677510037535'),
+			message.react('432801135288385536'),
+			message.react('404197167486730240'),
+			message.react('425793292932743169'),
+			message.react('404197234436079618'),
+			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -200,6 +223,7 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -216,6 +240,7 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -232,6 +257,7 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -248,6 +274,7 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -264,6 +291,7 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -280,6 +308,7 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
 	}
@@ -296,8 +325,63 @@ client.on('message', message => {
 			message.react('425793292932743169'),
 			message.react('404197234436079618'),
 			message.react('527614081369112578'),
+			message.react('681984948282064904'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
+	}
+	if (message_content.includes("gu huh")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("guh huh")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("gu-huh")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("guh-huh")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("guh uh")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("guh-uh")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("hey jeffery, fu")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("hey jeff, fu")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("hey jeffery fu")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("hey jeff fu")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("fuck you jeff")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("fuk you jeff")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("fuck u jeff")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("fuk u jeff")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("fuck you, jeff")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("fuk you, jeff")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("fuck u, jeff")) {
+		message.react('682040117527052359');
+	}
+	if (message_content.includes("fuk u, jeff")) {
+		message.react('682040117527052359');
 	}
 	if (message_content.includes("😍")) {
 		message.react('632997792150847515');
