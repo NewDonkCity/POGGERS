@@ -974,14 +974,6 @@ client.on('message', message => {
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
     	}
-    	if (message_content.includes("!allstar")) {
-		Promise.all([
-			message.react('682682112750780605'),
-			message.react('682682166622289954'),
-			message.react('682682177875476686'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
-    	}
 	if (message_content.includes("gu huh")) {
 		message.react('682035336255111175');
 	}
