@@ -285,8 +285,8 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 16) == 0) {
             		message.react('679834613350400099');
         	}
-    }
-    if (message_content.includes("dance riot")) {
+    	}
+    	if (message_content.includes("dance riot")) {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('404196849017421824');
         	}
@@ -916,6 +916,7 @@ client.on('message', message => {
         	if (face == 7) {
     			message.react('682711780874518528');
         	}
+	}
     	if (message_content.includes("loves me?")) {
         	var face = Math.floor(Math.random() * 8)
 		if (face == 0) {
@@ -930,6 +931,7 @@ client.on('message', message => {
         	if (face == 7) {
     			message.react('682711780874518528');
         	}
+	}
     	if (message_content.includes("dayattheraces")) {
 		Promise.all([
 			message.react('682698795686953011'),
