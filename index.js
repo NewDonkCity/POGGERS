@@ -4550,6 +4550,9 @@ client.on('message', message => {
 	if (message_content == "fantastic") {
 		message.react('637113890442051614');
 	}
+	if (message_content == "incredible") {
+		message.react('637113890442051614');
+	}
 	if (message_content == "neat.") {
 		message.react('414678363526135818');
 	}
@@ -4578,6 +4581,9 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content == "fantastic.") {
+		message.react('414678363526135818');
+	}
+	if (message_content == "incredible.") {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("lovely.")) {
@@ -4628,6 +4634,9 @@ client.on('message', message => {
 	if (message_content.includes("dope!")) {
 		message.react('637113890442051614');
 	}
+	if (message_content.includes("incredible!")) {
+		message.react('637113890442051614');
+	}
 	if (message_content.includes("you did great")) {
 		message.react('414678363526135818');
 	}
@@ -4644,6 +4653,9 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("you did lovely")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("you did incredible")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("awesome job")) {
@@ -4694,6 +4706,12 @@ client.on('message', message => {
 	if (message_content.includes("lovely job")) {
 		message.react('414678363526135818');
 	}
+	if (message_content.includes("incredible work")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("incredible job")) {
+		message.react('414678363526135818');
+	}
 	if (message_content.includes("thats fantastic")) {
 		message.react('414678363526135818');
 	}
@@ -4734,6 +4752,12 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("thats lovely")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("that's incredible")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thats incredible")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("banana slamma")) {
@@ -5042,6 +5066,18 @@ client.on('message', message => {
 	if (message_content.includes("shit bot")) {
 		message.react('632997792016629789');
 	}
+	if (message_content.includes("hate you bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("hate you pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("hate you, bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("hate you, pog")) {
+		message.react('632997792016629789');
+	}
 	if (message_content.includes("dumb pog")) {
 		message.react('632997792016629789');
 	}
@@ -5085,6 +5121,15 @@ client.on('message', message => {
 		message.react('632997792016629789');
 	}
 	if (message_content.includes("fuck you bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("screw pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("screw you pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("screw you bot")) {
 		message.react('632997792016629789');
 	}
 	if (message_content.includes("bot is dumb")) {
@@ -5157,6 +5202,12 @@ client.on('message', message => {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("amazing bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("incredible bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("incredible pog")) {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("bot rules")) {
