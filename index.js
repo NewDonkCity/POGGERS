@@ -10,13 +10,13 @@ client.on('message', message => {
 	if (message_content.includes("pog")) {
 		message.react('636662427596881931');
 		if (random.randint(1, 2) == 1) {
-            		message.react('317479698621792267');
+            	message.react('317479698621792267');
         	}
         	if (random.randint(1, 2) == 1) {
-            		message.react('632997784106172416');
+            	message.react('632997784106172416');
         	}
         	if (random.randint(1, 2) == 1) {
-            		message.react('637060284716154880');
+            	message.react('637060284716154880');
         	}
 	}
 	if (message_content.includes("oh baby a triple")) {
@@ -4983,3 +4983,5 @@ client.on('message', message => {
 		message.react('527614081369112578');
 	}
 });
+
+client.login(process.env.BOT_TOKEN);
