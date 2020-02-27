@@ -992,41 +992,59 @@ client.on('message', message => {
 	if (message_content.includes("guh-uh")) {
 		message.react('682035336255111175');
 	}
+	if (message_content.includes("praiseit")) {
+		message.react('681274847565053953');
+	}
+	if (message_content.includes("praise helix")) {
+		message.react('681274847565053953');
+	}
+	if (message_content.includes("lord helix")) {
+		message.react('681274847565053953');
+	}
+	if (message_content.includes("all hail")) {
+		message.react('681274847565053953');
+	}
+	if (message_content.includes("praise the sun")) {
+		message.react('681274847565053953');
+	}
+	if (message_content == "/jeff") {
+		message.react('682732150595780710');
+	}
 	if (message_content.includes("hey jeffery, fu")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("hey jeff, fu")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("hey jeffery fu")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("hey jeff fu")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("fuck you jeff")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("fuk you jeff")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("fuck u jeff")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("fuk u jeff")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("fuck you, jeff")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("fuk you, jeff")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("fuck u, jeff")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("fuk u, jeff")) {
-		message.react('682040117527052359');
+		message.react('682732150595780710');
 	}
 	if (message_content.includes("😍")) {
 		message.react('632997792150847515');
