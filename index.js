@@ -1,8 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-import random;
-
 client.once('ready', () => {
 	console.log('Ready!');
 });
@@ -10,518 +8,638 @@ client.once('ready', () => {
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
 	if (message_content.includes("pog")) {
-		Promise.all([
-			message.react('636662427596881931'),
-			if random.randint(1, 2) == 1:
-   				message.react('317479698621792267'),
-			if random.randint(1, 2) == 1:
-   				message.react('632997784106172416'),
-			if random.randint(1, 2) == 1:
-   				message.react('637060284716154880'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('636662427596881931');
+		if (random.randint(1, 2) == 1) {
+            message.react('317479698621792267');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('632997784106172416');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('637060284716154880');
+        }
 	}
 	if (message_content.includes("oh baby a triple")) {
-		Promise.all([
-			message.react('636662427596881931'),
-			if random.randint(1, 2) == 1:
-   				message.react('317479698621792267'),
-			if random.randint(1, 2) == 1:
-   				message.react('632997784106172416'),
-			if random.randint(1, 2) == 1:
-   				message.react('637060284716154880'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('636662427596881931');
+		if (random.randint(1, 2) == 1) {
+            message.react('317479698621792267');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('632997784106172416');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('637060284716154880');
+        }
 	}
 	if (message_content.includes("o baby a triple")) {
-		Promise.all([
-			message.react('636662427596881931'),
-			if random.randint(1, 2) == 1:
-   				message.react('317479698621792267'),
-			if random.randint(1, 2) == 1:
-   				message.react('632997784106172416'),
-			if random.randint(1, 2) == 1:
-   				message.react('637060284716154880'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('636662427596881931');
+		if (random.randint(1, 2) == 1) {
+            message.react('317479698621792267');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('632997784106172416');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('637060284716154880');
+        }
 	}
 	if (message_content.includes("oh baby, a triple")) {
-		Promise.all([
-			message.react('636662427596881931'),
-			if random.randint(1, 2) == 1:
-   				message.react('317479698621792267'),
-			if random.randint(1, 2) == 1:
-   				message.react('632997784106172416'),
-			if random.randint(1, 2) == 1:
-   				message.react('637060284716154880'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('636662427596881931');
+		if (random.randint(1, 2) == 1) {
+            message.react('317479698621792267');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('632997784106172416');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('637060284716154880');
+        }
 	}
 	if (message_content.includes("o baby a triple")) {
-		Promise.all([
-			message.react('636662427596881931'),
-			if random.randint(1, 2) == 1:
-   				message.react('317479698621792267'),
-			if random.randint(1, 2) == 1:
-   				message.react('632997784106172416'),
-			if random.randint(1, 2) == 1:
-   				message.react('637060284716154880'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('636662427596881931');
+		if (random.randint(1, 2) == 1) {
+            message.react('317479698621792267');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('632997784106172416');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('637060284716154880');
+        }
 	}
 	if (message_content.includes("more like stupei")) {
-		Promise.all([
-			message.react('636662427596881931'),
-			if random.randint(1, 2) == 1:
-   				message.react('317479698621792267'),
-			if random.randint(1, 2) == 1:
-   				message.react('632997784106172416'),
-			if random.randint(1, 2) == 1:
-   				message.react('637060284716154880'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('636662427596881931');
+		if (random.randint(1, 2) == 1) {
+            message.react('317479698621792267');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('632997784106172416');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('637060284716154880');
+        }
 	}
 	if (message_content.includes("more like, stupei")) {
-		Promise.all([
-			message.react('636662427596881931'),
-			if random.randint(1, 2) == 1:
-   				message.react('317479698621792267'),
-			if random.randint(1, 2) == 1:
-   				message.react('632997784106172416'),
-			if random.randint(1, 2) == 1:
-   				message.react('637060284716154880'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('636662427596881931');
+		if (random.randint(1, 2) == 1) {
+            message.react('317479698621792267');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('632997784106172416');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('637060284716154880');
+        }
 	}
 	if (message_content.includes("😎")) {
-		Promise.all([
-			message.react('284233977529630720'),
-			if random.randint(1, 2) == 1:
-   				message.react('316737384819589120'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('284233977529630720');
+        if (random.randint(1, 2) == 1) {
+            message.react('316737384819589120');
+        }
 	}
 	if (message_content.includes("it hurts to be this hip")) {
-		Promise.all([
-			message.react('284233977529630720'),
-			if random.randint(1, 2) == 1:
-   				message.react('316737384819589120'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('284233977529630720');
+        if (random.randint(1, 2) == 1) {
+            message.react('316737384819589120');
+        }
 	}
 	if (message_content.includes("coolcat")) {
-		Promise.all([
-			message.react('284233977529630720'),
-			if random.randint(1, 2) == 1:
-   				message.react('316737384819589120'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		message.react('284233977529630720');
+        if (random.randint(1, 2) == 1) {
+            message.react('316737384819589120');
+        }
 	}
 	if (message_content.includes("sourpls")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("pepepls")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("always smiling")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("dance riot")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("┌༼ຈل͜ຈ༽┘")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("party like it's 10")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("party like its 10")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("party rockers in the hou")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("party rock is in the hou")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("everybody dance now")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("everybody jam")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("oppa gangnam style")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("do the harlem shake")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("🦀")) {
-		Promise.all([
-			if random.randint(1, 2) == 1:
-   				message.react('404196849017421824'),
-			if random.randint(1, 2) == 1:
-   				message.react('653056076740165633'),
-			if random.randint(1, 2) == 1:
-   				message.react('408092112748544001'),
-			if random.randint(1, 2) == 1:
-   				message.react('636617752429199415'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084695109074944'),
-			if random.randint(1, 2) == 1:
-   				message.react('408084677510037535'),
-			if random.randint(1, 2) == 1:
-   				message.react('432801135288385536'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197167486730240'),
-			if random.randint(1, 2) == 1:
-   				message.react('425793292932743169'),
-			if random.randint(1, 2) == 1:
-   				message.react('404197234436079618'),
-			if random.randint(1, 2) == 1:
-   				message.react('527614081369112578'),
-			if random.randint(1, 2) == 1:
-   				message.react('681984948282064904'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
+		if (random.randint(1, 2) == 1) {
+            message.react('404196849017421824');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('653056076740165633');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408092112748544001');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('636617752429199415');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084695109074944');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('408084677510037535');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('432801135288385536');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197167486730240');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('425793292932743169');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('404197234436079618');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('527614081369112578');
+        }
+        if (random.randint(1, 2) == 1) {
+            message.react('681984948282064904');
+        }
 	}
 	if (message_content.includes("gu huh")) {
 		message.react('682035336255111175');
@@ -4865,5 +4983,3 @@ client.on('message', message => {
 		message.react('527614081369112578');
 	}
 });
-
-client.login(process.env.BOT_TOKEN);
