@@ -8,13 +8,13 @@ client.once('ready', () => {
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
 	if (Math.floor(Math.random() * 2048) == 0) {
-        	message.react('682681770398842911');
+        	message.react('682682112750780605');
         }
 	if (Math.floor(Math.random() * 4096) == 0) {
-        	message.react('682680884217905162');
+        	message.react('682682166622289954');
         }
 	if (Math.floor(Math.random() * 8192) == 0) {
-        	message.react('682680540553543730');
+        	message.react('682682177875476686');
         }
 	if (message_content.includes("pog")) {
 		message.react('636662427596881931');
@@ -903,14 +903,26 @@ client.on('message', message => {
         	}
 	}
     	if (message_content.includes("loves me...")) {
-        	var face = Math.floor(Math.random() * 8)
+        	var face = Math.floor(Math.random() * 8);
 		if (face == 0) {
     			message.react('682711729116938266');
         	}
-    		if (0 < face < 4) {
+    		if (face == 1) {
     			message.react('682711728756097042');
         	}
-        	if (3 < face < 7) {
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
     			message.react('682711728924262536');
         	}
         	if (face == 7) {
@@ -918,14 +930,26 @@ client.on('message', message => {
         	}
 	}
     	if (message_content.includes("loves me?")) {
-        	var face = Math.floor(Math.random() * 8)
+        	var face = Math.floor(Math.random() * 8);
 		if (face == 0) {
     			message.react('682711729116938266');
         	}
-    		if (0 < face < 4) {
+    		if (face == 1) {
     			message.react('682711728756097042');
         	}
-        	if (3 < face < 7) {
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
     			message.react('682711728924262536');
         	}
         	if (face == 7) {
@@ -952,9 +976,9 @@ client.on('message', message => {
     	}
     	if (message_content.includes("!allstar")) {
 		Promise.all([
-			message.react('682681770398842911'),
-			message.react('682680884217905162'),
-			message.react('682680540553543730'),
+			message.react('682682112750780605'),
+			message.react('682682166622289954'),
+			message.react('682682177875476686'),
 		])
 			.catch(() => console.error('One of the emojis failed to react.'));
     	}
