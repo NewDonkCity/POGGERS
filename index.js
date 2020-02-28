@@ -1052,7 +1052,7 @@ client.on('message', message => {
     			message.react('682711780874518528');
         	}
 	}
-    	if (message_content.includes("love me?")) {
+    	if (message_content.includes("love themselves?")) {
         	var face = Math.floor(Math.random() * 8);
 		if (face == 0) {
     			message.react('682711729116938266');
