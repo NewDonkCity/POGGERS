@@ -1052,6 +1052,249 @@ client.on('message', message => {
     			message.react('682711780874518528');
         	}
 	}
+    	if (message_content.includes("love me?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love everyone?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love everybody?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love anyone?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love anybody?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love each other?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love theirself?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love himself?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love herself?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
     	if (message_content.includes("dayattheraces")) {
 		Promise.all([
 			message.react('682698795686953011'),
