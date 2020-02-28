@@ -1499,6 +1499,9 @@ client.on('message', message => {
 	if (message_content.includes("yeehaw")) {
 		message.react('414972243131498510');
 	}
+	if (message_content.includes("yeha")) {
+		message.react('414972243131498510');
+	}
 	if (message_content.includes("what in tarnation")) {
 		message.react('414972243131498510');
 	}
@@ -4536,6 +4539,9 @@ client.on('message', message => {
 		message.react('322817712931733505');
 	}
 	if (message_content.includes("gross.")) {
+		message.react('322817712931733505');
+	}
+	if (message_content.includes("blech")) {
 		message.react('322817712931733505');
 	}
 	if (message_content.includes("gross!")) {
