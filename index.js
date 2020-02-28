@@ -1505,6 +1505,24 @@ client.on('message', message => {
 	if (message_content.includes("what in tarnation")) {
 		message.react('414972243131498510');
 	}
+	if (message_content.includes("poisoned the waterhole")) {
+		message.react('414972243131498510');
+	}
+	if (message_content.includes("poisoned the water hole")) {
+		message.react('414972243131498510');
+	}
+	if (message_content.includes("snake in my boot")) {
+		message.react('414972243131498510');
+	}
+	if (message_content.includes("my favorite deputy")) {
+		message.react('414972243131498510');
+	}
+	if (message_content.includes("my favourite deputy")) {
+		message.react('414972243131498510');
+	}
+	if (message_content.includes("s the sheriff")) {
+		message.react('414972243131498510');
+	}
 	if (message_content.includes("schüt")) {
 		message.react('414972243131498510');
 	}
@@ -6445,6 +6463,93 @@ client.on('message', message => {
 	}
 	if (message_content.includes("poggers 😘")) {
 		message.react('632997792150847515');
+	}
+	if (message_content.includes("arrr")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("arr ")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("arr.")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("arr!")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("ahoy")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("scurvy dog")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("e matey")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("swab the deck")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("land ho")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("anchors away")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("landlubber")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("walk the plank")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("steal booty")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("precious booty")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("cause a pirate is free")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("cuz a pirate is free")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("you are a pirate")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("yar ")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("yar.")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("yar!")) {
+		message.react('637114233330335745');
+	}
+	if (message_content == "yarr") {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("you wouldn't download a")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("you wouldnt download a")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("you wouldn't steal a")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("you wouldnt steal a")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("this is illegal you know")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("this is illegal, you know")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("stop all the downloadin")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("limewire")) {
+		message.react('637114233330335745');
 	}
 	if (message_content.includes("fortnite danc")) {
 		message.react('636617752429199415');
