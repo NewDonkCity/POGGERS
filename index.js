@@ -4295,16 +4295,22 @@ client.on('message', message => {
 	if (message_content.includes("da fuc")) {
 		message.react('282295242407936000');
 	}
-	if (message_content.includes("what the f")) {
+	if (message_content.includes("what the fu")) {
 		message.react('282295242407936000');
 	}
-	if (message_content.includes("what the h")) {
+	if (message_content.includes("what the fric")) {
 		message.react('282295242407936000');
 	}
-	if (message_content.includes("what to f")) {
+	if (message_content.includes("what the he")) {
 		message.react('282295242407936000');
 	}
-	if (message_content.includes("what to h")) {
+	if (message_content.includes("what to fu")) {
+		message.react('282295242407936000');
+	}
+	if (message_content.includes("what to fric")) {
+		message.react('282295242407936000');
+	}
+	if (message_content.includes("what to he")) {
 		message.react('282295242407936000');
 	}
 	if (message_content.includes("the fuck?")) {
@@ -5364,13 +5370,13 @@ client.on('message', message => {
 		message.react('653344834018344960');
 	}
 	if (message_content.includes("d'oh i missed")) {
-		message.react('681260211809419328');
+		message.react('681545564684288060');
 	}
 	if (message_content.includes("doh i missed")) {
-		message.react('681260211809419328');
+		message.react('681545564684288060');
 	}
 	if (message_content.includes("so ein mist")) {
-		message.react('681260211809419328');
+		message.react('681545564684288060');
 	}
 	if (message_content.includes("hello darkness my old friend")) {
 		message.react('650886937632309268');
