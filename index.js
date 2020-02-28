@@ -1184,6 +1184,12 @@ client.on('message', message => {
 	if (message_content.includes("dab ")) {
 		message.react('461662128861085707');
 	}
+	if (message_content.includes("dabs")) {
+		message.react('461662128861085707');
+	}
+	if (message_content.includes("dabb")) {
+		message.react('461662128861085707');
+	}
 	if (message_content.includes("kappa")) {
 		message.react('322952286328455169');
 	}
@@ -6191,43 +6197,10 @@ client.on('message', message => {
 	if (message_content.includes("poggers 😘")) {
 		message.react('632997792150847515');
 	}
-	if (message_content.includes("😍 bot")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("😍 pog")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("😍 you bot")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("😍 you pog")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("😍 you, bot")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("😍 you, pog")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("😍 this bot")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("😍 this pog")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("bot 😍")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("pog 😍")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("poggers 😍")) {
-		message.react('632997792150847515');
-	}
-	if (message_content.includes("fortnite dance")) {
+	if (message_content.includes("fortnite danc")) {
 		message.react('636617752429199415');
 	}
-	if (message_content.includes("default dance")) {
+	if (message_content.includes("default danc")) {
 		message.react('636617752429199415');
 	}
 	if (message_content.includes("speen")) {
