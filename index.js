@@ -2045,7 +2045,7 @@ client.on('message', message => {
 	if (message_content == "luls") {
 		message.react('323972935230685184');
 	}
-	if (message_content.includes("omegalul")) {
+	if (message_content.includes("alul")) {
 		message.react('323972935230685184');
 	}
 	if (message_content == "pft") {
@@ -2151,6 +2151,9 @@ client.on('message', message => {
 		message.react('323972935230685184');
 	}
 	if (message_content.includes("xdd")) {
+		message.react('323972935230685184');
+	}
+	if (message_content.includes("lulw")) {
 		message.react('323972935230685184');
 	}
 	if (message_content.includes("😄")) {
