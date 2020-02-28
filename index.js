@@ -1535,14 +1535,83 @@ client.on('message', message => {
 	if (message_content.includes("s^= ")) {
 		message.react('364308148313522177');
 	}
+	if (message_content == ":-/") {
+		message.react('364308148313522177');
+	}
+	if (message_content == "/-:") {
+		message.react('364308148313522177');
+	}
+	if (message_content == "=-/") {
+		message.react('364308148313522177');
+	}
+	if (message_content == "/-=") {
+		message.react('364308148313522177');
+	}
+	if (message_content == ":-|") {
+		message.react('364308148313522177');
+	}
+	if (message_content == "|-:") {
+		message.react('364308148313522177');
+	}
+	if (message_content == "=-|") {
+		message.react('364308148313522177');
+	}
+	if (message_content == "|-=") {
+		message.react('364308148313522177');
+	}
+	if (message_content == ":-s") {
+		message.react('364308148313522177');
+	}
+	if (message_content == "s-:") {
+		message.react('364308148313522177');
+	}
+	if (message_content == "=-s") {
+		message.react('364308148313522177');
+	}
+	if (message_content == "s-=") {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes(" :-/")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes("/-: ")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes(" =-/")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes("/-= ")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes(" :-|")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes("|-: ")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes(" =-|")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes("|-= ")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes(" :-s")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes("s-: ")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes(" =-s")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes("s-= ")) {
+		message.react('364308148313522177');
+	}
 	if (message_content.includes("ಠ")) {
 		message.react('231640439483138048');
 	}
-	if (message_content.includes("what did one wall")) {
-		message.react('647326428299395072');
-	}
 	if (message_content.includes("💀")) {
-		message.react('647326428299395072');
+		message.react('682824065789984773');
 	}
 	if (message_content.includes("😂")) {
 		message.react('323972935230685184');
@@ -1731,9 +1800,6 @@ client.on('message', message => {
 		message.react('323972935230685184');
 	}
 	if (message_content == "xd") {
-		message.react('323972935230685184');
-	}
-	if (message_content == "xdd") {
 		message.react('323972935230685184');
 	}
 	if (message_content == "lmao.") {
@@ -2000,7 +2066,109 @@ client.on('message', message => {
 	if (message_content.includes("<^= ")) {
 		message.react('282295903006621697');
 	}
+	if (message_content == "c-:") {
+		message.react('282295903006621697');
+	}
+	if (message_content == ":-3") {
+		message.react('282295903006621697');
+	}
+	if (message_content == ":->") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "<-:") {
+		message.react('282295903006621697');
+	}
+	if (message_content == ":-D") {
+		message.react('414701504143032331');
+	}
+	if (message_content == "D-:") {
+		message.react('282297846554951681');
+	}
+	if (message_content.includes(" :-D")) {
+		message.react('414701504143032331');
+	}
+	if (message_content.includes("D-: ")) {
+		message.react('282297846554951681');
+	}
+	if (message_content == "=-D") {
+		message.react('414701504143032331');
+	}
+	if (message_content == "D-=") {
+		message.react('282297846554951681');
+	}
+	if (message_content.includes(" =-D")) {
+		message.react('414701504143032331');
+	}
+	if (message_content.includes("D-= ")) {
+		message.react('282297846554951681');
+	}
+	if (message_content.includes("c-: ")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes(" :->")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes(" :-3")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes("<-: ")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes("c-;")) {
+		message.react('633443771895382068');
+	}
+	if (message_content.includes(";->")) {
+		message.react('633443771895382068');
+	}
+	if (message_content.includes(";-3")) {
+		message.react('633443771895382068');
+	}
+	if (message_content.includes("<-;")) {
+		message.react('633443771895382068');
+	}
+	if (message_content.includes(";-)")) {
+		message.react('633443771895382068');
+	}
+	if (message_content.includes("(-;")) {
+		message.react('633443771895382068');
+	}
+	if (message_content.includes(";-]")) {
+		message.react('633443771895382068');
+	}
+	if (message_content.includes("[-;")) {
+		message.react('633443771895382068');
+	}
+	if (message_content == "c-=") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "=-3") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "=->") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "<-=") {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes("c-= ")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes(" =->")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes(" =-3")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes("<-= ")) {
+		message.react('282295903006621697');
+	}
 	if (message_content == ("bedtime")) {
+		message.react('636669695013027841');
+	}
+	if (message_content == ("bedtime.")) {
+		message.react('636669695013027841');
+	}
+	if (message_content == ("bedtime!")) {
 		message.react('636669695013027841');
 	}
 	if (message_content.includes("🥱")) {
@@ -2108,10 +2276,16 @@ client.on('message', message => {
 	if (message_content.includes(">:^(")) {
 		message.react('317186770104221697');
 	}
+	if (message_content.includes(">:-(")) {
+		message.react('317186770104221697');
+	}
 	if (message_content.includes("):<")) {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes(")^:<")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes(")-:<")) {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes(">:(")) {
@@ -2120,10 +2294,16 @@ client.on('message', message => {
 	if (message_content.includes(">:^[")) {
 		message.react('317186770104221697');
 	}
+	if (message_content.includes(">:-[")) {
+		message.react('317186770104221697');
+	}
 	if (message_content.includes("]:<")) {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes("]^:<")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes("]-:<")) {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes(">:[")) {
@@ -2132,10 +2312,16 @@ client.on('message', message => {
 	if (message_content.includes(">:^/")) {
 		message.react('317186770104221697');
 	}
+	if (message_content.includes(">:-/")) {
+		message.react('317186770104221697');
+	}
 	if (message_content.includes("/:<")) {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes("/^:<")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes("/-:<")) {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes(">:/")) {
@@ -2144,10 +2330,16 @@ client.on('message', message => {
 	if (message_content.includes(">:^|")) {
 		message.react('317186770104221697');
 	}
+	if (message_content.includes(">:-|")) {
+		message.react('317186770104221697');
+	}
 	if (message_content.includes("|:<")) {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes("|^:<")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes("|-:<")) {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes(">:|")) {
@@ -2162,6 +2354,12 @@ client.on('message', message => {
 	if (message_content.includes(">=^(")) {
 		message.react('317186770104221697');
 	}
+	if (message_content.includes(">:-c")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes(">=-(")) {
+		message.react('317186770104221697');
+	}
 	if (message_content.includes(">=(")) {
 		message.react('317186770104221697');
 	}
@@ -2172,6 +2370,12 @@ client.on('message', message => {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes(">=^[")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes(")-=<")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes(">=-[")) {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes(">=[")) {
@@ -2186,6 +2390,12 @@ client.on('message', message => {
 	if (message_content.includes(">=^/")) {
 		message.react('317186770104221697');
 	}
+	if (message_content.includes("]-=<")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes(">=-/")) {
+		message.react('317186770104221697');
+	}
 	if (message_content.includes(">=/")) {
 		message.react('317186770104221697');
 	}
@@ -2198,6 +2408,12 @@ client.on('message', message => {
 	if (message_content.includes(">=^|")) {
 		message.react('317186770104221697');
 	}
+	if (message_content.includes("/-=<")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes(">=-|")) {
+		message.react('317186770104221697');
+	}
 	if (message_content.includes(">=|")) {
 		message.react('317186770104221697');
 	}
@@ -2205,6 +2421,9 @@ client.on('message', message => {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes("|^=<")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes("|-=<")) {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes("😡")) {
@@ -2276,47 +2495,110 @@ client.on('message', message => {
 	if (message_content == "[^=") {
 		message.react('282295903006621697');
 	}
+	if (message_content.includes(" :-)")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes("(-: ")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes(" =-)")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes("(-= ")) {
+		message.react('282295903006621697');
+	}
+	if (message_content == ":-)") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "(-:") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "=-)") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "(-=") {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes(" :-]")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes("[-: ")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes(" =-]")) {
+		message.react('282295903006621697');
+	}
+	if (message_content.includes("[-= ")) {
+		message.react('282295903006621697');
+	}
+	if (message_content == ":-]") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "[-:") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "=-]") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "[-=") {
+		message.react('282295903006621697');
+	}
 	if (message_content.includes("👁️")) {
 		message.react('635520561417551903');
 	}
 	if (message_content.includes("👀")) {
 		message.react('317479698621792267');
 	}
+	if (message_content.includes("blues")) {
+		message.react('682824065789984773');
+	}
+	if (message_content.includes("what did one wall")) {
+		message.react('682824065789984773');
+	}
+	if (message_content.includes("there go all my bones")) {
+		message.react('682824065789984773');
+	}
 	if (message_content.includes("life begins after school")) {
-		message.react('670156862921900042');
+		message.react('682823847535312906');
 	}
 	if (message_content.includes("gonna start at the mall today")) {
-		message.react('670156862921900042');
+		message.react('682823847535312906');
 	}
 	if (message_content.includes("🔥")) {
-		message.react('316752108437372928');
+		message.react('682823847480918031');
 	}
 	if (message_content.includes("gonna be lit")) {
-		message.react('316752108437372928');
+		message.react('682823847480918031');
 	}
 	if (message_content.includes("gonna be fire")) {
-		message.react('316752108437372928');
+		message.react('682823847480918031');
 	}
 	if (message_content.includes("shits lit")) {
-		message.react('316752108437372928');
+		message.react('682823847480918031');
 	}
 	if (message_content.includes("shit's fire")) {
-		message.react('316752108437372928');
+		message.react('682823847480918031');
 	}
 	if (message_content.includes("shit is fire")) {
-		message.react('316752108437372928');
+		message.react('682823847480918031');
 	}
 	if (message_content.includes("this is fire")) {
-		message.react('316752108437372928');
+		message.react('682823847480918031');
 	}
 	if (message_content.includes("that is fire")) {
-		message.react('316752108437372928');
+		message.react('682823847480918031');
 	}
 	if (message_content.includes("lit af")) {
-		message.react('316752108437372928');
+		message.react('682823847480918031');
 	}
 	if (message_content == "lit") {
-		message.react('316752108437372928');
+		message.react('682823847480918031');
+	}
+	if (message_content == "lit.") {
+		message.react('682823847480918031');
+	}
+	if (message_content == "lit!") {
+		message.react('682823847480918031');
 	}
 	if (message_content.includes("my bop")) {
 		message.react('316752108437372928');
@@ -2930,6 +3212,30 @@ client.on('message', message => {
 	if (message_content.includes("[^=<")) {
 		message.react('316737233279385600');
 	}
+	if (message_content.includes(">:-)")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes("(-:<")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes(">=-)")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes("(-=<")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes(">:-]")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes("[-:<")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes(">=-]")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes("[-=<")) {
+		message.react('316737233279385600');
+	}
 	if (message_content.includes(">:D")) {
 		message.react('316737233279385600');
 	}
@@ -3002,6 +3308,42 @@ client.on('message', message => {
 	if (message_content.includes("<^=<")) {
 		message.react('316737233279385600');
 	}
+	if (message_content.includes(">:-D")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes("D-:<")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes(">=-D")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes("D-=<")) {
+		message.react('317186770104221697');
+	}
+	if (message_content.includes("c-:<")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes(">:->")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes(">:-3")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes("<-:<")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes("c-=<")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes(">=->")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes(">=-3")) {
+		message.react('316737233279385600');
+	}
+	if (message_content.includes("<-=<")) {
+		message.react('316737233279385600');
+	}
 	if (message_content.includes("😬")) {
 		message.react('632997788527099925');
 	}
@@ -3066,6 +3408,9 @@ client.on('message', message => {
 		message.react('415972129650245635');
 	}
 	if (message_content == "ig") {
+		message.react('415972129650245635');
+	}
+	if (message_content == "ig.") {
 		message.react('415972129650245635');
 	}
 	if (message_content.includes("¯\_(ツ)_/¯")) {
@@ -3245,6 +3590,90 @@ client.on('message', message => {
 	if (message_content.includes(" =^c")) {
 		message.react('650886937632309268');
 	}
+	if (message_content == ":-c") {
+		message.react('650886937632309268');
+	}
+	if (message_content == "=-c") {
+		message.react('650886937632309268');
+	}
+	if (message_content == ":-(") {
+		message.react('650886937632309268');
+	}
+	if (message_content == "=-(") {
+		message.react('650886937632309268');
+	}
+	if (message_content == ")-:") {
+		message.react('650886937632309268');
+	}
+	if (message_content == ")-=") {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(" :-(")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(" =-(")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(")-: ")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(")-= ")) {
+		message.react('650886937632309268');
+	}
+	if (message_content == ":-<") {
+		message.react('650886937632309268');
+	}
+	if (message_content == "=-<") {
+		message.react('650886937632309268');
+	}
+	if (message_content == ">-:") {
+		message.react('650886937632309268');
+	}
+	if (message_content == ">-=") {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(" :-<")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(" =-<")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(">-: ")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(">-= ")) {
+		message.react('650886937632309268');
+	}
+	if (message_content == ":-[") {
+		message.react('650886937632309268');
+	}
+	if (message_content == "=-[") {
+		message.react('650886937632309268');
+	}
+	if (message_content == "]-:") {
+		message.react('650886937632309268');
+	}
+	if (message_content == "]-=") {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(" :-[")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(" =-[")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes("]-: ")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes("]-= ")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(" :-c")) {
+		message.react('650886937632309268');
+	}
+	if (message_content.includes(" =-c")) {
+		message.react('650886937632309268');
+	}
 	if (message_content.includes("='")) {
 		message.react('632997789378412554');
 	}
@@ -3378,6 +3807,84 @@ client.on('message', message => {
 		message.react('632997788673769513');
 	}
 	if (message_content == "=0") {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes(" o^:")) {
+		message.react('632997788673769513');
+	}
+	if (message_content == "o^:") {
+		message.react('632997788673769513');
+	}
+	if (message_content == ":^o") {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes(":^()")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("()^:")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("=^()")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("()^=")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("=^[]")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("[]^=")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("0^= ")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes(" =^0")) {
+		message.react('632997788673769513');
+	}
+	if (message_content == "0^=") {
+		message.react('632997788673769513');
+	}
+	if (message_content == "=^0") {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes(" o-:")) {
+		message.react('632997788673769513');
+	}
+	if (message_content == "o-:") {
+		message.react('632997788673769513');
+	}
+	if (message_content == ":-o") {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes(":-()")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("()-:")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("=-()")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("()-=")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("=-[]")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("[]-=")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes("0-= ")) {
+		message.react('632997788673769513');
+	}
+	if (message_content.includes(" =-0")) {
+		message.react('632997788673769513');
+	}
+	if (message_content == "0-=") {
+		message.react('632997788673769513');
+	}
+	if (message_content == "=-0") {
 		message.react('632997788673769513');
 	}
 	if (message_content.includes("omg")) {
@@ -3687,6 +4194,36 @@ client.on('message', message => {
 		message.react('414701504143032331');
 	}
 	if (message_content == "=p") {
+		message.react('414701504143032331');
+	}
+	if (message_content.includes(";^p")) {
+		message.react('653344834018344960');
+	}
+	if (message_content.includes(":^p ")) {
+		message.react('414701504143032331');
+	}
+	if (message_content.includes(" =^p")) {
+		message.react('414701504143032331');
+	}
+	if (message_content == ":^p") {
+		message.react('414701504143032331');
+	}
+	if (message_content == "=^p") {
+		message.react('414701504143032331');
+	}
+	if (message_content.includes(";-p")) {
+		message.react('653344834018344960');
+	}
+	if (message_content.includes(":-p ")) {
+		message.react('414701504143032331');
+	}
+	if (message_content.includes(" =-p")) {
+		message.react('414701504143032331');
+	}
+	if (message_content == ":-p") {
+		message.react('414701504143032331');
+	}
+	if (message_content == "=-p") {
 		message.react('414701504143032331');
 	}
 	if (message_content.includes("🤢")) {
@@ -5177,6 +5714,108 @@ client.on('message', message => {
 	if (message_content.includes("fuck you bot")) {
 		message.react('632997792016629789');
 	}
+	if (message_content.includes("fuck you, pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("fuck you, bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("🖕 bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("🖕 pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("🖕 you bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("🖕 you pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("🖕 you, bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("🖕 you, pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("🖕 this bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("🖕 this pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("bot 🖕")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("pog 🖕")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("poggers 🖕")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("pog go away")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("poggers go away")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("bot go away")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("pog screw off")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("poggers screw off")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("bot screw off")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("pog fuck off")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("poggers fuck off")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("bot fuck off")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("go away pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("go away bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("screw off pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("screw off bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("fuck off pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("fuck off bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("go away, pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("go away, bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("screw off, pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("screw off, bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("fuck off, pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("fuck off, bot")) {
+		message.react('632997792016629789');
+	}
 	if (message_content.includes("screw pog")) {
 		message.react('632997792016629789');
 	}
@@ -5409,6 +6048,138 @@ client.on('message', message => {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("bot, i love")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("❤️ bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("❤️ pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("❤️ you bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("❤️ you pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("❤️ you, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("❤️ you, pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("❤️ this bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("❤️ this pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot ❤️")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog ❤️")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers ❤️")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("♥️ bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("♥️ pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("♥️ you bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("♥️ you pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("♥️ you, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("♥️ you, pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("♥️ this bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("♥️ this pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot ♥️")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog ♥️")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers ♥️")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😘 bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😘 pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😘 you bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😘 you pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😘 you, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😘 you, pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😘 this bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😘 this pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot 😘")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog 😘")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers 😘")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😍 bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😍 pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😍 you bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😍 you pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😍 you, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😍 you, pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😍 this bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("😍 this pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot 😍")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog 😍")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers 😍")) {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("fortnite dance")) {
