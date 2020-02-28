@@ -3662,6 +3662,12 @@ client.on('message', message => {
 	if (message_content.includes("yike")) {
 		message.react('632997788527099925');
 	}
+	if (message_content.includes(" hahaa")) {
+		message.react('632997788527099925');
+	}
+	if (message_content == "hahaa") {
+		message.react('632997788527099925');
+	}
 	if (message_content.includes("😒")) {
 		message.react('364308148313522177');
 	}
