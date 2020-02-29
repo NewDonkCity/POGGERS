@@ -1427,6 +1427,9 @@ client.on('message', message => {
 	if (message_content.includes("dab ")) {
 		message.react('461662128861085707');
 	}
+	if (message_content.includes("*dab")) {
+		message.react('461662128861085707');
+	}
 	if (message_content.includes("dabs")) {
 		message.react('461662128861085707');
 	}
