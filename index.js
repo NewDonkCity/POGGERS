@@ -1658,6 +1658,9 @@ client.on('message', message => {
 	if (message_content.includes("i'll second th")) {
 		message.react('647326430010802185');
 	}
+	if (message_content.includes("i’ll second th")) {
+		message.react('647326430010802185');
+	}
 	if (message_content.includes("so much this")) {
 		message.react('647326430010802185');
 	}
@@ -1743,6 +1746,9 @@ client.on('message', message => {
 		message.react('364308148313522177');
 	}
 	if (message_content.includes("you know i'll win")) {
+		message.react('364308148313522177');
+	}
+	if (message_content.includes("you know i’ll win")) {
 		message.react('364308148313522177');
 	}
 	if (message_content.includes(" :/")) {
@@ -2570,6 +2576,12 @@ client.on('message', message => {
 	if (message_content.includes("m' lady")) {
 		message.react('633446681991708776');
 	}
+	if (message_content.includes("m’lady")) {
+		message.react('633446681991708776');
+	}
+	if (message_content.includes("m’ lady")) {
+		message.react('633446681991708776');
+	}
 	if (message_content.includes("😉")) {
 		message.react('633443771895382068');
 	}
@@ -2913,6 +2925,9 @@ client.on('message', message => {
 		message.react('682823847480918031');
 	}
 	if (message_content.includes("shit's fire")) {
+		message.react('682823847480918031');
+	}
+	if (message_content.includes("shit’s fire")) {
 		message.react('682823847480918031');
 	}
 	if (message_content.includes("shit is fire")) {
@@ -3296,7 +3311,16 @@ client.on('message', message => {
 	if (message_content.includes("g'morn")) {
 		message.react('425059856559636490');
 	}
+	if (message_content.includes("g’morn")) {
+		message.react('425059856559636490');
+	}
 	if (message_content.includes("gmorn")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g' morn")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g’ morn")) {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes("good morning")) {
@@ -3309,6 +3333,24 @@ client.on('message', message => {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes("g'afternoon")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g’day")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g’afternoon")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g' day")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g' afternoon")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g’ day")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g’ afternoon")) {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes(" gday")) {
@@ -3324,6 +3366,15 @@ client.on('message', message => {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes("g'evening")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g' evening")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g’evening")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("g’ evening")) {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes("gevening")) {
@@ -3354,6 +3405,9 @@ client.on('message', message => {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes("see y'all")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("see y’all")) {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes("cya ")) {
@@ -3387,6 +3441,9 @@ client.on('message', message => {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes("later y'all")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("later y’all")) {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes("later all")) {
@@ -4037,6 +4094,18 @@ client.on('message', message => {
 	if (message_content.includes("':")) {
 		message.react('632997789378412554');
 	}
+	if (message_content.includes("=’")) {
+		message.react('632997789378412554');
+	}
+	if (message_content.includes("’=")) {
+		message.react('632997789378412554');
+	}
+	if (message_content.includes(":’")) {
+		message.react('632997789378412554');
+	}
+	if (message_content.includes("’:")) {
+		message.react('632997789378412554');
+	}
 	if (message_content.includes("☹️")) {
 		message.react('650886937632309268');
 	}
@@ -4664,6 +4733,9 @@ client.on('message', message => {
 	if (message_content == "i'm down") {
 		message.react('414678363526135818');
 	}
+	if (message_content == "i’m down") {
+		message.react('414678363526135818');
+	}
 	if (message_content == "i am down") {
 		message.react('414678363526135818');
 	}
@@ -4671,6 +4743,9 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("i'm down ")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i’m down ")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("i am down ")) {
@@ -4682,7 +4757,7 @@ client.on('message', message => {
 	if (message_content.includes("i'm down.")) {
 		message.react('414678363526135818');
 	}
-	if (message_content.includes("i`m down.")) {
+	if (message_content.includes("i’m down.")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("i am down.")) {
@@ -4694,6 +4769,9 @@ client.on('message', message => {
 	if (message_content.includes("i'm down!")) {
 		message.react('414678363526135818');
 	}
+	if (message_content.includes("i’m down!")) {
+		message.react('414678363526135818');
+	}
 	if (message_content.includes("i am down!")) {
 		message.react('414678363526135818');
 	}
@@ -4703,19 +4781,58 @@ client.on('message', message => {
 	if (message_content.includes("i'm game")) {
 		message.react('414678363526135818');
 	}
+	if (message_content.includes("i’m game")) {
+		message.react('414678363526135818');
+	}
 	if (message_content.includes("i am game")) {
 		message.react('414678363526135818');
 	}
-	if (message_content.includes("i'm up")) {
+	if (message_content == "i'm up") {
 		message.react('414678363526135818');
 	}
-	if (message_content.includes("i`m up")) {
+	if (message_content == "i’m up") {
 		message.react('414678363526135818');
 	}
-	if (message_content.includes("im up")) {
+	if (message_content == "im up") {
 		message.react('414678363526135818');
 	}
-	if (message_content.includes("i am up")) {
+	if (message_content == "i am up") {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i'm up ")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i’m up ")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("im up ")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i am up ")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i'm up.")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i’m up.")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("im up.")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i am up.")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i'm up!")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i’m up!")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("im up!")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i am up!")) {
 		message.react('414678363526135818');
 	}
 	if (message_content == "ill play") {
@@ -4727,7 +4844,7 @@ client.on('message', message => {
 	if (message_content.includes("i'll play")) {
 		message.react('414678363526135818');
 	}
-	if (message_content.includes("i`ll play")) {
+	if (message_content.includes("i’ll play")) {
 		message.react('414678363526135818');
 	}
 	if (message_content == "ill join") {
@@ -4739,7 +4856,7 @@ client.on('message', message => {
 	if (message_content.includes("i'll join")) {
 		message.react('414678363526135818');
 	}
-	if (message_content.includes("i`ll join")) {
+	if (message_content.includes("i’ll join")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("i can join")) {
@@ -4769,7 +4886,7 @@ client.on('message', message => {
 	if (message_content.includes("i'll game")) {
 		message.react('414678363526135818');
 	}
-	if (message_content.includes("i`ll game")) {
+	if (message_content.includes("i’ll game")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("count me in")) {
@@ -4779,6 +4896,9 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("i'd be down")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("i’d be down")) {
 		message.react('414678363526135818');
 	}
 	if (message_content == "np") {
@@ -4797,6 +4917,9 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content == "gg's") {
+		message.react('414678363526135818');
+	}
+	if (message_content == "gg’s") {
 		message.react('414678363526135818');
 	}
 	if (message_content == "wp") {
@@ -4823,6 +4946,9 @@ client.on('message', message => {
 	if (message_content == "gg's.") {
 		message.react('414678363526135818');
 	}
+	if (message_content == "gg’s.") {
+		message.react('414678363526135818');
+	}
 	if (message_content == "np!") {
 		message.react('414678363526135818');
 	}
@@ -4842,6 +4968,12 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content == "gg's!") {
+		message.react('414678363526135818');
+	}
+	if (message_content == "gg's!") {
+		message.react('414678363526135818');
+	}
+	if (message_content == "gg’s!") {
 		message.react('414678363526135818');
 	}
 	if (message_content == "thanks") {
@@ -4928,6 +5060,9 @@ client.on('message', message => {
 	if (message_content.includes("thanks y'all")) {
 		message.react('414678363526135818');
 	}
+	if (message_content.includes("thanks y’all")) {
+		message.react('414678363526135818');
+	}
 	if (message_content.includes("thanks yall")) {
 		message.react('414678363526135818');
 	}
@@ -4955,13 +5090,7 @@ client.on('message', message => {
 	if (message_content.includes("yw ")) {
 		message.react('414678363526135818');
 	}
-	if (message_content.includes("you're welcome!")) {
-		message.react('414678363526135818');
-	}
-	if (message_content.includes("you're welcome.")) {
-		message.react('414678363526135818');
-	}
-	if (message_content.includes("you're welcome,")) {
+	if (message_content.includes("re welcome")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes(" gg")) {
@@ -5186,6 +5315,9 @@ client.on('message', message => {
 	if (message_content.includes("he'll ye")) {
 		message.react('637113890442051614');
 	}
+	if (message_content.includes("he’ll ye")) {
+		message.react('637113890442051614');
+	}
 	if (message_content.includes("ck yas")) {
 		message.react('637113890442051614');
 	}
@@ -5277,6 +5409,9 @@ client.on('message', message => {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes("aaaaa")) {
+		message.react('635515880540733452');
+	}
+	if (message_content.includes("i’m screaming")) {
 		message.react('635515880540733452');
 	}
 	if (message_content.includes("i'm screaming")) {
@@ -5384,6 +5519,9 @@ client.on('message', message => {
 	if (message_content.includes("it's a mystery")) {
 		message.react('282275968989659137');
 	}
+	if (message_content.includes("it’s a mystery")) {
+		message.react('282275968989659137');
+	}
 	if (message_content.includes("( ͡° ͜ʖ ͡°)")) {
 		message.react('281683061383626752');
 	}
@@ -5407,6 +5545,9 @@ client.on('message', message => {
 	}
 	if (message_content.includes("💋")) {
 		message.react('653344834018344960');
+	}
+	if (message_content.includes("d’oh i missed")) {
+		message.react('681545564684288060');
 	}
 	if (message_content.includes("d'oh i missed")) {
 		message.react('681545564684288060');
@@ -5439,6 +5580,9 @@ client.on('message', message => {
 		message.react('230128660580007937');
 	}
 	if (message_content.includes("hi i'm daisy")) {
+		message.react('230128660580007937');
+	}
+	if (message_content.includes("hi i’m daisy")) {
 		message.react('230128660580007937');
 	}
 	if (message_content.includes("bup")) {
@@ -5669,10 +5813,16 @@ client.on('message', message => {
 	if (message_content.includes("that's fantasic")) {
 		message.react('414678363526135818');
 	}
+	if (message_content.includes("that’s fantasic")) {
+		message.react('414678363526135818');
+	}
 	if (message_content.includes("thats rad")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("that's rad")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("that’s rad")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("thats awesome")) {
@@ -5681,10 +5831,16 @@ client.on('message', message => {
 	if (message_content.includes("that's awesome")) {
 		message.react('414678363526135818');
 	}
+	if (message_content.includes("that’s awesome")) {
+		message.react('414678363526135818');
+	}
 	if (message_content.includes("thats amazing")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("that's amazing")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("that’s amazing")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("thats wicked")) {
@@ -5693,19 +5849,31 @@ client.on('message', message => {
 	if (message_content.includes("that's wicked")) {
 		message.react('414678363526135818');
 	}
+	if (message_content.includes("that’s wicked")) {
+		message.react('414678363526135818');
+	}
 	if (message_content.includes("thats sweet")) {
 		message.react('637113890442051614');
 	}
 	if (message_content.includes("that's sweet")) {
 		message.react('637113890442051614');
 	}
+	if (message_content.includes("that’s sweet")) {
+		message.react('637113890442051614');
+	}
 	if (message_content.includes("that's lovely")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("that’s lovely")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("thats lovely")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("that's incredible")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("that’s incredible")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("thats incredible")) {
@@ -5717,10 +5885,7 @@ client.on('message', message => {
 	if (message_content.includes("so they're finally here")) {
 		message.react('281683061383626752');
 	}
-	if (message_content.includes("you're pretty good")) {
-		message.react('632997783065854003');
-	}
-	if (message_content.includes("youre pretty good")) {
+	if (message_content.includes("re pretty good")) {
 		message.react('632997783065854003');
 	}
 	if (message_content == "nice") {
@@ -5751,6 +5916,9 @@ client.on('message', message => {
 		message.react('342063809105625099');
 	}
 	if (message_content.includes("everybody cheat")) {
+		message.react('415041303718395932');
+	}
+	if (message_content.includes("next time i’ll cheat")) {
 		message.react('415041303718395932');
 	}
 	if (message_content.includes("next time i'll cheat")) {
@@ -5903,16 +6071,7 @@ client.on('message', message => {
 	if (message_content == "i'm in") {
 		message.react('284233977529630720');
 	}
-	if (message_content == "im in!") {
-		message.react('284233977529630720');
-	}
-	if (message_content == "i'm in!") {
-		message.react('284233977529630720');
-	}
-	if (message_content == "im in.") {
-		message.react('284233977529630720');
-	}
-	if (message_content == "i'm in.") {
+	if (message_content == "i’m in") {
 		message.react('284233977529630720');
 	}
 	if (message_content.includes("git gud")) {
@@ -5924,10 +6083,16 @@ client.on('message', message => {
 	if (message_content.includes("i'm in ")) {
 		message.react('284233977529630720');
 	}
+	if (message_content.includes("i’m in ")) {
+		message.react('284233977529630720');
+	}
 	if (message_content.includes("im in!")) {
 		message.react('284233977529630720');
 	}
 	if (message_content.includes("i'm in!")) {
+		message.react('284233977529630720');
+	}
+	if (message_content.includes("i’m in!")) {
 		message.react('284233977529630720');
 	}
 	if (message_content.includes("im in.")) {
@@ -5936,10 +6101,16 @@ client.on('message', message => {
 	if (message_content.includes("i'm in.")) {
 		message.react('284233977529630720');
 	}
+	if (message_content.includes("i’m in.")) {
+		message.react('284233977529630720');
+	}
 	if (message_content.includes("lets do this")) {
 		message.react('284233977529630720');
 	}
 	if (message_content.includes("let's do this")) {
+		message.react('284233977529630720');
+	}
+	if (message_content.includes("let’s do this")) {
 		message.react('284233977529630720');
 	}
 	if (message_content.includes("lets do that")) {
@@ -5948,19 +6119,34 @@ client.on('message', message => {
 	if (message_content.includes("let's do that")) {
 		message.react('284233977529630720');
 	}
+	if (message_content.includes("let’s do that")) {
+		message.react('284233977529630720');
+	}
 	if (message_content.includes("lets do it")) {
 		message.react('284233977529630720');
 	}
 	if (message_content.includes("let's do it")) {
 		message.react('284233977529630720');
 	}
+	if (message_content.includes("let’s do it")) {
+		message.react('284233977529630720');
+	}
 	if (message_content.includes("lets go!")) {
+		message.react('284233977529630720');
+	}
+	if (message_content.includes("lets goo")) {
 		message.react('284233977529630720');
 	}
 	if (message_content.includes("let's go!")) {
 		message.react('284233977529630720');
 	}
 	if (message_content.includes("let's goo")) {
+		message.react('636662427596881931');
+	}
+	if (message_content.includes("let’s go!")) {
+		message.react('284233977529630720');
+	}
+	if (message_content.includes("let’s goo")) {
 		message.react('636662427596881931');
 	}
 	if (message_content.includes("les goo")) {
@@ -6590,10 +6776,16 @@ client.on('message', message => {
 	if (message_content.includes("you wouldn't download a")) {
 		message.react('637114233330335745');
 	}
+	if (message_content.includes("you wouldn’t download a")) {
+		message.react('637114233330335745');
+	}
 	if (message_content.includes("you wouldnt download a")) {
 		message.react('637114233330335745');
 	}
 	if (message_content.includes("you wouldn't steal a")) {
+		message.react('637114233330335745');
+	}
+	if (message_content.includes("you wouldn’t steal a")) {
 		message.react('637114233330335745');
 	}
 	if (message_content.includes("you wouldnt steal a")) {
