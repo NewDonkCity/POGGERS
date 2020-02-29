@@ -2051,6 +2051,24 @@ client.on('message', message => {
 	if (message_content == "pft") {
 		message.react('282295903006621697');
 	}
+	if (message_content == "lulz.") {
+		message.react('323972935230685184');
+	}
+	if (message_content == "luls.") {
+		message.react('323972935230685184');
+	}
+	if (message_content == "pft.") {
+		message.react('282295903006621697');
+	}
+	if (message_content == "lulz!") {
+		message.react('323972935230685184');
+	}
+	if (message_content == "luls!") {
+		message.react('323972935230685184');
+	}
+	if (message_content == "pft!") {
+		message.react('282295903006621697');
+	}
 	if (message_content.includes("pff")) {
 		message.react('282295903006621697');
 	}
@@ -5766,6 +5784,9 @@ client.on('message', message => {
 		message.react('458023278234042399');
 	}
 	if (message_content.includes("monkas")) {
+		message.react('458023278234042399');
+	}
+	if (message_content.includes("ohno")) {
 		message.react('458023278234042399');
 	}
 	if (message_content.includes("oh no.")) {
