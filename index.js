@@ -3356,6 +3356,15 @@ client.on('message', message => {
 	if (message_content.includes("cya ")) {
 		message.react('425059856559636490');
 	}
+	if (message_content.includes("cya.")) {
+		message.react('425059856559636490');
+	}
+	if (message_content.includes("cya!")) {
+		message.react('425059856559636490');
+	}
+	if (message_content == "cya") {
+		message.react('425059856559636490');
+	}
 	if (message_content.includes("catch you later")) {
 		message.react('425059856559636490');
 	}
@@ -6143,10 +6152,16 @@ client.on('message', message => {
 	if (message_content.includes("screw off bot")) {
 		message.react('632997792016629789');
 	}
-	if (message_content.includes("fuck off pog")) {
+	if (message_content.includes("ck off pog")) {
 		message.react('632997792016629789');
 	}
-	if (message_content.includes("fuck off bot")) {
+	if (message_content.includes("ck off bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("cc off pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("cc off bot")) {
 		message.react('632997792016629789');
 	}
 	if (message_content.includes("go away, pog")) {
@@ -6161,10 +6176,16 @@ client.on('message', message => {
 	if (message_content.includes("screw off, bot")) {
 		message.react('632997792016629789');
 	}
-	if (message_content.includes("fuck off, pog")) {
+	if (message_content.includes("ck off, pog")) {
 		message.react('632997792016629789');
 	}
-	if (message_content.includes("fuck off, bot")) {
+	if (message_content.includes("ck off, bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("cc off, pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("cc off, bot")) {
 		message.react('632997792016629789');
 	}
 	if (message_content.includes("screw pog")) {
