@@ -7,13 +7,13 @@ client.once('ready', () => {
 
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
-	if (Math.floor(Math.random() * 2048) == 0) {
+	if (Math.floor(Math.random() * 4096) == 0) {
         	message.react('682682112750780605');
         }
-	if (Math.floor(Math.random() * 4096) == 0) {
+	if (Math.floor(Math.random() * 8192) == 0) {
         	message.react('682682166622289954');
         }
-	if (Math.floor(Math.random() * 8192) == 0) {
+	if (Math.floor(Math.random() * 16384) == 0) {
         	message.react('682682177875476686');
         }
 	if (message_content.includes("pog")) {
@@ -1586,6 +1586,24 @@ client.on('message', message => {
 	if (message_content == "this so much!") {
 		message.react('647326430010802185');
 	}
+	if (message_content == "facts") {
+		message.react('647326430010802185');
+	}
+	if (message_content == "facts.") {
+		message.react('647326430010802185');
+	}
+	if (message_content == "facts!") {
+		message.react('647326430010802185');
+	}
+	if (message_content == "true facts") {
+		message.react('647326430010802185');
+	}
+	if (message_content == "true facts.") {
+		message.react('647326430010802185');
+	}
+	if (message_content == "true facts!") {
+		message.react('647326430010802185');
+	}
 	if (message_content == "same") {
 		message.react('647326430010802185');
 	}
@@ -2057,6 +2075,9 @@ client.on('message', message => {
 	if (message_content.includes("alul")) {
 		message.react('323972935230685184');
 	}
+	if (message_content.includes("welcome to the star carnival")) {
+		message.react('323972935230685184');
+	}
 	if (message_content == "pft") {
 		message.react('282295903006621697');
 	}
@@ -2253,6 +2274,30 @@ client.on('message', message => {
 		message.react('647686065557340160');
 	}
 	if (message_content.includes("[: ")) {
+		message.react('647686065557340160');
+	}
+	if (message_content == ":)") {
+		message.react('647686065557340160');
+	}
+	if (message_content == "(:") {
+		message.react('647686065557340160');
+	}
+	if (message_content == ":]") {
+		message.react('647686065557340160');
+	}
+	if (message_content == "[:") {
+		message.react('647686065557340160');
+	}
+	if (message_content == "=)") {
+		message.react('647686065557340160');
+	}
+	if (message_content == "(=") {
+		message.react('647686065557340160');
+	}
+	if (message_content == "=]") {
+		message.react('647686065557340160');
+	}
+	if (message_content == "[=") {
 		message.react('647686065557340160');
 	}
 	if (message_content.includes(" c;")) {
