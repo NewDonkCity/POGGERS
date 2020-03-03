@@ -4448,9 +4448,6 @@ client.on('message', message => {
 	if (message_content.includes("my gawd")) {
 		message.react('632997788673769513');
 	}
-	if (message_content.includes("my goodness")) {
-		message.react('632997788673769513');
-	}
 	if (message_content.includes("my lawd")) {
 		message.react('632997788673769513');
 	}
@@ -6104,7 +6101,7 @@ client.on('message', message => {
 	if (message_content.includes("oh goodness")) {
 		message.react('458023278234042399');
 	}
-	if (message_content.includes("my goodness")) {
+	if (message_content.includes(" my goodness")) {
 		message.react('458023278234042399');
 	}
 	if (message_content.includes("oh lord")) {
