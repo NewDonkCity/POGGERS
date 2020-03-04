@@ -3260,7 +3260,7 @@ client.on('message', message => {
 	if (message_content == "yo") {
 		message.react('425059856559636490');
 	}
-	if (message_content.includes("sup ")) {
+	if (message_content.includes(" sup ")) {
 		message.react('425059856559636490');
 	}
 	if (message_content.includes("sssup")) {
@@ -6087,6 +6087,12 @@ client.on('message', message => {
 		message.react('458023278234042399');
 	}
 	if (message_content.includes("monkas")) {
+		message.react('458023278234042399');
+	}
+	if (message_content.includes("uh-oh")) {
+		message.react('458023278234042399');
+	}
+	if (message_content.includes("oh-no")) {
 		message.react('458023278234042399');
 	}
 	if (message_content.includes("ohno")) {
