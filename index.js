@@ -45,10 +45,10 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('317479698621792267');
         	}
-        	if (random.randint(1, 2) == 1) {
+        	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('632997784106172416');
         	}
-        	if (random.randint(1, 2) == 1) {
+        	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('637060284716154880');
         	}
 	}
@@ -64,14 +64,14 @@ client.on('message', message => {
             		message.react('637060284716154880');
         	}
 	}
-	if (message_content.includes("o baby a triple")) {
+	if (message_content.includes("o baby, a triple")) {
 		message.react('636662427596881931');
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('317479698621792267');
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('632997784106172416');
-        		}
+        	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('637060284716154880');
         	}
