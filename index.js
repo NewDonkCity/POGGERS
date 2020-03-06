@@ -5687,7 +5687,28 @@ client.on('message', message => {
 	if (message_content.includes("wahah")) {
 		message.react('230129083533623296');
 	}
+	if (message_content == "wa") {
+		message.react('316734055427211266');
+	}
+	if (message_content == "wah") {
+		message.react('316734055427211266');
+	}
+	if (message_content == "wa.") {
+		message.react('316734055427211266');
+	}
+	if (message_content.includes("wah.")) {
+		message.react('316734055427211266');
+	}
+	if (message_content.includes("wa!")) {
+		message.react('316734055427211266');
+	}
+	if (message_content.includes("wah!")) {
+		message.react('316734055427211266');
+	}
 	if (message_content.includes("waa")) {
+		message.react('316734055427211266');
+	}
+	if (message_content.includes("wahh")) {
 		message.react('316734055427211266');
 	}
 	if (message_content.includes("lousy")) {
