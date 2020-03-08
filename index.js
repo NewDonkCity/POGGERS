@@ -1647,10 +1647,10 @@ client.on('message', message => {
 		message.react('414972243131498510');
 	}
 	if (message_content.includes("banhammer")) {
-		message.react('414972243131498510');
+		message.react('685979653902434307');
 	}
 	if (message_content.includes("ban hammer")) {
-		message.react('414972243131498510');
+		message.react('685979653902434307');
 	}
 	if (message_content == "banned") {
 		message.react('414972243131498510');
