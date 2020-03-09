@@ -5729,6 +5729,15 @@ client.on('message', message => {
 	if (message_content.includes("hi i’m daisy")) {
 		message.react('230128660580007937');
 	}
+	if (message_content.includes("hi, im daisy")) {
+		message.react('230128660580007937');
+	}
+	if (message_content.includes("hi, i'm daisy")) {
+		message.react('230128660580007937');
+	}
+	if (message_content.includes("hi, i’m daisy")) {
+		message.react('230128660580007937');
+	}
 	if (message_content.includes("bup")) {
 		message.react('636662427596881931');
 	}
