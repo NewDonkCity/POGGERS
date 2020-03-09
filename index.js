@@ -6989,6 +6989,9 @@ client.on('message', message => {
 	if (message_content.includes("gregg rul")) {
 		message.react('527614081369112578');
 	}
+        if (message_content.includes("gotta be done")) {
+            	message.react('681984948282064904');
+        }
 });
 
 client.login(process.env.BOT_TOKEN);
