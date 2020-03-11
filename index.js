@@ -4250,6 +4250,9 @@ client.on('message', message => {
 	if (message_content.includes("😞")) {
 		message.react('650886937632309268');
 	}
+	if (message_content.includes("😟")) {
+		message.react('650886937632309268');
+	}
 	if (message_content.includes("feelsbadman")) {
 		message.react('650886937632309268');
 	}
