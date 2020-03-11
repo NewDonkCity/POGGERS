@@ -4706,6 +4706,9 @@ client.on('message', message => {
 	if (message_content.includes("failfish")) {
 		message.react('282292955761475584');
 	}
+	if (message_content.includes("🤦")) {
+		message.react('282292955761475584');
+	}
 	if (message_content.includes("notlikethis")) {
 		message.react('364306822330580993');
 	}
