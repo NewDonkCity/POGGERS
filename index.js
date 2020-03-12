@@ -334,6 +334,7 @@ client.on('message', message => {
 			message.react('682863062474293268');
         	}
     	}
+	if (message_content.includes("dance riot")) {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('404196849017421824');
         	}
