@@ -1931,6 +1931,33 @@ client.on('message', message => {
     			message.react('682711780874518528');
         	}
 	}
+    	if (message_content.includes("love themself?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
     	if (message_content.includes("love everyone?")) {
         	var face = Math.floor(Math.random() * 8);
 		if (face == 0) {
@@ -2093,6 +2120,33 @@ client.on('message', message => {
     			message.react('682711780874518528');
         	}
 	}
+    	if (message_content.includes("love theirselves?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
     	if (message_content.includes("love himself?")) {
         	var face = Math.floor(Math.random() * 8);
 		if (face == 0) {
@@ -2121,6 +2175,87 @@ client.on('message', message => {
         	}
 	}
     	if (message_content.includes("love herself?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love him?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love her?")) {
+        	var face = Math.floor(Math.random() * 8);
+		if (face == 0) {
+    			message.react('682711729116938266');
+        	}
+    		if (face == 1) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 2) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 3) {
+    			message.react('682711728756097042');
+        	}
+		if (face == 4) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 5) {
+    			message.react('682711728924262536');
+        	}
+		if (face == 6) {
+    			message.react('682711728924262536');
+        	}
+        	if (face == 7) {
+    			message.react('682711780874518528');
+        	}
+	}
+    	if (message_content.includes("love them?")) {
         	var face = Math.floor(Math.random() * 8);
 		if (face == 0) {
     			message.react('682711729116938266');
