@@ -2444,6 +2444,168 @@ client.on('message', message => {
 			message.react('682863062474293268');
         	}
 	}
+    	if (message_content.includes("s in the block")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
+    	if (message_content.includes("s in block ")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
+    	if (message_content.includes("s in the chest")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
+    	if (message_content.includes("s in chest ")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
+    	if (message_content.includes("fun wish")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
+    	if (message_content.includes("sad wish")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
     	if (message_content.includes("dayattheraces")) {
 		Promise.all([
 			message.react('682698795686953011'),
