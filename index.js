@@ -7266,6 +7266,15 @@ client.on('message', message => {
 	if (message_content.includes("loadsamon")) {
 		message.react('705437479741947956');
 	}
+	if (message_content.includes("cash money")) {
+		message.react('705437479741947956');
+	}
+	if (message_content.includes("fat stacks")) {
+		message.react('705437479741947956');
+	}
+	if (message_content.includes("bruh moment")) {
+		message.react('681365757115891725');
+	}
 	if (message_content == "bruh") {
 		message.react('681365757115891725');
 	}
