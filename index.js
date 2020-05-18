@@ -4158,13 +4158,19 @@ client.on('message', message => {
 	if (message_content.includes("praise helix")) {
 		message.react('681274847565053953');
 	}
+	if (message_content.includes("praise be ")) {
+		message.react('681274847565053953');
+	}
+	if (message_content.includes(" be praised")) {
+		message.react('681274847565053953');
+	}
 	if (message_content.includes("lord helix")) {
 		message.react('681274847565053953');
 	}
 	if (message_content.includes("all hail")) {
 		message.react('681274847565053953');
 	}
-	if (message_content.includes("praise the sun")) {
+	if (message_content.includes("praise the ")) {
 		message.react('681274847565053953');
 	}
 	if (message_content == "/jeff") {
@@ -9692,6 +9698,9 @@ client.on('message', message => {
 	}
 	if (message_content == "yarr") {
 		message.react('637114233330335745');
+	}
+	if (message_content == "cri") {
+		message.react('653327302222151704');
 	}
 	if (message_content.includes("you wouldn't download a")) {
 		message.react('637114233330335745');
