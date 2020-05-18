@@ -7480,10 +7480,10 @@ client.on('message', message => {
 		message.react('282292955761475584');
 	}
 	if (message_content.includes("notlikethis")) {
-		message.react('364306822330580993');
+		message.react('705615104577896541');
 	}
 	if (message_content.includes("pepehands")) {
-		message.react('364306822330580993');
+		message.react('705615104577896541');
 	}
 	if (message_content.includes("s a mistake")) {
 		message.react('282292955761475584');
