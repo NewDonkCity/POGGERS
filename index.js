@@ -103,7 +103,7 @@ client.on('message', message => {
 	if (message_content.includes("😎")) {
 		message.react('284233977529630720');
         	if (Math.floor(Math.random() * 2) == 0) {
-            	message.react('316737384819589120');
+            		message.react('316737384819589120');
         	}
 	}
 	if (message_content.includes("it hurts to be this hip")) {
@@ -120,7 +120,7 @@ client.on('message', message => {
 	}
 	if (message_content.includes("behiii")) {
 		if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('687678432045170689>');
+            		message.react('687678432045170689');
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('690264598821077025');
@@ -194,7 +194,7 @@ client.on('message', message => {
 	}
 	if (message_content.includes("rock riot")) {
 		if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('687678432045170689>');
+            		message.react('687678432045170689');
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('690264598821077025');
@@ -268,7 +268,7 @@ client.on('message', message => {
 	}
 	if (message_content.includes("roll riot")) {
 		if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('687678432045170689>');
+            		message.react('687678432045170689');
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('690264598821077025');
@@ -342,7 +342,7 @@ client.on('message', message => {
 	}
 	if (message_content.includes("speed riot")) {
 		if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('687678432045170689>');
+            		message.react('687678432045170689');
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('690264598821077025');
@@ -416,7 +416,7 @@ client.on('message', message => {
 	}
 	if (message_content.includes("metal riot")) {
 		if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('687678432045170689>');
+            		message.react('687678432045170689');
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('690264598821077025');
@@ -490,7 +490,7 @@ client.on('message', message => {
 	}
 	if (message_content.includes("core riot")) {
 		if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('687678432045170689>');
+            		message.react('687678432045170689');
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('690264598821077025');
@@ -564,7 +564,7 @@ client.on('message', message => {
 	}
 	if (message_content.includes("floooo")) {
 		if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('687678432045170689>');
+            		message.react('687678432045170689');
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('690264598821077025');
@@ -3697,6 +3697,33 @@ client.on('message', message => {
         	}
 	}
     	if (message_content.includes("s in the left")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
+    	if (message_content.includes("s in the middle")) {
 		var face2 = Math.floor(Math.random() * 8);
 		if (face2 == 0) {
     			message.react('687668560193126428');
