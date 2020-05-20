@@ -7281,6 +7281,9 @@ client.on('message', message => {
 	if (message_content.includes("🚶")) {
 		message.react('705616076519768124');
 	}
+	if (message_content.includes("a head out")) {
+		message.react('705616076519768124');
+	}
 	if (message_content.includes("holla get dolla")) {
 		message.react('705437479741947956');
 	}
