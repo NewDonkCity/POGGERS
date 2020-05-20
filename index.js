@@ -7,13 +7,13 @@ client.once('ready', () => {
 
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
-	if (Math.floor(Math.random() * 4096) == 0) {
+	if (Math.floor(Math.random() * 4096) == 4095) {
         	message.react('682682112750780605');
         }
-	if (Math.floor(Math.random() * 8192) == 0) {
+	if (Math.floor(Math.random() * 8192) == 8191) {
         	message.react('682682166622289954');
         }
-	if (Math.floor(Math.random() * 16384) == 0) {
+	if (Math.floor(Math.random() * 16384) == 16383) {
         	message.react('682682177875476686');
         }
 	if (message_content.includes("pog")) {
@@ -27,6 +27,15 @@ client.on('message', message => {
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('637060284716154880');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460914044945');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460872233031');
+        	}
+		if (Math.floor(Math.random() * 4) == 0) {
+            		message.react('705437489271275550');
+        	}
 	}
 	if (message_content.includes("oh baby a triple")) {
 		message.react('636662427596881931');
@@ -38,6 +47,15 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('637060284716154880');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460914044945');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460872233031');
+        	}
+		if (Math.floor(Math.random() * 4) == 0) {
+            		message.react('705437489271275550');
         	}
 	}
 	if (message_content.includes("o baby a triple")) {
@@ -51,6 +69,15 @@ client.on('message', message => {
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('637060284716154880');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460914044945');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460872233031');
+        	}
+		if (Math.floor(Math.random() * 4) == 0) {
+            		message.react('705437489271275550');
+        	}
 	}
 	if (message_content.includes("oh baby, a triple")) {
 		message.react('636662427596881931');
@@ -62,6 +89,15 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('637060284716154880');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460914044945');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460872233031');
+        	}
+		if (Math.floor(Math.random() * 4) == 0) {
+            		message.react('705437489271275550');
         	}
 	}
 	if (message_content.includes("o baby, a triple")) {
@@ -75,6 +111,15 @@ client.on('message', message => {
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('637060284716154880');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460914044945');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460872233031');
+        	}
+		if (Math.floor(Math.random() * 4) == 0) {
+            		message.react('705437489271275550');
+        	}
 	}
 	if (message_content.includes("more like stupei")) {
 		message.react('636662427596881931');
@@ -87,6 +132,15 @@ client.on('message', message => {
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('637060284716154880');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460914044945');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460872233031');
+        	}
+		if (Math.floor(Math.random() * 4) == 0) {
+            		message.react('705437489271275550');
+        	}
 	}
 	if (message_content.includes("more like, stupei")) {
 		message.react('636662427596881931');
@@ -98,6 +152,15 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('637060284716154880');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460914044945');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717460872233031');
+        	}
+		if (Math.floor(Math.random() * 4) == 0) {
+            		message.react('705437489271275550');
         	}
 	}
 	if (message_content.includes("😎")) {
@@ -4267,28 +4330,259 @@ client.on('message', message => {
 		message.react('632997792150847515');
 	}
 	if (message_content == "dab") {
-		message.react('461662128861085707');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('461662128861085707');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('513546423988387860');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717461446721676');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717456287989811');
+        	}
+        	if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('712717460989542441');
+        	}
+		var face2 = Math.floor(Math.random() * 6);
+		if (face2 == 0) {
+    			message.react('635520696289853441');
+        	}
+    		if (face2 == 1) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 2) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 3) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 4) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 5) {
+    			message.react('690616753541087242');
+        	}
 	}
 	if (message_content.includes("urgh")) {
 		message.react('266840621149454348');
 	}
 	if (message_content.includes("zoomer")) {
-		message.react('461662128861085707');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('461662128861085707');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('513546423988387860');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717461446721676');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717456287989811');
+        	}
+        	if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('712717460989542441');
+        	}
+		var face2 = Math.floor(Math.random() * 6);
+		if (face2 == 0) {
+    			message.react('635520696289853441');
+        	}
+    		if (face2 == 1) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 2) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 3) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 4) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 5) {
+    			message.react('690616753541087242');
+        	}
 	}
 	if (message_content.includes(" dab")) {
-		message.react('461662128861085707');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('461662128861085707');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('513546423988387860');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717461446721676');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717456287989811');
+        	}
+        	if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('712717460989542441');
+        	}
+		var face2 = Math.floor(Math.random() * 6);
+		if (face2 == 0) {
+    			message.react('635520696289853441');
+        	}
+    		if (face2 == 1) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 2) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 3) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 4) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 5) {
+    			message.react('690616753541087242');
+        	}
 	}
 	if (message_content.includes("dab ")) {
-		message.react('461662128861085707');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('461662128861085707');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('513546423988387860');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717461446721676');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717456287989811');
+        	}
+        	if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('712717460989542441');
+        	}
+		var face2 = Math.floor(Math.random() * 6);
+		if (face2 == 0) {
+    			message.react('635520696289853441');
+        	}
+    		if (face2 == 1) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 2) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 3) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 4) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 5) {
+    			message.react('690616753541087242');
+        	}
 	}
 	if (message_content.includes("*dab")) {
-		message.react('461662128861085707');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('461662128861085707');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('513546423988387860');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717461446721676');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717456287989811');
+        	}
+        	if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('712717460989542441');
+        	}
+		var face2 = Math.floor(Math.random() * 6);
+		if (face2 == 0) {
+    			message.react('635520696289853441');
+        	}
+    		if (face2 == 1) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 2) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 3) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 4) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 5) {
+    			message.react('690616753541087242');
+        	}
 	}
 	if (message_content.includes("dabs")) {
-		message.react('461662128861085707');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('461662128861085707');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('513546423988387860');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717461446721676');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717456287989811');
+        	}
+        	if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('712717460989542441');
+        	}
+		var face2 = Math.floor(Math.random() * 6);
+		if (face2 == 0) {
+    			message.react('635520696289853441');
+        	}
+    		if (face2 == 1) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 2) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 3) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 4) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 5) {
+    			message.react('690616753541087242');
+        	}
 	}
 	if (message_content.includes("dabb")) {
-		message.react('461662128861085707');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('461662128861085707');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('513546423988387860');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717461446721676');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('712717456287989811');
+        	}
+        	if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('712717460989542441');
+        	}
+		var face2 = Math.floor(Math.random() * 6);
+		if (face2 == 0) {
+    			message.react('635520696289853441');
+        	}
+    		if (face2 == 1) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 2) {
+    			message.react('635520696289853441');
+        	}
+		if (face2 == 3) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 4) {
+    			message.react('425793292932743169');
+        	}
+		if (face2 == 5) {
+    			message.react('690616753541087242');
+        	}
 	}
 	if (message_content.includes("kappa")) {
 		message.react('322952286328455169');
