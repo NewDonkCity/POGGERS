@@ -7675,7 +7675,7 @@ client.on('message', message => {
 		message.react('282295242407936000');
 	}
 	if (message_content.includes("squad laugh")) {
-		message.react('705635584076414978');
+		message.react('713265408899285072');
 	}
 	if (message_content.includes("🚶")) {
 		message.react('705616076519768124');
