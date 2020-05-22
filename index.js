@@ -4427,7 +4427,7 @@ client.on('message', message => {
             		message.react('712717456287989811');
         	}
         	if (Math.floor(Math.random() * 8) == 0) {
-            		message.react('713238153728622632');
+            		message.react('713247287177904139');
         	}
 		var face2 = Math.floor(Math.random() * 6);
 		if (face2 == 0) {
@@ -4466,7 +4466,7 @@ client.on('message', message => {
             		message.react('712717456287989811');
         	}
         	if (Math.floor(Math.random() * 8) == 0) {
-            		message.react('713238153728622632');
+            		message.react('713247287177904139');
         	}
 		var face2 = Math.floor(Math.random() * 6);
 		if (face2 == 0) {
@@ -4502,7 +4502,7 @@ client.on('message', message => {
             		message.react('712717456287989811');
         	}
         	if (Math.floor(Math.random() * 8) == 0) {
-            		message.react('713238153728622632');
+            		message.react('713247287177904139');
         	}
 		var face2 = Math.floor(Math.random() * 6);
 		if (face2 == 0) {
@@ -4538,7 +4538,7 @@ client.on('message', message => {
             		message.react('712717456287989811');
         	}
         	if (Math.floor(Math.random() * 8) == 0) {
-            		message.react('713238153728622632');
+            		message.react('713247287177904139');
         	}
 		var face2 = Math.floor(Math.random() * 6);
 		if (face2 == 0) {
@@ -4574,7 +4574,7 @@ client.on('message', message => {
             		message.react('712717456287989811');
         	}
         	if (Math.floor(Math.random() * 8) == 0) {
-            		message.react('713238153728622632');
+            		message.react('713247287177904139');
         	}
 		var face2 = Math.floor(Math.random() * 6);
 		if (face2 == 0) {
@@ -4610,7 +4610,7 @@ client.on('message', message => {
             		message.react('712717456287989811');
         	}
         	if (Math.floor(Math.random() * 8) == 0) {
-            		message.react('713238153728622632');
+            		message.react('713247287177904139');
         	}
 		var face2 = Math.floor(Math.random() * 6);
 		if (face2 == 0) {
@@ -4646,7 +4646,7 @@ client.on('message', message => {
             		message.react('712717456287989811');
         	}
         	if (Math.floor(Math.random() * 8) == 0) {
-            		message.react('713238153728622632');
+            		message.react('713247287177904139');
         	}
 		var face2 = Math.floor(Math.random() * 6);
 		if (face2 == 0) {
