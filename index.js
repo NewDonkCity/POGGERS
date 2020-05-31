@@ -7,13 +7,13 @@ client.once('ready', () => {
 
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
-	if (Math.floor(Math.random() * 4096) == 4095) {
+	if (Math.floor(Math.random() * 8192) == 8191) {
         	message.react('682682112750780605');
         }
-	if (Math.floor(Math.random() * 8192) == 8191) {
+	if (Math.floor(Math.random() * 16384) == 16383) {
         	message.react('682682166622289954');
         }
-	if (Math.floor(Math.random() * 16384) == 16383) {
+	if (Math.floor(Math.random() * 32768) == 32767) {
         	message.react('682682177875476686');
         }
 	if (message_content.includes("pog")) {
@@ -8511,6 +8511,9 @@ client.on('message', message => {
 	if (message_content == "owo") {
 		message.react('681392742630555755');
 	}
+	if (message_content == "ovo") {
+		message.react('713213661077962822');
+	}
 	if (message_content == "uvu") {
 		message.react('681392742630555755');
 	}
@@ -8560,10 +8563,19 @@ client.on('message', message => {
 		message.react('647686065557340160');
 	}
 	if (message_content.includes("ovo ")) {
-		message.react('681392742630555755');
+		message.react('713213661077962822');
 	}
 	if (message_content.includes(" ovo")) {
-		message.react('681392742630555755');
+		message.react('713213661077962822');
+	}
+	if (message_content.includes("^v^")) {
+		message.react('713213662210293870');
+	}
+	if (message_content.includes("-v-")) {
+		message.react('713213662210293870');
+	}
+	if (message_content.includes("ᵔvᵔ")) {
+		message.react('713213662210293870');
 	}
 	if (message_content.includes("0w0")) {
 		message.react('681392742630555755');
@@ -8572,7 +8584,7 @@ client.on('message', message => {
 		message.react('681392742630555755');
 	}
 	if (message_content.includes("0v0")) {
-		message.react('681392742630555755');
+		message.react('713213661077962822');
 	}
 	if (message_content.includes(">.<")) {
 		message.react('632997788527099925');
