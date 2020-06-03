@@ -7182,6 +7182,12 @@ client.on('message', message => {
 	if (message_content.includes("ᵔwᵔ")) {
 		message.react('230128660580007937');
 	}
+	if (message_content.includes("w o k e")) {
+		message.react('705643524804050945');
+	}
+	if (message_content.includes("a s c e n")) {
+		message.react('705643524804050945');
+	}
 	if (message_content.includes("🤷")) {
 		message.react('415972129650245635');
 	}
@@ -8977,22 +8983,22 @@ client.on('message', message => {
 		message.react('635515880540733452');
 	}
 	if (message_content.includes("reeeee")) {
-		message.react('635515880540733452');
+		message.react('705643524804050945');
 	}
 	if (message_content.includes("rules of nature")) {
 		message.react('635515880540733452');
 	}
 	if (message_content == "reee") {
-		message.react('635515880540733452');
+		message.react('705643524804050945');
 	}
 	if (message_content == "ree") {
-		message.react('635515880540733452');
+		message.react('705643524804050945');
 	}
 	if (message_content == "reee!") {
-		message.react('635515880540733452');
+		message.react('705643524804050945');
 	}
 	if (message_content == "ree!") {
-		message.react('635515880540733452');
+		message.react('705643524804050945');
 	}
 	if (message_content.includes("°□°")) {
 		message.react('635515880540733452');
