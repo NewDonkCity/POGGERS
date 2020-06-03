@@ -4770,6 +4770,12 @@ client.on('message', message => {
 	if (message_content.includes("save the animals")) {
 		message.react('562479226331070504');
 	}
+	if (message_content.includes("stonk")) {
+		message.react('316737384819589120');
+	}
+	if (message_content.includes("s t o n k")) {
+		message.react('316737384819589120');
+	}
 	if (message_content.includes("🙃")) {
 		message.react('322952286328455169');
 	}
@@ -6919,6 +6925,12 @@ client.on('message', message => {
 		message.react('633061548298076200');
 	}
 	if (message_content.includes("💪")) {
+		message.react('632997781157707786');
+	}
+	if (message_content.includes("stronk")) {
+		message.react('632997781157707786');
+	}
+	if (message_content.includes("s t r o n k")) {
 		message.react('632997781157707786');
 	}
 	if (message_content.includes("🤔")) {
