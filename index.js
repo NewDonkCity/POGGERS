@@ -9765,6 +9765,21 @@ client.on('message', message => {
 	if (message_content.includes("all toasters toast toast")) {
 		message.react('713442429826498561');
 	}
+	if (message_content.includes("all toasters, toast toast")) {
+		message.react('713442429826498561');
+	}
+	if (message_content.includes("they pinch back")) {
+		message.react('713442429826498561');
+	}
+	if (message_content.includes("s been one of those days")) {
+		message.react('713442429826498561');
+	}
+	if (message_content.includes("where there's smoke")) {
+		message.react('713442429826498561');
+	}
+	if (message_content.includes("where theres smoke")) {
+		message.react('713442429826498561');
+	}
 	if (message_content.includes("high five")) {
 		message.react('713213661941989416');
 	}
