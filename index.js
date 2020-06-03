@@ -9465,6 +9465,9 @@ client.on('message', message => {
 	if (message_content.includes("re pretty good")) {
 		message.react('632997783065854003');
 	}
+	if (message_content.includes("noice")) {
+		message.react('632997783065854003');
+	}
 	if (message_content == "nice") {
 		message.react('632997783065854003');
 	}
