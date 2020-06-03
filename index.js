@@ -8626,7 +8626,22 @@ client.on('message', message => {
         	}
 	}
 	if (message_content.includes("uwu")) {
-		message.react('681392742630555755');
+		var face = Math.floor(Math.random() * 5);
+		if (face == 0) {
+    			message.react('637114232651120647');
+        	}
+		if (face == 1) {
+    			message.react('681392742630555755');
+        	}
+		if (face == 2) {
+    			message.react('681392742630555755');
+        	}
+		if (face == 3) {
+    			message.react('681392742630555755');
+        	}
+		if (face == 4) {
+    			message.react('713213657953075264');
+        	}
 	}
 	if (message_content.includes("uvu ")) {
 		message.react('713213662210293870');
