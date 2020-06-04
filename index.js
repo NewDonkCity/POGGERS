@@ -9813,7 +9813,16 @@ client.on('message', message => {
 	if (message_content.includes("hi-5")) {
 		message.react('713213661941989416');
 	}
-	if (message_content.includes(" a hug")) {
+	if (message_content.includes(" a hug.")) {
+		message.react('713590575672066100');
+	}
+	if (message_content.includes(" a hug?")) {
+		message.react('713590575672066100');
+	}
+	if (message_content.includes(" a hug!")) {
+		message.react('713590575672066100');
+	}
+	if (message_content.includes(" a hug ")) {
 		message.react('713590575672066100');
 	}
 	if (message_content.includes("gotta go")) {
