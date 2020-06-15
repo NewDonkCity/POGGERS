@@ -8566,28 +8566,31 @@ client.on('message', message => {
 		message.react('282295242407936000');
 	}
 	if (message_content.includes("eff the cops")) {
-		message.react('713213657953075264');
+		message.react('721934878081286194');
 	}
 	if (message_content.includes("eff the police")) {
-		message.react('713213657953075264');
+		message.react('721934878081286194');
 	}
 	if (message_content.includes("witchdagg")) {
-		message.react('713213657953075264');
+		message.react('721934878081286194');
+	}
+	if (message_content.includes("witch dagg")) {
+		message.react('721934878081286194');
 	}
 	if (message_content.includes("maeday")) {
-		message.react('713213657953075264');
+		message.react('721934878081286194');
 	}
 	if (message_content.includes("mae-day")) {
-		message.react('713213657953075264');
+		message.react('721934878081286194');
 	}
 	if (message_content.includes("mae day")) {
-		message.react('713213657953075264');
+		message.react('721934878081286194');
 	}
 	if (message_content.includes("nightmare eyes")) {
-		message.react('713213657953075264');
+		message.react('721934878081286194');
 	}
 	if (message_content.includes("die anywhere else")) {
-		message.react('713213657953075264');
+		message.react('721934878081286194');
 	}
 	if (message_content == "owo") {
 		var face = Math.floor(Math.random() * 5);
@@ -8634,7 +8637,7 @@ client.on('message', message => {
     			message.react('681392742630555755');
         	}
 		if (face == 4) {
-    			message.react('713213657953075264');
+    			message.react('721934878081286194');
         	}
 	}
 	if (message_content.includes("uwu")) {
@@ -8652,7 +8655,7 @@ client.on('message', message => {
     			message.react('681392742630555755');
         	}
 		if (face == 4) {
-    			message.react('713213657953075264');
+    			message.react('721934878081286194');
         	}
 	}
 	if (message_content.includes("uvu ")) {
@@ -8697,35 +8700,32 @@ client.on('message', message => {
     			message.react('681392742630555755');
         	}
 		if (face == 4) {
-    			message.react('713213657953075264');
+    			message.react('721934878081286194');
         	}
 	}
 	if (message_content.includes("o3o")) {
 		message.react('647686065557340160');
 	}
 	if (message_content.includes("ovo ")) {
-		message.react('713213661077962822');
+		message.react('721934874226851891');
 	}
 	if (message_content.includes(" ovo")) {
-		message.react('713213661077962822');
+		message.react('721934874226851891');
 	}
 	if (message_content.includes("^v^")) {
-		message.react('713213662210293870');
+		message.react('721934874826768414');
 	}
 	if (message_content.includes("-v-")) {
-		message.react('713213662210293870');
+		message.react('721934874826768414');
 	}
 	if (message_content.includes("ᵔvᵔ")) {
-		message.react('713213662210293870');
+		message.react('721934874826768414');
 	}
 	if (message_content.includes("0w0")) {
 		message.react('681392742630555755');
 	}
 	if (message_content.includes("0v0")) {
-		message.react('681392742630555755');
-	}
-	if (message_content.includes("0v0")) {
-		message.react('713213661077962822');
+		message.react('721934874226851891');
 	}
 	if (message_content.includes(">.<")) {
 		message.react('632997788527099925');
