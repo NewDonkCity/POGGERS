@@ -8611,7 +8611,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content == "ovo") {
-		message.react('713213661077962822');
+		message.react('721934874226851891');
 	}
 	if (message_content == "uvu") {
 		message.react('713213662210293870');
@@ -8702,6 +8702,9 @@ client.on('message', message => {
 		if (face == 4) {
     			message.react('721934878081286194');
         	}
+	}721934871483908116
+	if (message_content.includes("^o^")) {
+		message.react('721934871483908116');
 	}
 	if (message_content.includes("o3o")) {
 		message.react('647686065557340160');
