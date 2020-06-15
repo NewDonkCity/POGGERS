@@ -8614,7 +8614,7 @@ client.on('message', message => {
 		message.react('721934874226851891');
 	}
 	if (message_content == "uvu") {
-		message.react('713213662210293870');
+		message.react('721934874826768414');
 	}
 	if (message_content.includes("notices ur")) {
 		message.react('681392742630555755');
@@ -8659,7 +8659,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content.includes("uvu ")) {
-		message.react('713213662210293870');
+		message.react('721934874826768414');
 	}
 	if (message_content.includes("•ᴥ•")) {
 		message.react('681392742630555755');
