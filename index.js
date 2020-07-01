@@ -8046,6 +8046,9 @@ client.on('message', message => {
 	if (message_content.includes("pepehands")) {
 		message.react('705615104577896541');
 	}
+	if (message_content.includes(" a selfie")) {
+		message.react('705437491095666688');
+	}
 	if (message_content.includes("s a mistake")) {
 		message.react('282292955761475584');
 	}
@@ -9045,6 +9048,18 @@ client.on('message', message => {
 	if (message_content.includes("💋")) {
 		message.react('653344834018344960');
 	}
+	if (message_content.includes("✋")) {
+		message.react('727577560740790362');
+	}
+	if (message_content.includes("🤚")) {
+		message.react('727577560740790362');
+	}
+	if (message_content.includes("🙋")) {
+		message.react('727577560740790362');
+	}
+	if (message_content.includes("🖐️")) {
+		message.react('727577560740790362');
+	}
 	if (message_content.includes("d’oh i missed")) {
 		message.react('681545564684288060');
 	}
@@ -9085,6 +9100,21 @@ client.on('message', message => {
 		message.react('316734055427211266');
 	}
 	if (message_content.includes("wahh")) {
+		message.react('316734055427211266');
+	}
+	if (message_content.includes("have a rotten day")) {
+		message.react('230129083533623296');
+	}
+	if (message_content.includes("wario show you fun")) {
+		message.react('230129083533623296');
+	}
+	if (message_content.includes("ario i gotta")) {
+		message.react('230129083533623296');
+	}
+	if (message_content.includes("ario, i gotta")) {
+		message.react('230129083533623296');
+	}
+	if (message_content.includes("lousy")) {
 		message.react('316734055427211266');
 	}
 	if (message_content.includes("lousy")) {
