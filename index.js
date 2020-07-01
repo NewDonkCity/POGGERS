@@ -9060,6 +9060,9 @@ client.on('message', message => {
 	if (message_content.includes("🖐️")) {
 		message.react('727577560740790362');
 	}
+	if (message_content.includes("*raises hand")) {
+		message.react('727577560740790362');
+	}
 	if (message_content.includes("d’oh i missed")) {
 		message.react('681545564684288060');
 	}
