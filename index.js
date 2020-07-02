@@ -14186,6 +14186,9 @@ client.on('message', message => {
 	if (message_content.includes("great bot")) {
 		message.react('632997792150847515');
 	}
+	if (message_content.includes("cool bot")) {
+		message.react('632997792150847515');
+	}
 	if (message_content.includes("sweet bot")) {
 		message.react('632997792150847515');
 	}
@@ -14204,6 +14207,51 @@ client.on('message', message => {
 	if (message_content.includes("incredible pog")) {
 		message.react('632997792150847515');
 	}
+	if (message_content.includes("awesome, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("smart, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("beautiful, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("awesome, pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("smart, pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("beautiful, pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("good, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("great, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("cool, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("sweet, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("fantastic, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("terriffic, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("amazing, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("incredible, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("incredible, pog")) {
+		message.react('632997792150847515');
+	}
 	if (message_content.includes("bot rules")) {
 		message.react('632997792150847515');
 	}
@@ -14217,6 +14265,9 @@ client.on('message', message => {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("great pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("cool pog")) {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("sweet pog")) {
