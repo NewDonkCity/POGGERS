@@ -6642,6 +6642,9 @@ client.on('message', message => {
 	if (message_content.includes("welcome to our")) {
 		message.react('425059856559636490');
 	}
+	if (message_content == "gm") {
+		message.react('425059856559636490');
+	}
 	if (message_content == "morning") {
 		message.react('425059856559636490');
 	}
@@ -6695,6 +6698,9 @@ client.on('message', message => {
 	}
 	if (message_content == "good day!") {
 		message.react('425059856559636490');
+	}
+	if (message_content == "gn") {
+		message.react('636669695013027841');
 	}
 	if (message_content == "night") {
 		message.react('636669695013027841');
