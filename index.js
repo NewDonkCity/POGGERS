@@ -14013,7 +14013,7 @@ client.on('message', message => {
 		message.react('458023278234042399');
 	}
 	if (message_content.includes("😤")) {
-		message.react('637114232651120647');
+		message.react('364308148313522177');
 	}
 	if (message_content == "no u") {
 		message.react('632997782059352085');
