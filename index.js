@@ -7995,6 +7995,12 @@ client.on('message', message => {
 	if (message_content.includes("._.")) {
 		message.react('282295242407936000');
 	}
+	if (message_content.includes("welp.")) {
+		message.react('282295242407936000');
+	}
+	if (message_content.includes("welp,")) {
+		message.react('282295242407936000');
+	}
 	if (message_content == "wait wut") {
 		message.react('282295242407936000');
 	}
@@ -8026,6 +8032,9 @@ client.on('message', message => {
 		message.react('282295242407936000');
 	}
 	if (message_content == "what") {
+		message.react('282295242407936000');
+	}
+	if (message_content == "welp") {
 		message.react('282295242407936000');
 	}
 	if (message_content == "wha") {
@@ -8410,6 +8419,9 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content == "ty") {
+		message.react('414678363526135818');
+	}
+	if (message_content == "ty ty") {
 		message.react('414678363526135818');
 	}
 	if (message_content == "gg") {
