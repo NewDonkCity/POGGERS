@@ -4773,6 +4773,9 @@ client.on('message', message => {
 	if (message_content.includes("save the animals")) {
 		message.react('562479226331070504');
 	}
+	if (message_content.includes("kshuall")) {
+		message.react('316737384819589120');
+	}
 	if (message_content.includes("stonk")) {
 		message.react('316737384819589120');
 	}
