@@ -5352,10 +5352,10 @@ client.on('message', message => {
 	if (message_content.includes("kek")) {
 		message.react('323972935230685184');
 	}
-	if (message_content.includes("hahaha")) {
+	if (message_content.includes("haha")) {
 		message.react('323972935230685184');
 	}
-	if (message_content.includes("hehehe")) {
+	if (message_content.includes("hehe")) {
 		message.react('323972935230685184');
 	}
 	if (message_content.includes("ee hee")) {
@@ -5370,34 +5370,13 @@ client.on('message', message => {
 	if (message_content.includes("xddd")) {
 		message.react('323972935230685184');
 	}
-	if (message_content.includes("huhuhu")) {
-		message.react('323972935230685184');
-	}
 	if (message_content.includes("huhu")) {
-		message.react('323972935230685184');
-	}
-	if (message_content.includes("huhu.")) {
 		message.react('323972935230685184');
 	}
 	if (message_content.includes("hehe")) {
 		message.react('323972935230685184');
 	}
-	if (message_content.includes("hehe.")) {
-		message.react('323972935230685184');
-	}
-	if (message_content.includes("he he")) {
-		message.react('323972935230685184');
-	}
-	if (message_content.includes("hehe!")) {
-		message.react('323972935230685184');
-	}
 	if (message_content.includes("he he!")) {
-		message.react('323972935230685184');
-	}
-	if (message_content == ("haha")) {
-		message.react('323972935230685184');
-	}
-	if (message_content.includes("haha.")) {
 		message.react('323972935230685184');
 	}
 	if (message_content == ("ha")) {
