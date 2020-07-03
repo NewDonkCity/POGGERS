@@ -7869,6 +7869,12 @@ client.on('message', message => {
 	if (message_content.includes("bruh moment")) {
 		message.react('681365757115891725');
 	}
+	if (message_content.includes("b r u h")) {
+		message.react('681365757115891725');
+	}
+	if (message_content.includes("gruh")) {
+		message.react('681365757115891725');
+	}
 	if (message_content == "bruh") {
 		message.react('681365757115891725');
 	}
@@ -7999,6 +8005,9 @@ client.on('message', message => {
 		message.react('282295242407936000');
 	}
 	if (message_content.includes("welp,")) {
+		message.react('282295242407936000');
+	}
+	if (message_content.includes("w e l p")) {
 		message.react('282295242407936000');
 	}
 	if (message_content == "wait wut") {
@@ -13929,6 +13938,9 @@ client.on('message', message => {
 		message.react('458023278234042399');
 	}
 	if (message_content.includes("ohno")) {
+		message.react('458023278234042399');
+	}
+	if (message_content.includes("o h n o")) {
 		message.react('458023278234042399');
 	}
 	if (message_content.includes("oh no.")) {
