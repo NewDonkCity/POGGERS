@@ -4413,6 +4413,9 @@ client.on('message', message => {
 	if (message_content.includes("praise the ")) {
 		message.react('681274847565053953');
 	}
+	if (message_content.includes("rise up")) {
+		message.react('681274847565053953');
+	}
 	if (message_content == "/jeff") {
 		message.react('682732150595780710');
 	}
