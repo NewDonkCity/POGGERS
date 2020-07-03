@@ -4935,6 +4935,15 @@ client.on('message', message => {
 	if (message_content == "same with me") {
 		message.react('647326430010802185');
 	}
+	if (message_content == "same tbh") {
+		message.react('647326430010802185');
+	}
+	if (message_content == "tbh same") {
+		message.react('647326430010802185');
+	}
+	if (message_content == "same for me") {
+		message.react('647326430010802185');
+	}
 	if (message_content == "me too") {
 		message.react('647326430010802185');
 	}
@@ -4947,6 +4956,9 @@ client.on('message', message => {
 	if (message_content == "same with me.") {
 		message.react('647326430010802185');
 	}
+	if (message_content == "same for me.") {
+		message.react('647326430010802185');
+	}
 	if (message_content == "me too.") {
 		message.react('647326430010802185');
 	}
@@ -4957,6 +4969,9 @@ client.on('message', message => {
 		message.react('647326430010802185');
 	}
 	if (message_content == "same with me!") {
+		message.react('647326430010802185');
+	}
+	if (message_content == "same for me!") {
 		message.react('647326430010802185');
 	}
 	if (message_content == "me too!") {
@@ -8542,6 +8557,36 @@ client.on('message', message => {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("thanks mate")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thanks man")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thanks bro")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thanks, y'all")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thanks, y’all")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thanks, yall")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thanks, everyone")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thanks, dude")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thanks, mate")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thanks, man")) {
+		message.react('414678363526135818');
+	}
+	if (message_content.includes("thanks, bro")) {
 		message.react('414678363526135818');
 	}
 	if (message_content.includes("thx ")) {
@@ -12966,43 +13011,319 @@ client.on('message', message => {
 		message.react('635515880540733452');
 	}
 	if (message_content.includes("whyy")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("ahhhhh")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("whaaa")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("nooo")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("fuuu")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("shiii")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("no!")) {
 		message.react('635515880540733452');
 	}
 	if (message_content.includes("noo!")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("nonono")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("fuckfuck")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("shitshit")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("fuck fuck")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("shit shit")) {
-		message.react('635515880540733452');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('266819167787810816');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('688081988812406796');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681395776198279194');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997788673769513');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('635515880540733452');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('458023278234042399');
+        	}
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('282297846554951681');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('681385605162205241');
+        	}
 	}
 	if (message_content.includes("reeeee")) {
 		message.react('705643524804050945');
@@ -13906,12 +14227,21 @@ client.on('message', message => {
 	}
 	if (message_content.includes("¬‿¬")) {
 		message.react('282295903006621697');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997790393303050');
+        	}
 	}
 	if (message_content.includes("😏")) {
 		message.react('282295903006621697');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997790393303050');
+        	}
 	}
 	if (message_content.includes("😼")) {
 		message.react('282295903006621697');
+		if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('632997790393303050');
+        	}
 	}
 	if (message_content.includes("✊")) {
 		message.react('632997792079675424');
