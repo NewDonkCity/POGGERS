@@ -4809,6 +4809,12 @@ client.on('message', message => {
 	if (message_content.includes(" rper")) {
 		message.react('414972243131498510');
 	}
+	if (message_content.includes("rp-ing")) {
+		message.react('414972243131498510');
+	}
+	if (message_content.includes("rp-er")) {
+		message.react('414972243131498510');
+	}
 	if (message_content.includes(" rp.")) {
 		message.react('414972243131498510');
 	}
@@ -14250,6 +14256,9 @@ client.on('message', message => {
 		message.react('632997792079675424');
 	}
 	if (message_content.includes("vibe check")) {
+		message.react('632997792079675424');
+	}
+	if (message_content.includes("vibe-check")) {
 		message.react('632997792079675424');
 	}
 	if (message_content.includes("really hard")) {
