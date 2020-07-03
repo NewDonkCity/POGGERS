@@ -5988,6 +5988,12 @@ client.on('message', message => {
 	if (message_content.includes("big brian")) {
 		message.react('637049607804813325');
 	}
+	if (message_content.includes("big-brain")) {
+		message.react('637049607804813325');
+	}
+	if (message_content.includes("big-brian")) {
+		message.react('637049607804813325');
+	}
 	if (message_content.includes("sentience")) {
 		message.react('637049607804813325');
 	}
@@ -13368,10 +13374,10 @@ client.on('message', message => {
 		message.react('284233977529630720');
 	}
 	if (message_content.includes("high iq")) {
-		message.react('284233977529630720');
+		message.react('637049607804813325');
 	}
 	if (message_content.includes("high mpiq")) {
-		message.react('284233977529630720');
+		message.react('637049607804813325');
 	}
 	if (message_content.includes("strats")) {
 		message.react('284233977529630720');
