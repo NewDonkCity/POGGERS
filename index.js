@@ -6063,6 +6063,21 @@ client.on('message', message => {
 	if (message_content.includes("10/10")) {
 		message.react('633446681991708776');
 	}
+	if (message_content == "perfect") {
+		message.react('633446681991708776');
+	}
+	if (message_content == "perfect.") {
+		message.react('633446681991708776');
+	}
+	if (message_content == "perfect!") {
+		message.react('633446681991708776');
+	}
+	if (message_content == "perfect!!") {
+		message.react('633446681991708776');
+	}
+	if (message_content == "perfect!!!") {
+		message.react('633446681991708776');
+	}
 	if (message_content.includes("👌")) {
 		message.react('633446681991708776');
 	}
