@@ -17722,6 +17722,9 @@ client.on('message', message => {
 	if (message_content.includes("limewire")) {
 		message.react('637114233330335745');
 	}
+	if (message_content.includes("🤨")) {
+		message.react('735725608771780759');
+	}
 	if (message_content.includes("fortnite danc")) {
 		message.react('636617752429199415');
 	}
