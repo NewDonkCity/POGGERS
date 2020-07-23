@@ -5028,6 +5028,15 @@ client.on('message', message => {
 	if (message_content.includes("delet this")) {
 		message.react('414972243131498510');
 	}
+	if (message_content == "delet") {
+		message.react('414972243131498510');
+	}
+	if (message_content == "delet.") {
+		message.react('414972243131498510');
+	}
+	if (message_content == "delet!") {
+		message.react('414972243131498510');
+	}
 	if (message_content.includes(" erp")) {
 		message.react('414972243131498510');
 	}
