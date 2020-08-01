@@ -5052,6 +5052,12 @@ client.on('message', message => {
 	if (message_content == "this") {
 		message.react('647326430010802185');
 	}
+	if (message_content.includes("☝️")) {
+		message.react('647326430010802185');
+	}
+	if (message_content.includes("👆")) {
+		message.react('647326430010802185');
+	}
 	if (message_content.includes("^th")) {
 		message.react('647326430010802185');
 	}
