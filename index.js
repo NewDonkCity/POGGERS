@@ -4578,24 +4578,6 @@ client.on('message', message => {
     			message.react('408084695109074944');
         	}
 	}
-    	if (message_content.includes("dayattheraces")) {
-		Promise.all([
-			message.react('682698795686953011'),
-			message.react('682698795951325213'),
-			message.react('682698795477368834'),
-			message.react('682698795980423266'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
-    	}
-    	if (message_content.includes("datr")) {
-		Promise.all([
-			message.react('682698795686953011'),
-			message.react('682698795951325213'),
-			message.react('682698795477368834'),
-			message.react('682698795980423266'),
-		])
-			.catch(() => console.error('One of the emojis failed to react.'));
-    	}
 	if (message_content.includes("dance rito")) {
 		message.react('322877049293373440');
 	}
@@ -8080,6 +8062,9 @@ client.on('message', message => {
 		message.react('282295242407936000');
 	}
 	if (message_content == "tf.") {
+		message.react('282295242407936000');
+	}
+	if (message_content == "tf?") {
 		message.react('282295242407936000');
 	}
 	if (message_content == "tf!") {
