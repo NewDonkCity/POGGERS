@@ -6849,6 +6849,15 @@ client.on('message', message => {
 	if (message_content == "mornin!") {
 		message.react('425059856559636490');
 	}
+	if (message_content == "morn") {
+		message.react('425059856559636490');
+	}
+	if (message_content == "morn.") {
+		message.react('425059856559636490');
+	}
+	if (message_content == "morn!") {
+		message.react('425059856559636490');
+	}
 	if (message_content == "afternoon") {
 		message.react('425059856559636490');
 	}
@@ -16888,6 +16897,24 @@ client.on('message', message => {
 	if (message_content.includes("poggers su")) {
 		message.react('632997792016629789');
 	}
+	if (message_content.includes("bot shut")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("pog shut")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("poggers shut")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("bot, shut")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("pog, shut")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("poggers, shut")) {
+		message.react('632997792016629789');
+	}
 	if (message_content.includes("pog is dum")) {
 		message.react('632997792016629789');
 	}
@@ -16949,6 +16976,30 @@ client.on('message', message => {
 		message.react('632997792016629789');
 	}
 	if (message_content.includes("fuck pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("shut up pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("shut up bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("shut up, pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("shut up, bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("you suck pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("you suck bot")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("you suck, pog")) {
+		message.react('632997792016629789');
+	}
+	if (message_content.includes("you suck, bot")) {
 		message.react('632997792016629789');
 	}
 	if (message_content.includes("fuck you pog")) {
@@ -17188,6 +17239,42 @@ client.on('message', message => {
 	if (message_content.includes("incredible pog")) {
 		message.react('632997792150847515');
 	}
+	if (message_content.includes("you go bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you go pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you go, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you go, pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you rock bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you rock pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you rock, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you rock, pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you rule bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you rule pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you rule, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("you rule, pog")) {
+		message.react('632997792150847515');
+	}
 	if (message_content.includes("best bot")) {
 		message.react('632997792150847515');
 	}
@@ -17237,6 +17324,60 @@ client.on('message', message => {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("incredible, pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot you rock")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog you rock")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers you rock")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot you rule")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog you rule")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers you rule")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot you go")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog you go")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers you go")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot, you rock")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog, you rock")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers, you rock")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot, you rule")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog, you rule")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers, you rule")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot, you go")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog, you go")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers, you go")) {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("bot rules")) {
