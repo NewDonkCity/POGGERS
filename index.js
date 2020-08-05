@@ -3097,7 +3097,7 @@ client.on('message', message => {
     			message.channel.send("Punch-Out!!");
         	}
 		if (face2 == 20) {
-    			message.channel.send("Mrio Sports Mix");
+    			message.channel.send("Mario Sports Mix");
         	}
 		if (face2 == 21) {
     			message.channel.send("Donkey Kong Country Returns");
