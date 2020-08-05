@@ -7,6 +7,111 @@ client.once('ready', () => {
 
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
+	if (message_content == ("/game mario party")) {
+		var face2 = Math.floor(Math.random() * 11);
+		if (face2 == 0) {
+    			message.channel.send("1");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("2");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("3");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("4");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("5");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("6");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("7");
+        	}
+		if (face2 == 7) {
+			message.channel.send("8");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("9");
+        	}
+		if (face2 == 9) {
+    			message.channel.send("Island Tour");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("Top 100");
+        	}
+	}
+	if (message_content == ("/game mp")) {
+		var face2 = Math.floor(Math.random() * 11);
+		if (face2 == 0) {
+    			message.channel.send("1");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("2");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("3");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("4");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("5");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("6");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("7");
+        	}
+		if (face2 == 7) {
+			message.channel.send("8");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("9");
+        	}
+		if (face2 == 9) {
+    			message.channel.send("Island Tour");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("Top 100");
+        	}
+	}
+	if (message_content == ("/roll")) {
+		var face2 = Math.floor(Math.random() * 10);
+		if (face2 == 0) {
+    			message.channel.send("1");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("2");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("3");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("4");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("5");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("6");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("7");
+        	}
+		if (face2 == 7) {
+			message.channel.send("8");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("9");
+        	}
+		if (face2 == 9) {
+    			message.channel.send("10");
+        	}
+	}
 	if (message_content == ("/board 1")) {
 		var face2 = Math.floor(Math.random() * 8);
 		if (face2 == 0) {
