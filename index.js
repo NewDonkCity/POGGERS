@@ -2261,7 +2261,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content == ("/board aii")) {
-		message.channel.send("Cranky's Meme Land");
+		message.channel.send("Cranky's Meme Lair");
 	}
 	if (message_content == ("/board 0")) {
 		message.channel.send("nice meme");
