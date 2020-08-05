@@ -76,6 +76,27 @@ client.on('message', message => {
     			message.channel.send("Waluigi's Island");
         	}
 	}
+	if (message_content == ("/board duel")) {
+		var face2 = Math.floor(Math.random() * 6);
+		if (face2 == 0) {
+    			message.channel.send("Gate Guy");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Arrowhead");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Pipesqueak");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Blowhard");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("Mr. Mover");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("Backtrack");
+        	}
+	}
 	if (message_content == ("/board 3 duel")) {
 		var face2 = Math.floor(Math.random() * 6);
 		if (face2 == 0) {
@@ -2238,6 +2259,9 @@ client.on('message', message => {
 		if (face2 == 69) {
     			message.channel.send("Minigame Match (Top 100)");
         	}
+	}
+	if (message_content == ("/board aii")) {
+		message.channel.send("Cranky's Meme Land");
 	}
 	if (message_content == ("/board 0")) {
 		message.channel.send("nice meme");
