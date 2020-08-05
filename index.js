@@ -2261,7 +2261,7 @@ client.on('message', message => {
 		message.channel.send("Minigame Match");
 	}
 	if (message_content == ("/game 64")) {
-		var face2 = Math.floor(Math.random() * 38);
+		var face2 = Math.floor(Math.random() * 40);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -2296,7 +2296,7 @@ client.on('message', message => {
     			message.channel.send("F-Zero X");
         	}
 		if (face2 == 11) {
-    			message.channel.send("Goldeneye 007");
+    			message.channel.send("GoldenEye 007");
         	}
 		if (face2 == 12) {
     			message.channel.send("Kirby 64");
@@ -2332,7 +2332,7 @@ client.on('message', message => {
     			message.channel.send("Snowboard Kids 2");
         	}
 		if (face2 == 23) {
-    			message.channel.send("Star Wars Episode 1 Pod Racer");
+    			message.channel.send("Star Wars Episode I Pod Racer");
         	}
 		if (face2 == 24) {
     			message.channel.send("Wave Race 64");
@@ -2376,9 +2376,15 @@ client.on('message', message => {
 		if (face2 == 37) {
     			message.channel.send("NFL Blitz 2001");
         	}
+		if (face2 == 38) {
+    			message.channel.send("Stunt Racer");
+        	}
+		if (face2 == 39) {
+    			message.channel.send("The New Tetris");
+		}
 	}
 	if (message_content == ("/game n64")) {
-		var face2 = Math.floor(Math.random() * 38);
+		var face2 = Math.floor(Math.random() * 40);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -2413,7 +2419,7 @@ client.on('message', message => {
     			message.channel.send("F-Zero X");
         	}
 		if (face2 == 11) {
-    			message.channel.send("Goldeneye 007");
+    			message.channel.send("GoldenEye 007");
         	}
 		if (face2 == 12) {
     			message.channel.send("Kirby 64");
@@ -2449,7 +2455,7 @@ client.on('message', message => {
     			message.channel.send("Snowboard Kids 2");
         	}
 		if (face2 == 23) {
-    			message.channel.send("Star Wars Episode 1 Pod Racer");
+    			message.channel.send("Star Wars Episode I Pod Racer");
         	}
 		if (face2 == 24) {
     			message.channel.send("Wave Race 64");
@@ -2493,6 +2499,12 @@ client.on('message', message => {
 		if (face2 == 37) {
     			message.channel.send("NFL Blitz 2001");
         	}
+		if (face2 == 38) {
+    			message.channel.send("Stunt Racer");
+        	}
+		if (face2 == 39) {
+    			message.channel.send("The New Tetris");
+		}
 	}
 	if (message_content == ("/game gamecube")) {
 		var face2 = Math.floor(Math.random() * 59);
@@ -2671,7 +2683,7 @@ client.on('message', message => {
     			message.channel.send("Namco Museum: Battle Collection");
         	}
 		if (face2 == 58) {
-    			message.channel.send("Some WWE Game");
+    			message.channel.send("some WWE game idk");
         	}
 	}
 	if (message_content == ("/game gcn")) {
@@ -2851,7 +2863,7 @@ client.on('message', message => {
     			message.channel.send("Namco Museum: Battle Collection");
         	}
 		if (face2 == 58) {
-    			message.channel.send("Some WWE Game");
+    			message.channel.send("some WWE game idk");
         	}
 	}
 	if (message_content == ("/game gc")) {
@@ -3031,11 +3043,11 @@ client.on('message', message => {
     			message.channel.send("Namco Museum: Battle Collection");
         	}
 		if (face2 == 58) {
-    			message.channel.send("Some WWE Game");
+    			message.channel.send("some WWE game idk");
         	}
 	}
 	if (message_content == ("/game wii")) {
-		var face2 = Math.floor(Math.random() * 41);
+		var face2 = Math.floor(Math.random() * 44);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 8");
         	}
@@ -3159,9 +3171,18 @@ client.on('message', message => {
 		if (face2 == 40) {
     			message.channel.send("M&M's Kart Racing");
         	}
+		if (face2 == 41) {
+    			message.channel.send("Deca Sports");
+        	}
+		if (face2 == 42) {
+    			message.channel.send("GoldenEye Wii");
+        	}
+		if (face2 == 43) {
+    			message.channel.send("some call of duty game idk");
+        	}
 	}
 	if (message_content == ("/game all")) {
-		var face2 = Math.floor(Math.random() * 139);
+		var face2 = Math.floor(Math.random() * 144);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3577,11 +3598,26 @@ client.on('message', message => {
     			message.channel.send("Namco Museum: Battle Collection");
         	}
 		if (face2 == 138) {
-    			message.channel.send("Some WWE Game");
+    			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 139) {
+    			message.channel.send("Stunt Racer");
+        	}
+		if (face2 == 140) {
+    			message.channel.send("The New Tetris");
+        	}
+		if (face2 == 141) {
+    			message.channel.send("Deca Sports");
+        	}
+		if (face2 == 142) {
+    			message.channel.send("GoldenEye Wii");
+        	}
+		if (face2 == 143) {
+    			message.channel.send("some call of duty game idk");
         	}
 	}
 	if (message_content == ("/game any")) {
-		var face2 = Math.floor(Math.random() * 139);
+		var face2 = Math.floor(Math.random() * 144);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3997,11 +4033,26 @@ client.on('message', message => {
     			message.channel.send("Namco Museum: Battle Collection");
         	}
 		if (face2 == 138) {
-    			message.channel.send("Some WWE Game");
+    			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 139) {
+    			message.channel.send("Stunt Racer");
+        	}
+		if (face2 == 140) {
+    			message.channel.send("The New Tetris");
+        	}
+		if (face2 == 141) {
+    			message.channel.send("Deca Sports");
+        	}
+		if (face2 == 142) {
+    			message.channel.send("GoldenEye Wii");
+        	}
+		if (face2 == 143) {
+    			message.channel.send("some call of duty game idk");
         	}
 	}
 	if (message_content == ("/game")) {
-		var face2 = Math.floor(Math.random() * 139);
+		var face2 = Math.floor(Math.random() * 144);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -4417,7 +4468,22 @@ client.on('message', message => {
     			message.channel.send("Namco Museum: Battle Collection");
         	}
 		if (face2 == 138) {
-    			message.channel.send("Some WWE Game");
+    			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 139) {
+    			message.channel.send("Stunt Racer");
+        	}
+		if (face2 == 140) {
+    			message.channel.send("The New Tetris");
+        	}
+		if (face2 == 141) {
+    			message.channel.send("Deca Sports");
+        	}
+		if (face2 == 142) {
+    			message.channel.send("GoldenEye Wii");
+        	}
+		if (face2 == 143) {
+    			message.channel.send("some call of duty game idk");
         	}
 	}
 	if (Math.floor(Math.random() * 8192) == 8191) {
