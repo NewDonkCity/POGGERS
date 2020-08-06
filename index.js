@@ -22799,12 +22799,7 @@ client.on('message', message => {
 	}
         if (message_content.includes("gotta be done")) {
             	message.react('681984948282064904');
-        }
-});
-
-client.login(process.env.BOT_TOKEN);
-
-	
+        }	
 });
 
 client.login(process.env.BOT_TOKEN);
