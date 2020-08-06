@@ -7,6 +7,18 @@ client.once('ready', () => {
 
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
+	if (message_content.includes("microsoft word")) {
+		message.channel.send("Notepad is better than Microsoft Word");
+	}
+	if (message_content.includes("visual studio")) {
+		message.channel.send("Notepad is better than Microsoft Word");
+	}
+	if (message_content.includes("notepad")) {
+		message.channel.send("Notepad is better than Microsoft Word");
+	}
+	if (message_content.includes("text editor")) {
+		message.channel.send("Notepad is better than Microsoft Word");
+	}
 	if (message_content == ("/game mario party")) {
 		var face2 = Math.floor(Math.random() * 11);
 		if (face2 == 0) {
