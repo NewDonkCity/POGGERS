@@ -2914,6 +2914,252 @@ client.on('message', message => {
     			message.channel.send("The New Tetris");
 		}
 	}
+	if (message_content == ("/seemein n64")) {
+		var face2 = Math.floor(Math.random() * 40);
+		if (face2 == 0) {
+    			message.channel.send("Mario Party 1");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Mario Party 2");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Mario Party 3");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Rugrats Scavenger Hunt");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("1080 Snowboarding");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("Banjo-Tooie");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("Conker's Bad Fur Day");
+        	}
+		if (face2 == 7) {
+			message.channel.send("Diddy Kong Racing");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("Donkey Kong 64");
+        	}
+    		if (face2 == 9) {
+    			message.channel.send("Dr. Mario 64");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("F-Zero X");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("GoldenEye 007");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Kirby 64");
+        	}
+		if (face2 == 13) {
+    			message.channel.send("Lego Racers");
+        	}
+		if (face2 == 14) {
+    			message.channel.send("Mario Golf");
+        	}
+    		if (face2 == 15) {
+    			message.channel.send("Mario Kart 64");
+        	}
+		if (face2 == 16) {
+    			message.channel.send("Mickey's Speedway USA");
+        	}
+		if (face2 == 17) {
+    			message.channel.send("Pokemon Stadium");
+        	}
+		if (face2 == 18) {
+    			message.channel.send("Pokemon Stadium 2");
+        	}
+		if (face2 == 19) {
+    			message.channel.send("Rakuga Kids");
+        	}
+		if (face2 == 20) {
+    			message.channel.send("Super Smash Bros (N64)");
+        	}
+    		if (face2 == 21) {
+    			message.channel.send("Snowboard Kids");
+        	}
+    		if (face2 == 22) {
+    			message.channel.send("Snowboard Kids 2");
+        	}
+		if (face2 == 23) {
+    			message.channel.send("Star Wars Episode I Pod Racer");
+        	}
+		if (face2 == 24) {
+    			message.channel.send("Wave Race 64");
+        	}
+		if (face2 == 25) {
+    			message.channel.send("Super Smash Bros 199XTE");
+        	}
+		if (face2 == 26) {
+    			message.channel.send("Smash Remix");
+        	}
+		if (face2 == 27) {
+    			message.channel.send("South Park World Rally");
+        	}
+		if (face2 == 28) {
+    			message.channel.send("Monopoly");
+        	}
+		if (face2 == 29) {
+    			message.channel.send("Cruis'n USA");
+        	}
+		if (face2 == 30) {
+    			message.channel.send("Hotwheels: Turbo Racing");
+        	}
+		if (face2 == 31) {
+    			message.channel.send("Bomberman 64");
+        	}
+		if (face2 == 32) {
+    			message.channel.send("Pokemon Puzzle League");
+        	}
+		if (face2 == 33) {
+    			message.channel.send("Tony Hawk's Pro Skater");
+        	}
+		if (face2 == 34) {
+    			message.channel.send("Tony Hawk's Pro Skater 2");
+        	}
+		if (face2 == 35) {
+    			message.channel.send("Tony Hawk's Pro Skater 3");
+        	}
+		if (face2 == 36) {
+    			message.channel.send("NFL Blitz 2000");
+        	}
+		if (face2 == 37) {
+    			message.channel.send("NFL Blitz 2001");
+        	}
+		if (face2 == 38) {
+    			message.channel.send("Stunt Racer");
+        	}
+		if (face2 == 39) {
+    			message.channel.send("The New Tetris");
+		}
+	}
+	if (message_content == ("/seemein 64")) {
+		var face2 = Math.floor(Math.random() * 40);
+		if (face2 == 0) {
+    			message.channel.send("Mario Party 1");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Mario Party 2");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Mario Party 3");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Rugrats Scavenger Hunt");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("1080 Snowboarding");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("Banjo-Tooie");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("Conker's Bad Fur Day");
+        	}
+		if (face2 == 7) {
+			message.channel.send("Diddy Kong Racing");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("Donkey Kong 64");
+        	}
+    		if (face2 == 9) {
+    			message.channel.send("Dr. Mario 64");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("F-Zero X");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("GoldenEye 007");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Kirby 64");
+        	}
+		if (face2 == 13) {
+    			message.channel.send("Lego Racers");
+        	}
+		if (face2 == 14) {
+    			message.channel.send("Mario Golf");
+        	}
+    		if (face2 == 15) {
+    			message.channel.send("Mario Kart 64");
+        	}
+		if (face2 == 16) {
+    			message.channel.send("Mickey's Speedway USA");
+        	}
+		if (face2 == 17) {
+    			message.channel.send("Pokemon Stadium");
+        	}
+		if (face2 == 18) {
+    			message.channel.send("Pokemon Stadium 2");
+        	}
+		if (face2 == 19) {
+    			message.channel.send("Rakuga Kids");
+        	}
+		if (face2 == 20) {
+    			message.channel.send("Super Smash Bros (N64)");
+        	}
+    		if (face2 == 21) {
+    			message.channel.send("Snowboard Kids");
+        	}
+    		if (face2 == 22) {
+    			message.channel.send("Snowboard Kids 2");
+        	}
+		if (face2 == 23) {
+    			message.channel.send("Star Wars Episode I Pod Racer");
+        	}
+		if (face2 == 24) {
+    			message.channel.send("Wave Race 64");
+        	}
+		if (face2 == 25) {
+    			message.channel.send("Super Smash Bros 199XTE");
+        	}
+		if (face2 == 26) {
+    			message.channel.send("Smash Remix");
+        	}
+		if (face2 == 27) {
+    			message.channel.send("South Park World Rally");
+        	}
+		if (face2 == 28) {
+    			message.channel.send("Monopoly");
+        	}
+		if (face2 == 29) {
+    			message.channel.send("Cruis'n USA");
+        	}
+		if (face2 == 30) {
+    			message.channel.send("Hotwheels: Turbo Racing");
+        	}
+		if (face2 == 31) {
+    			message.channel.send("Bomberman 64");
+        	}
+		if (face2 == 32) {
+    			message.channel.send("Pokemon Puzzle League");
+        	}
+		if (face2 == 33) {
+    			message.channel.send("Tony Hawk's Pro Skater");
+        	}
+		if (face2 == 34) {
+    			message.channel.send("Tony Hawk's Pro Skater 2");
+        	}
+		if (face2 == 35) {
+    			message.channel.send("Tony Hawk's Pro Skater 3");
+        	}
+		if (face2 == 36) {
+    			message.channel.send("NFL Blitz 2000");
+        	}
+		if (face2 == 37) {
+    			message.channel.send("NFL Blitz 2001");
+        	}
+		if (face2 == 38) {
+    			message.channel.send("Stunt Racer");
+        	}
+		if (face2 == 39) {
+    			message.channel.send("The New Tetris");
+		}
+	}
 	if (message_content.includes("what 64 game should")) {
 		var face2 = Math.floor(Math.random() * 40);
 		if (face2 == 0) {
@@ -3824,6 +4070,366 @@ client.on('message', message => {
         	}
 	}
 	if (message_content.includes("which gc game should")) {
+		var face2 = Math.floor(Math.random() * 59);
+		if (face2 == 0) {
+    			message.channel.send("Mario Party 4");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Mario Party 5");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Mario Party 6");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Mario Party 7");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("Billy Hatcher");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("DDR Mario Mix");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("Dragon Ball Z Budokai 2");
+        	}
+		if (face2 == 7) {
+			message.channel.send("F-Zero GX");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("Harvest Moon: Magical Melody");
+        	}
+    		if (face2 == 9) {
+    			message.channel.send("Kirby Air Ride");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("Mario Golf: Toadstool Tour");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Mario Kart: Double Dash!!");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Mario Power Tennis");
+        	}
+		if (face2 == 13) {
+    			message.channel.send("Mario Superstar Baseball");
+        	}
+		if (face2 == 14) {
+    			message.channel.send("Metroid Prime 2: Echoes");
+        	}
+    		if (face2 == 15) {
+    			message.channel.send("Pikmin 2");
+        	}
+		if (face2 == 16) {
+    			message.channel.send("Sonic Adventure 2: Battle");
+        	}
+		if (face2 == 17) {
+    			message.channel.send("Soul Calibur II");
+        	}
+		if (face2 == 18) {
+    			message.channel.send("Star Fox Assault");
+        	}
+		if (face2 == 19) {
+    			message.channel.send("Star Wars: Clone Wars");
+        	}
+		if (face2 == 20) {
+    			message.channel.send("Super Mario Strikers");
+        	}
+    		if (face2 == 21) {
+    			message.channel.send("Super Monkey Ball");
+        	}
+		if (face2 == 22) {
+    			message.channel.send("Super Monkey Ball 2");
+        	}
+		if (face2 == 23) {
+    			message.channel.send("Super Smash Bros Melee");
+        	}
+		if (face2 == 24) {
+    			message.channel.send("Super Smash Bros Melee 20XX");
+        	}
+    		if (face2 == 25) {
+    			message.channel.send("WarioWare: Mega Party Games");
+        	}
+    		if (face2 == 26) {
+    			message.channel.send("The Simpsons: Hit & Run");
+        	}
+		if (face2 == 27) {
+    			message.channel.send("F-Zero GX-Treme");
+        	}
+		if (face2 == 28) {
+    			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
+        	}
+		if (face2 == 29) {
+    			message.channel.send("Monkeyed Ball 2");
+        	}
+		if (face2 == 30) {
+    			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
+        	}
+		if (face2 == 31) {
+    			message.channel.send("Donkey Konga");
+        	}
+		if (face2 == 32) {
+    			message.channel.send("Donkey Konga 2");
+        	}
+    		if (face2 == 33) {
+    			message.channel.send("Tony Hawk's American Wasteland");
+        	}
+    		if (face2 == 34) {
+    			message.channel.send("Shrek Super Party");
+        	}
+    		if (face2 == 35) {
+    			message.channel.send("Spongebob: Lights, Camera, Pants!");
+        	}
+    		if (face2 == 36) {
+    			message.channel.send("Super Monkey Ball Adventure");
+        	}
+    		if (face2 == 37) {
+    			message.channel.send("SSX On Tour");
+        	}
+    		if (face2 == 38) {
+    			message.channel.send("NBA Street V3");
+        	}
+    		if (face2 == 39) {
+    			message.channel.send("Tiger Woods PGA Tour 2003");
+        	}
+    		if (face2 == 40) {
+    			message.channel.send("Sonic Gems Collection");
+        	}
+    		if (face2 == 41) {
+    			message.channel.send("Namco Museum: 50th Anniversary");
+        	}
+    		if (face2 == 42) {
+    			message.channel.send("007 Nightfire");
+        	}
+    		if (face2 == 43) {
+    			message.channel.send("007 Everything Or Nothing");
+        	}
+    		if (face2 == 44) {
+    			message.channel.send("All Star Baseball 2004");
+        	}
+    		if (face2 == 45) {
+    			message.channel.send("Shrek 2");
+        	}
+    		if (face2 == 46) {
+    			message.channel.send("Shrek Smash and Crash Racing");
+        	}
+    		if (face2 == 47) {
+    			message.channel.send("Nicktoons Unite!");
+        	}
+		if (face2 == 48) {
+    			message.channel.send("The Legend of Zelda: Four Swords Adventures");
+        	}
+		if (face2 == 49) {
+    			message.channel.send("Sonic Riders");
+        	}
+		if (face2 == 50) {
+    			message.channel.send("Digimon Rumble Arena 2");
+        	}
+		if (face2 == 51) {
+    			message.channel.send("Digimon World 4");
+        	}
+		if (face2 == 52) {
+    			message.channel.send("Tony Hawk's Underground");
+        	}
+		if (face2 == 53) {
+    			message.channel.send("Tony Hawk's Underground 2");
+        	}
+		if (face2 == 54) {
+    			message.channel.send("Destroy All Monsters Melee");
+        	}
+		if (face2 == 55) {
+    			message.channel.send("Burnout 2");
+        	}
+		if (face2 == 56) {
+    			message.channel.send("Need For Speed: Hot Pursit");
+        	}
+		if (face2 == 57) {
+    			message.channel.send("Namco Museum: Battle Collection");
+        	}
+		if (face2 == 58) {
+    			message.channel.send("some WWE game idk");
+        	}
+	}
+	if (message_content.includes("/seemein gc")) {
+		var face2 = Math.floor(Math.random() * 59);
+		if (face2 == 0) {
+    			message.channel.send("Mario Party 4");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Mario Party 5");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Mario Party 6");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Mario Party 7");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("Billy Hatcher");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("DDR Mario Mix");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("Dragon Ball Z Budokai 2");
+        	}
+		if (face2 == 7) {
+			message.channel.send("F-Zero GX");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("Harvest Moon: Magical Melody");
+        	}
+    		if (face2 == 9) {
+    			message.channel.send("Kirby Air Ride");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("Mario Golf: Toadstool Tour");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Mario Kart: Double Dash!!");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Mario Power Tennis");
+        	}
+		if (face2 == 13) {
+    			message.channel.send("Mario Superstar Baseball");
+        	}
+		if (face2 == 14) {
+    			message.channel.send("Metroid Prime 2: Echoes");
+        	}
+    		if (face2 == 15) {
+    			message.channel.send("Pikmin 2");
+        	}
+		if (face2 == 16) {
+    			message.channel.send("Sonic Adventure 2: Battle");
+        	}
+		if (face2 == 17) {
+    			message.channel.send("Soul Calibur II");
+        	}
+		if (face2 == 18) {
+    			message.channel.send("Star Fox Assault");
+        	}
+		if (face2 == 19) {
+    			message.channel.send("Star Wars: Clone Wars");
+        	}
+		if (face2 == 20) {
+    			message.channel.send("Super Mario Strikers");
+        	}
+    		if (face2 == 21) {
+    			message.channel.send("Super Monkey Ball");
+        	}
+		if (face2 == 22) {
+    			message.channel.send("Super Monkey Ball 2");
+        	}
+		if (face2 == 23) {
+    			message.channel.send("Super Smash Bros Melee");
+        	}
+		if (face2 == 24) {
+    			message.channel.send("Super Smash Bros Melee 20XX");
+        	}
+    		if (face2 == 25) {
+    			message.channel.send("WarioWare: Mega Party Games");
+        	}
+    		if (face2 == 26) {
+    			message.channel.send("The Simpsons: Hit & Run");
+        	}
+		if (face2 == 27) {
+    			message.channel.send("F-Zero GX-Treme");
+        	}
+		if (face2 == 28) {
+    			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
+        	}
+		if (face2 == 29) {
+    			message.channel.send("Monkeyed Ball 2");
+        	}
+		if (face2 == 30) {
+    			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
+        	}
+		if (face2 == 31) {
+    			message.channel.send("Donkey Konga");
+        	}
+		if (face2 == 32) {
+    			message.channel.send("Donkey Konga 2");
+        	}
+    		if (face2 == 33) {
+    			message.channel.send("Tony Hawk's American Wasteland");
+        	}
+    		if (face2 == 34) {
+    			message.channel.send("Shrek Super Party");
+        	}
+    		if (face2 == 35) {
+    			message.channel.send("Spongebob: Lights, Camera, Pants!");
+        	}
+    		if (face2 == 36) {
+    			message.channel.send("Super Monkey Ball Adventure");
+        	}
+    		if (face2 == 37) {
+    			message.channel.send("SSX On Tour");
+        	}
+    		if (face2 == 38) {
+    			message.channel.send("NBA Street V3");
+        	}
+    		if (face2 == 39) {
+    			message.channel.send("Tiger Woods PGA Tour 2003");
+        	}
+    		if (face2 == 40) {
+    			message.channel.send("Sonic Gems Collection");
+        	}
+    		if (face2 == 41) {
+    			message.channel.send("Namco Museum: 50th Anniversary");
+        	}
+    		if (face2 == 42) {
+    			message.channel.send("007 Nightfire");
+        	}
+    		if (face2 == 43) {
+    			message.channel.send("007 Everything Or Nothing");
+        	}
+    		if (face2 == 44) {
+    			message.channel.send("All Star Baseball 2004");
+        	}
+    		if (face2 == 45) {
+    			message.channel.send("Shrek 2");
+        	}
+    		if (face2 == 46) {
+    			message.channel.send("Shrek Smash and Crash Racing");
+        	}
+    		if (face2 == 47) {
+    			message.channel.send("Nicktoons Unite!");
+        	}
+		if (face2 == 48) {
+    			message.channel.send("The Legend of Zelda: Four Swords Adventures");
+        	}
+		if (face2 == 49) {
+    			message.channel.send("Sonic Riders");
+        	}
+		if (face2 == 50) {
+    			message.channel.send("Digimon Rumble Arena 2");
+        	}
+		if (face2 == 51) {
+    			message.channel.send("Digimon World 4");
+        	}
+		if (face2 == 52) {
+    			message.channel.send("Tony Hawk's Underground");
+        	}
+		if (face2 == 53) {
+    			message.channel.send("Tony Hawk's Underground 2");
+        	}
+		if (face2 == 54) {
+    			message.channel.send("Destroy All Monsters Melee");
+        	}
+		if (face2 == 55) {
+    			message.channel.send("Burnout 2");
+        	}
+		if (face2 == 56) {
+    			message.channel.send("Need For Speed: Hot Pursit");
+        	}
+		if (face2 == 57) {
+    			message.channel.send("Namco Museum: Battle Collection");
+        	}
+		if (face2 == 58) {
+    			message.channel.send("some WWE game idk");
+        	}
+	}
+	if (message_content == ("/seemein gamecube")) {
 		var face2 = Math.floor(Math.random() * 59);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
@@ -5039,6 +5645,141 @@ client.on('message', message => {
         	}
 	}
 	if (message_content.includes("which wii game should")) {
+		var face2 = Math.floor(Math.random() * 44);
+		if (face2 == 0) {
+    			message.channel.send("Mario Party 8");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Mario Party 9");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Mario Kart Wii");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Super Smash Bros Brawl");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("Project M");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("Dragon Ball Z Budokai 3");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("Wii Sports");
+        	}
+		if (face2 == 7) {
+			message.channel.send("Wii Play");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("Wii Sports Resort");
+        	}
+    		if (face2 == 9) {
+    			message.channel.send("Wii Music");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("Wii Play Motion");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Wii Party");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Mario Kart Fun");
+        	}
+		if (face2 == 13) {
+    			message.channel.send("Mario Kart Wii Hack Pack");
+        	}
+		if (face2 == 14) {
+    			message.channel.send("Super Monkey Ball Banana Blitz");
+        	}
+		if (face2 == 15) {
+    			message.channel.send("Super Monkey Ball Step & Roll");
+        	}
+    		if (face2 == 16) {
+    			message.channel.send("Mario Super Sluggers");
+        	}
+		if (face2 == 17) {
+    			message.channel.send("Mario Strikers Charged");
+        	}
+		if (face2 == 18) {
+    			message.channel.send("Fortune Street");
+        	}
+		if (face2 == 19) {
+    			message.channel.send("Punch-Out!!");
+        	}
+		if (face2 == 20) {
+    			message.channel.send("Mario Sports Mix");
+        	}
+		if (face2 == 21) {
+    			message.channel.send("Donkey Kong Country Returns");
+        	}
+    		if (face2 == 22) {
+    			message.channel.send("Kirby's Epic Yarn");
+        	}
+		if (face2 == 23) {
+    			message.channel.send("Kirby's Return To Dream Land");
+        	}
+		if (face2 == 24) {
+    			message.channel.send("WarioWare: Smooth Moves");
+        	}
+		if (face2 == 25) {
+    			message.channel.send("Mario & Sonic at the Olympic Games");
+        	}
+		if (face2 == 26) {
+    			message.channel.send("Mario & Sonic at the Olympic Winter Games");
+        	}
+		if (face2 == 27) {
+    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+        	}
+		if (face2 == 28) {
+    			message.channel.send("Rhythm Heaven Fever");
+        	}
+		if (face2 == 29) {
+    			message.channel.send("Donkey Kong Barrel Blast");
+        	}
+		if (face2 == 30) {
+    			message.channel.send("Namco Museum Remix");
+        	}
+		if (face2 == 31) {
+    			message.channel.send("Rayman Raving Rabbids");
+        	}
+		if (face2 == 32) {
+    			message.channel.send("Rayman Raving Rabbids 2");
+        	}
+		if (face2 == 33) {
+    			message.channel.send("Rabbids TV Party");
+        	}
+		if (face2 == 34) {
+    			message.channel.send("Rabbids Go Home");
+        	}
+		if (face2 == 35) {
+    			message.channel.send("Rayman Origins");
+        	}
+		if (face2 == 36) {
+    			message.channel.send("New Super Mario Bros Wii");
+        	}
+		if (face2 == 37) {
+    			message.channel.send("Newer Super Mario Bros Wii");
+        	}
+		if (face2 == 38) {
+    			message.channel.send("Another Super Mario Bros Wii");
+        	}
+		if (face2 == 39) {
+    			message.channel.send("New Summer Sun Bros Wii");
+        	}
+		if (face2 == 40) {
+    			message.channel.send("M&M's Kart Racing");
+        	}
+		if (face2 == 41) {
+    			message.channel.send("Deca Sports");
+        	}
+		if (face2 == 42) {
+    			message.channel.send("GoldenEye Wii");
+        	}
+		if (face2 == 43) {
+    			message.channel.send("some call of duty game idk");
+        	}
+	}
+	if (message_content == ("/seemein wii")) {
 		var face2 = Math.floor(Math.random() * 44);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 8");
@@ -6614,6 +7355,1311 @@ client.on('message', message => {
         	}
 	}
 	if (message_content == ("/game any")) {
+		var face2 = Math.floor(Math.random() * 144);
+		if (face2 == 0) {
+    			message.channel.send("Mario Party 1");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Mario Party 2");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Mario Party 3");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Rugrats Scavenger Hunt");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("1080 Snowboarding");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("Banjo-Tooie");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("Conker's Bad Fur Day");
+        	}
+		if (face2 == 7) {
+			message.channel.send("Diddy Kong Racing");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("Donkey Kong 64");
+        	}
+    		if (face2 == 9) {
+    			message.channel.send("Dr. Mario 64");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("F-Zero X");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Goldeneye 007");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Kirby 64");
+        	}
+		if (face2 == 13) {
+    			message.channel.send("Lego Racers");
+        	}
+		if (face2 == 14) {
+    			message.channel.send("Mario Golf");
+        	}
+    		if (face2 == 15) {
+    			message.channel.send("Mario Kart 64");
+        	}
+		if (face2 == 16) {
+    			message.channel.send("Mickey's Speedway USA");
+        	}
+		if (face2 == 17) {
+    			message.channel.send("Pokemon Stadium");
+        	}
+		if (face2 == 18) {
+    			message.channel.send("Pokemon Stadium 2");
+        	}
+		if (face2 == 19) {
+    			message.channel.send("Rakuga Kids");
+        	}
+		if (face2 == 20) {
+    			message.channel.send("Super Smash Bros (N64)");
+        	}
+    		if (face2 == 21) {
+    			message.channel.send("Snowboard Kids");
+        	}
+    		if (face2 == 22) {
+    			message.channel.send("Snowboard Kids 2");
+        	}
+		if (face2 == 23) {
+    			message.channel.send("Star Wars Episode 1 Pod Racer");
+        	}
+		if (face2 == 24) {
+    			message.channel.send("Wave Race 64");
+        	}
+		if (face2 == 25) {
+    			message.channel.send("Super Smash Bros 199XTE");
+        	}
+		if (face2 == 26) {
+    			message.channel.send("Smash Remix");
+        	}
+		if (face2 == 27) {
+    			message.channel.send("South Park World Rally");
+        	}
+		if (face2 == 28) {
+    			message.channel.send("Monopoly");
+        	}
+		if (face2 == 29) {
+    			message.channel.send("Cruis'n USA");
+        	}
+		if (face2 == 30) {
+    			message.channel.send("Hotwheels: Turbo Racing");
+        	}
+		if (face2 == 31) {
+    			message.channel.send("Mario Party 4");
+        	}
+    		if (face2 == 32) {
+    			message.channel.send("Mario Party 5");
+        	}
+		if (face2 == 33) {
+    			message.channel.send("Mario Party 6");
+        	}
+		if (face2 == 34) {
+    			message.channel.send("Mario Party 7");
+        	}
+		if (face2 == 35) {
+    			message.channel.send("Billy Hatcher");
+        	}
+		if (face2 == 36) {
+    			message.channel.send("DDR Mario Mix");
+        	}
+		if (face2 == 37) {
+    			message.channel.send("Dragon Ball Z Budokai 2");
+        	}
+		if (face2 == 38) {
+			message.channel.send("F-Zero GX");
+        	}
+		if (face2 == 39) {
+    			message.channel.send("Harvest Moon: Magical Melody");
+        	}
+    		if (face2 == 40) {
+    			message.channel.send("Kirby Air Ride");
+        	}
+		if (face2 == 41) {
+    			message.channel.send("Mario Golf: Toadstool Tour");
+        	}
+		if (face2 == 42) {
+    			message.channel.send("Mario Kart: Double Dash!!");
+        	}
+		if (face2 == 43) {
+    			message.channel.send("Mario Power Tennis");
+        	}
+		if (face2 == 44) {
+    			message.channel.send("Mario Superstar Baseball");
+        	}
+		if (face2 == 45) {
+    			message.channel.send("Metroid Prime 2: Echoes");
+        	}
+    		if (face2 == 46) {
+    			message.channel.send("Pikmin 2");
+        	}
+		if (face2 == 47) {
+    			message.channel.send("Sonic Adventure 2: Battle");
+        	}
+		if (face2 == 48) {
+    			message.channel.send("Soul Calibur II");
+        	}
+		if (face2 == 49) {
+    			message.channel.send("Star Fox Assault");
+        	}
+		if (face2 == 50) {
+    			message.channel.send("Star Wars: Clone Wars");
+        	}
+		if (face2 == 51) {
+    			message.channel.send("Super Mario Strikers");
+        	}
+    		if (face2 == 52) {
+    			message.channel.send("Super Monkey Ball");
+        	}
+		if (face2 == 53) {
+    			message.channel.send("Super Monkey Ball 2");
+        	}
+		if (face2 == 54) {
+    			message.channel.send("Super Smash Bros Melee");
+        	}
+		if (face2 == 55) {
+    			message.channel.send("Super Smash Bros Melee 20XX");
+        	}
+    		if (face2 == 56) {
+    			message.channel.send("WarioWare: Mega Party Games");
+        	}
+    		if (face2 == 57) {
+    			message.channel.send("The Simpsons: Hit & Run");
+        	}
+		if (face2 == 58) {
+    			message.channel.send("F-Zero GX-Treme");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Monkeyed Ball 2");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Donkey Konga");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Donkey Konga 2");
+        	}
+    		if (face2 == 64) {
+    			message.channel.send("Tony Hawk's American Wasteland");
+        	}
+    		if (face2 == 65) {
+    			message.channel.send("Shrek Super Party");
+        	}
+    		if (face2 == 66) {
+    			message.channel.send("Spongebob: Lights, Camera, Pants!");
+        	}
+    		if (face2 == 67) {
+    			message.channel.send("Super Monkey Ball Adventure");
+        	}
+    		if (face2 == 68) {
+    			message.channel.send("SSX On Tour");
+        	}
+    		if (face2 == 69) {
+    			message.channel.send("NBA Street V3");
+        	}
+    		if (face2 == 70) {
+    			message.channel.send("Tiger Woods PGA Tour 2003");
+        	}
+    		if (face2 == 71) {
+    			message.channel.send("Sonic Gems Collection");
+        	}
+    		if (face2 == 72) {
+    			message.channel.send("Namco Museum: 50th Anniversary");
+        	}
+    		if (face2 == 73) {
+    			message.channel.send("007 Nightfire");
+        	}
+    		if (face2 == 74) {
+    			message.channel.send("007 Everything Or Nothing");
+        	}
+    		if (face2 == 75) {
+    			message.channel.send("All Star Baseball 2004");
+        	}
+    		if (face2 == 76) {
+    			message.channel.send("Shrek 2");
+        	}
+    		if (face2 == 77) {
+    			message.channel.send("Shrek Smash and Crash Racing");
+        	}
+    		if (face2 == 78) {
+    			message.channel.send("Crash Nitro Kart");
+        	}
+    		if (face2 == 79) {
+    			message.channel.send("Nicktoons Unite!");
+        	}
+		if (face2 == 80) {
+    			message.channel.send("Mario Party 8");
+        	}
+    		if (face2 == 81) {
+    			message.channel.send("Mario Party 9");
+        	}
+		if (face2 == 82) {
+    			message.channel.send("Mario Kart Wii");
+        	}
+		if (face2 == 83) {
+    			message.channel.send("Super Smash Bros Brawl");
+        	}
+		if (face2 == 84) {
+    			message.channel.send("Project M");
+        	}
+		if (face2 == 85) {
+    			message.channel.send("Dragon Ball Z Budokai 3");
+        	}
+		if (face2 == 86) {
+    			message.channel.send("Wii Sports");
+        	}
+		if (face2 == 87) {
+			message.channel.send("Wii Play");
+        	}
+		if (face2 == 88) {
+    			message.channel.send("Wii Sports Resort");
+        	}
+    		if (face2 == 89) {
+    			message.channel.send("Wii Music");
+        	}
+		if (face2 == 90) {
+    			message.channel.send("Wii Play Motion");
+        	}
+		if (face2 == 91) {
+    			message.channel.send("Wii Party");
+        	}
+		if (face2 == 92) {
+    			message.channel.send("Mario Kart Fun");
+        	}
+		if (face2 == 93) {
+    			message.channel.send("Mario Kart Wii Hack Pack");
+        	}
+		if (face2 == 94) {
+    			message.channel.send("Super Monkey Ball Banana Blitz");
+        	}
+		if (face2 == 95) {
+    			message.channel.send("Super Monkey Ball Step & Roll");
+        	}
+    		if (face2 == 96) {
+    			message.channel.send("Mario Super Sluggers");
+        	}
+		if (face2 == 97) {
+    			message.channel.send("Mario Strikers Charged");
+        	}
+		if (face2 == 98) {
+    			message.channel.send("Fortune Street");
+        	}
+		if (face2 == 99) {
+    			message.channel.send("Punch-Out!!");
+        	}
+		if (face2 == 100) {
+    			message.channel.send("Mrio Sports Mix");
+        	}
+		if (face2 == 101) {
+    			message.channel.send("Donkey Kong Country Returns");
+        	}
+    		if (face2 == 102) {
+    			message.channel.send("Kirby's Epic Yarn");
+        	}
+		if (face2 == 103) {
+    			message.channel.send("Kirby's Return To Dream Land");
+        	}
+		if (face2 == 104) {
+    			message.channel.send("WarioWare: Smooth Moves");
+        	}
+		if (face2 == 105) {
+    			message.channel.send("Rhythm Heaven Fever");
+        	}
+		if (face2 == 106) {
+    			message.channel.send("Mario & Sonic at the Olympic Games");
+        	}
+		if (face2 == 107) {
+    			message.channel.send("Mario & Sonic at the Olympic Winter Games");
+        	}
+		if (face2 == 108) {
+    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+        	}
+		if (face2 == 109) {
+    			message.channel.send("Donkey Kong Barrel Blast");
+        	}
+		if (face2 == 110) {
+    			message.channel.send("Namco Museum Remix");
+        	}
+		if (face2 == 111) {
+    			message.channel.send("Rayman Raving Rabbids");
+        	}
+		if (face2 == 112) {
+    			message.channel.send("Rayman Raving Rabbids 2");
+        	}
+		if (face2 == 113) {
+    			message.channel.send("Rabbids TV Party");
+        	}
+		if (face2 == 114) {
+    			message.channel.send("Rabbids Go Home");
+        	}
+		if (face2 == 115) {
+    			message.channel.send("Rayman Origins");
+        	}
+		if (face2 == 116) {
+    			message.channel.send("New Super Mario Bros Wii");
+        	}
+		if (face2 == 117) {
+    			message.channel.send("Newer Super Mario Bros Wii");
+        	}
+		if (face2 == 118) {
+    			message.channel.send("Another Super Mario Bros Wii");
+        	}
+		if (face2 == 119) {
+    			message.channel.send("New Summer Sun Bros Wii");
+        	}
+		if (face2 == 120) {
+    			message.channel.send("M&M's Kart Racing");
+        	}
+		if (face2 == 121) {
+    			message.channel.send("Bomberman 64");
+        	}
+		if (face2 == 122) {
+    			message.channel.send("Pokemon Puzzle League");
+        	}
+		if (face2 == 123) {
+    			message.channel.send("Tony Hawk's Pro Skater");
+        	}
+		if (face2 == 124) {
+    			message.channel.send("Tony Hawk's Pro Skater 2");
+        	}
+		if (face2 == 125) {
+    			message.channel.send("Tony Hawk's Pro Skater 3");
+        	}
+		if (face2 == 126) {
+    			message.channel.send("NFL Blitz 2000");
+        	}
+		if (face2 == 127) {
+    			message.channel.send("NFL Blitz 2001");
+        	}
+		if (face2 == 128) {
+    			message.channel.send("The Legend of Zelda: Four Swords Adventures");
+        	}
+		if (face2 == 129) {
+    			message.channel.send("Sonic Riders");
+        	}
+		if (face2 == 130) {
+    			message.channel.send("Digimon Rumble Arena 2");
+        	}
+		if (face2 == 131) {
+    			message.channel.send("Digimon World 4");
+        	}
+		if (face2 == 132) {
+    			message.channel.send("Tony Hawk's Underground");
+        	}
+		if (face2 == 133) {
+    			message.channel.send("Tony Hawk's Underground 2");
+        	}
+		if (face2 == 134) {
+    			message.channel.send("Destroy All Monsters Melee");
+        	}
+		if (face2 == 135) {
+    			message.channel.send("Burnout 2");
+        	}
+		if (face2 == 136) {
+    			message.channel.send("Need For Speed: Hot Pursit");
+        	}
+		if (face2 == 137) {
+    			message.channel.send("Namco Museum: Battle Collection");
+        	}
+		if (face2 == 138) {
+    			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 139) {
+    			message.channel.send("Stunt Racer");
+        	}
+		if (face2 == 140) {
+    			message.channel.send("The New Tetris");
+        	}
+		if (face2 == 141) {
+    			message.channel.send("Deca Sports");
+        	}
+		if (face2 == 142) {
+    			message.channel.send("GoldenEye Wii");
+        	}
+		if (face2 == 143) {
+    			message.channel.send("some call of duty game idk");
+        	}
+	}
+	if (message_content == ("/seemein")) {
+		var face2 = Math.floor(Math.random() * 144);
+		if (face2 == 0) {
+    			message.channel.send("Mario Party 1");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Mario Party 2");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Mario Party 3");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Rugrats Scavenger Hunt");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("1080 Snowboarding");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("Banjo-Tooie");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("Conker's Bad Fur Day");
+        	}
+		if (face2 == 7) {
+			message.channel.send("Diddy Kong Racing");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("Donkey Kong 64");
+        	}
+    		if (face2 == 9) {
+    			message.channel.send("Dr. Mario 64");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("F-Zero X");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Goldeneye 007");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Kirby 64");
+        	}
+		if (face2 == 13) {
+    			message.channel.send("Lego Racers");
+        	}
+		if (face2 == 14) {
+    			message.channel.send("Mario Golf");
+        	}
+    		if (face2 == 15) {
+    			message.channel.send("Mario Kart 64");
+        	}
+		if (face2 == 16) {
+    			message.channel.send("Mickey's Speedway USA");
+        	}
+		if (face2 == 17) {
+    			message.channel.send("Pokemon Stadium");
+        	}
+		if (face2 == 18) {
+    			message.channel.send("Pokemon Stadium 2");
+        	}
+		if (face2 == 19) {
+    			message.channel.send("Rakuga Kids");
+        	}
+		if (face2 == 20) {
+    			message.channel.send("Super Smash Bros (N64)");
+        	}
+    		if (face2 == 21) {
+    			message.channel.send("Snowboard Kids");
+        	}
+    		if (face2 == 22) {
+    			message.channel.send("Snowboard Kids 2");
+        	}
+		if (face2 == 23) {
+    			message.channel.send("Star Wars Episode 1 Pod Racer");
+        	}
+		if (face2 == 24) {
+    			message.channel.send("Wave Race 64");
+        	}
+		if (face2 == 25) {
+    			message.channel.send("Super Smash Bros 199XTE");
+        	}
+		if (face2 == 26) {
+    			message.channel.send("Smash Remix");
+        	}
+		if (face2 == 27) {
+    			message.channel.send("South Park World Rally");
+        	}
+		if (face2 == 28) {
+    			message.channel.send("Monopoly");
+        	}
+		if (face2 == 29) {
+    			message.channel.send("Cruis'n USA");
+        	}
+		if (face2 == 30) {
+    			message.channel.send("Hotwheels: Turbo Racing");
+        	}
+		if (face2 == 31) {
+    			message.channel.send("Mario Party 4");
+        	}
+    		if (face2 == 32) {
+    			message.channel.send("Mario Party 5");
+        	}
+		if (face2 == 33) {
+    			message.channel.send("Mario Party 6");
+        	}
+		if (face2 == 34) {
+    			message.channel.send("Mario Party 7");
+        	}
+		if (face2 == 35) {
+    			message.channel.send("Billy Hatcher");
+        	}
+		if (face2 == 36) {
+    			message.channel.send("DDR Mario Mix");
+        	}
+		if (face2 == 37) {
+    			message.channel.send("Dragon Ball Z Budokai 2");
+        	}
+		if (face2 == 38) {
+			message.channel.send("F-Zero GX");
+        	}
+		if (face2 == 39) {
+    			message.channel.send("Harvest Moon: Magical Melody");
+        	}
+    		if (face2 == 40) {
+    			message.channel.send("Kirby Air Ride");
+        	}
+		if (face2 == 41) {
+    			message.channel.send("Mario Golf: Toadstool Tour");
+        	}
+		if (face2 == 42) {
+    			message.channel.send("Mario Kart: Double Dash!!");
+        	}
+		if (face2 == 43) {
+    			message.channel.send("Mario Power Tennis");
+        	}
+		if (face2 == 44) {
+    			message.channel.send("Mario Superstar Baseball");
+        	}
+		if (face2 == 45) {
+    			message.channel.send("Metroid Prime 2: Echoes");
+        	}
+    		if (face2 == 46) {
+    			message.channel.send("Pikmin 2");
+        	}
+		if (face2 == 47) {
+    			message.channel.send("Sonic Adventure 2: Battle");
+        	}
+		if (face2 == 48) {
+    			message.channel.send("Soul Calibur II");
+        	}
+		if (face2 == 49) {
+    			message.channel.send("Star Fox Assault");
+        	}
+		if (face2 == 50) {
+    			message.channel.send("Star Wars: Clone Wars");
+        	}
+		if (face2 == 51) {
+    			message.channel.send("Super Mario Strikers");
+        	}
+    		if (face2 == 52) {
+    			message.channel.send("Super Monkey Ball");
+        	}
+		if (face2 == 53) {
+    			message.channel.send("Super Monkey Ball 2");
+        	}
+		if (face2 == 54) {
+    			message.channel.send("Super Smash Bros Melee");
+        	}
+		if (face2 == 55) {
+    			message.channel.send("Super Smash Bros Melee 20XX");
+        	}
+    		if (face2 == 56) {
+    			message.channel.send("WarioWare: Mega Party Games");
+        	}
+    		if (face2 == 57) {
+    			message.channel.send("The Simpsons: Hit & Run");
+        	}
+		if (face2 == 58) {
+    			message.channel.send("F-Zero GX-Treme");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Monkeyed Ball 2");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Donkey Konga");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Donkey Konga 2");
+        	}
+    		if (face2 == 64) {
+    			message.channel.send("Tony Hawk's American Wasteland");
+        	}
+    		if (face2 == 65) {
+    			message.channel.send("Shrek Super Party");
+        	}
+    		if (face2 == 66) {
+    			message.channel.send("Spongebob: Lights, Camera, Pants!");
+        	}
+    		if (face2 == 67) {
+    			message.channel.send("Super Monkey Ball Adventure");
+        	}
+    		if (face2 == 68) {
+    			message.channel.send("SSX On Tour");
+        	}
+    		if (face2 == 69) {
+    			message.channel.send("NBA Street V3");
+        	}
+    		if (face2 == 70) {
+    			message.channel.send("Tiger Woods PGA Tour 2003");
+        	}
+    		if (face2 == 71) {
+    			message.channel.send("Sonic Gems Collection");
+        	}
+    		if (face2 == 72) {
+    			message.channel.send("Namco Museum: 50th Anniversary");
+        	}
+    		if (face2 == 73) {
+    			message.channel.send("007 Nightfire");
+        	}
+    		if (face2 == 74) {
+    			message.channel.send("007 Everything Or Nothing");
+        	}
+    		if (face2 == 75) {
+    			message.channel.send("All Star Baseball 2004");
+        	}
+    		if (face2 == 76) {
+    			message.channel.send("Shrek 2");
+        	}
+    		if (face2 == 77) {
+    			message.channel.send("Shrek Smash and Crash Racing");
+        	}
+    		if (face2 == 78) {
+    			message.channel.send("Crash Nitro Kart");
+        	}
+    		if (face2 == 79) {
+    			message.channel.send("Nicktoons Unite!");
+        	}
+		if (face2 == 80) {
+    			message.channel.send("Mario Party 8");
+        	}
+    		if (face2 == 81) {
+    			message.channel.send("Mario Party 9");
+        	}
+		if (face2 == 82) {
+    			message.channel.send("Mario Kart Wii");
+        	}
+		if (face2 == 83) {
+    			message.channel.send("Super Smash Bros Brawl");
+        	}
+		if (face2 == 84) {
+    			message.channel.send("Project M");
+        	}
+		if (face2 == 85) {
+    			message.channel.send("Dragon Ball Z Budokai 3");
+        	}
+		if (face2 == 86) {
+    			message.channel.send("Wii Sports");
+        	}
+		if (face2 == 87) {
+			message.channel.send("Wii Play");
+        	}
+		if (face2 == 88) {
+    			message.channel.send("Wii Sports Resort");
+        	}
+    		if (face2 == 89) {
+    			message.channel.send("Wii Music");
+        	}
+		if (face2 == 90) {
+    			message.channel.send("Wii Play Motion");
+        	}
+		if (face2 == 91) {
+    			message.channel.send("Wii Party");
+        	}
+		if (face2 == 92) {
+    			message.channel.send("Mario Kart Fun");
+        	}
+		if (face2 == 93) {
+    			message.channel.send("Mario Kart Wii Hack Pack");
+        	}
+		if (face2 == 94) {
+    			message.channel.send("Super Monkey Ball Banana Blitz");
+        	}
+		if (face2 == 95) {
+    			message.channel.send("Super Monkey Ball Step & Roll");
+        	}
+    		if (face2 == 96) {
+    			message.channel.send("Mario Super Sluggers");
+        	}
+		if (face2 == 97) {
+    			message.channel.send("Mario Strikers Charged");
+        	}
+		if (face2 == 98) {
+    			message.channel.send("Fortune Street");
+        	}
+		if (face2 == 99) {
+    			message.channel.send("Punch-Out!!");
+        	}
+		if (face2 == 100) {
+    			message.channel.send("Mrio Sports Mix");
+        	}
+		if (face2 == 101) {
+    			message.channel.send("Donkey Kong Country Returns");
+        	}
+    		if (face2 == 102) {
+    			message.channel.send("Kirby's Epic Yarn");
+        	}
+		if (face2 == 103) {
+    			message.channel.send("Kirby's Return To Dream Land");
+        	}
+		if (face2 == 104) {
+    			message.channel.send("WarioWare: Smooth Moves");
+        	}
+		if (face2 == 105) {
+    			message.channel.send("Rhythm Heaven Fever");
+        	}
+		if (face2 == 106) {
+    			message.channel.send("Mario & Sonic at the Olympic Games");
+        	}
+		if (face2 == 107) {
+    			message.channel.send("Mario & Sonic at the Olympic Winter Games");
+        	}
+		if (face2 == 108) {
+    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+        	}
+		if (face2 == 109) {
+    			message.channel.send("Donkey Kong Barrel Blast");
+        	}
+		if (face2 == 110) {
+    			message.channel.send("Namco Museum Remix");
+        	}
+		if (face2 == 111) {
+    			message.channel.send("Rayman Raving Rabbids");
+        	}
+		if (face2 == 112) {
+    			message.channel.send("Rayman Raving Rabbids 2");
+        	}
+		if (face2 == 113) {
+    			message.channel.send("Rabbids TV Party");
+        	}
+		if (face2 == 114) {
+    			message.channel.send("Rabbids Go Home");
+        	}
+		if (face2 == 115) {
+    			message.channel.send("Rayman Origins");
+        	}
+		if (face2 == 116) {
+    			message.channel.send("New Super Mario Bros Wii");
+        	}
+		if (face2 == 117) {
+    			message.channel.send("Newer Super Mario Bros Wii");
+        	}
+		if (face2 == 118) {
+    			message.channel.send("Another Super Mario Bros Wii");
+        	}
+		if (face2 == 119) {
+    			message.channel.send("New Summer Sun Bros Wii");
+        	}
+		if (face2 == 120) {
+    			message.channel.send("M&M's Kart Racing");
+        	}
+		if (face2 == 121) {
+    			message.channel.send("Bomberman 64");
+        	}
+		if (face2 == 122) {
+    			message.channel.send("Pokemon Puzzle League");
+        	}
+		if (face2 == 123) {
+    			message.channel.send("Tony Hawk's Pro Skater");
+        	}
+		if (face2 == 124) {
+    			message.channel.send("Tony Hawk's Pro Skater 2");
+        	}
+		if (face2 == 125) {
+    			message.channel.send("Tony Hawk's Pro Skater 3");
+        	}
+		if (face2 == 126) {
+    			message.channel.send("NFL Blitz 2000");
+        	}
+		if (face2 == 127) {
+    			message.channel.send("NFL Blitz 2001");
+        	}
+		if (face2 == 128) {
+    			message.channel.send("The Legend of Zelda: Four Swords Adventures");
+        	}
+		if (face2 == 129) {
+    			message.channel.send("Sonic Riders");
+        	}
+		if (face2 == 130) {
+    			message.channel.send("Digimon Rumble Arena 2");
+        	}
+		if (face2 == 131) {
+    			message.channel.send("Digimon World 4");
+        	}
+		if (face2 == 132) {
+    			message.channel.send("Tony Hawk's Underground");
+        	}
+		if (face2 == 133) {
+    			message.channel.send("Tony Hawk's Underground 2");
+        	}
+		if (face2 == 134) {
+    			message.channel.send("Destroy All Monsters Melee");
+        	}
+		if (face2 == 135) {
+    			message.channel.send("Burnout 2");
+        	}
+		if (face2 == 136) {
+    			message.channel.send("Need For Speed: Hot Pursit");
+        	}
+		if (face2 == 137) {
+    			message.channel.send("Namco Museum: Battle Collection");
+        	}
+		if (face2 == 138) {
+    			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 139) {
+    			message.channel.send("Stunt Racer");
+        	}
+		if (face2 == 140) {
+    			message.channel.send("The New Tetris");
+        	}
+		if (face2 == 141) {
+    			message.channel.send("Deca Sports");
+        	}
+		if (face2 == 142) {
+    			message.channel.send("GoldenEye Wii");
+        	}
+		if (face2 == 143) {
+    			message.channel.send("some call of duty game idk");
+        	}
+	}
+	if (message_content == ("/seemein all")) {
+		var face2 = Math.floor(Math.random() * 144);
+		if (face2 == 0) {
+    			message.channel.send("Mario Party 1");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Mario Party 2");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Mario Party 3");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Rugrats Scavenger Hunt");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("1080 Snowboarding");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("Banjo-Tooie");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("Conker's Bad Fur Day");
+        	}
+		if (face2 == 7) {
+			message.channel.send("Diddy Kong Racing");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("Donkey Kong 64");
+        	}
+    		if (face2 == 9) {
+    			message.channel.send("Dr. Mario 64");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("F-Zero X");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Goldeneye 007");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Kirby 64");
+        	}
+		if (face2 == 13) {
+    			message.channel.send("Lego Racers");
+        	}
+		if (face2 == 14) {
+    			message.channel.send("Mario Golf");
+        	}
+    		if (face2 == 15) {
+    			message.channel.send("Mario Kart 64");
+        	}
+		if (face2 == 16) {
+    			message.channel.send("Mickey's Speedway USA");
+        	}
+		if (face2 == 17) {
+    			message.channel.send("Pokemon Stadium");
+        	}
+		if (face2 == 18) {
+    			message.channel.send("Pokemon Stadium 2");
+        	}
+		if (face2 == 19) {
+    			message.channel.send("Rakuga Kids");
+        	}
+		if (face2 == 20) {
+    			message.channel.send("Super Smash Bros (N64)");
+        	}
+    		if (face2 == 21) {
+    			message.channel.send("Snowboard Kids");
+        	}
+    		if (face2 == 22) {
+    			message.channel.send("Snowboard Kids 2");
+        	}
+		if (face2 == 23) {
+    			message.channel.send("Star Wars Episode 1 Pod Racer");
+        	}
+		if (face2 == 24) {
+    			message.channel.send("Wave Race 64");
+        	}
+		if (face2 == 25) {
+    			message.channel.send("Super Smash Bros 199XTE");
+        	}
+		if (face2 == 26) {
+    			message.channel.send("Smash Remix");
+        	}
+		if (face2 == 27) {
+    			message.channel.send("South Park World Rally");
+        	}
+		if (face2 == 28) {
+    			message.channel.send("Monopoly");
+        	}
+		if (face2 == 29) {
+    			message.channel.send("Cruis'n USA");
+        	}
+		if (face2 == 30) {
+    			message.channel.send("Hotwheels: Turbo Racing");
+        	}
+		if (face2 == 31) {
+    			message.channel.send("Mario Party 4");
+        	}
+    		if (face2 == 32) {
+    			message.channel.send("Mario Party 5");
+        	}
+		if (face2 == 33) {
+    			message.channel.send("Mario Party 6");
+        	}
+		if (face2 == 34) {
+    			message.channel.send("Mario Party 7");
+        	}
+		if (face2 == 35) {
+    			message.channel.send("Billy Hatcher");
+        	}
+		if (face2 == 36) {
+    			message.channel.send("DDR Mario Mix");
+        	}
+		if (face2 == 37) {
+    			message.channel.send("Dragon Ball Z Budokai 2");
+        	}
+		if (face2 == 38) {
+			message.channel.send("F-Zero GX");
+        	}
+		if (face2 == 39) {
+    			message.channel.send("Harvest Moon: Magical Melody");
+        	}
+    		if (face2 == 40) {
+    			message.channel.send("Kirby Air Ride");
+        	}
+		if (face2 == 41) {
+    			message.channel.send("Mario Golf: Toadstool Tour");
+        	}
+		if (face2 == 42) {
+    			message.channel.send("Mario Kart: Double Dash!!");
+        	}
+		if (face2 == 43) {
+    			message.channel.send("Mario Power Tennis");
+        	}
+		if (face2 == 44) {
+    			message.channel.send("Mario Superstar Baseball");
+        	}
+		if (face2 == 45) {
+    			message.channel.send("Metroid Prime 2: Echoes");
+        	}
+    		if (face2 == 46) {
+    			message.channel.send("Pikmin 2");
+        	}
+		if (face2 == 47) {
+    			message.channel.send("Sonic Adventure 2: Battle");
+        	}
+		if (face2 == 48) {
+    			message.channel.send("Soul Calibur II");
+        	}
+		if (face2 == 49) {
+    			message.channel.send("Star Fox Assault");
+        	}
+		if (face2 == 50) {
+    			message.channel.send("Star Wars: Clone Wars");
+        	}
+		if (face2 == 51) {
+    			message.channel.send("Super Mario Strikers");
+        	}
+    		if (face2 == 52) {
+    			message.channel.send("Super Monkey Ball");
+        	}
+		if (face2 == 53) {
+    			message.channel.send("Super Monkey Ball 2");
+        	}
+		if (face2 == 54) {
+    			message.channel.send("Super Smash Bros Melee");
+        	}
+		if (face2 == 55) {
+    			message.channel.send("Super Smash Bros Melee 20XX");
+        	}
+    		if (face2 == 56) {
+    			message.channel.send("WarioWare: Mega Party Games");
+        	}
+    		if (face2 == 57) {
+    			message.channel.send("The Simpsons: Hit & Run");
+        	}
+		if (face2 == 58) {
+    			message.channel.send("F-Zero GX-Treme");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Monkeyed Ball 2");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Donkey Konga");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Donkey Konga 2");
+        	}
+    		if (face2 == 64) {
+    			message.channel.send("Tony Hawk's American Wasteland");
+        	}
+    		if (face2 == 65) {
+    			message.channel.send("Shrek Super Party");
+        	}
+    		if (face2 == 66) {
+    			message.channel.send("Spongebob: Lights, Camera, Pants!");
+        	}
+    		if (face2 == 67) {
+    			message.channel.send("Super Monkey Ball Adventure");
+        	}
+    		if (face2 == 68) {
+    			message.channel.send("SSX On Tour");
+        	}
+    		if (face2 == 69) {
+    			message.channel.send("NBA Street V3");
+        	}
+    		if (face2 == 70) {
+    			message.channel.send("Tiger Woods PGA Tour 2003");
+        	}
+    		if (face2 == 71) {
+    			message.channel.send("Sonic Gems Collection");
+        	}
+    		if (face2 == 72) {
+    			message.channel.send("Namco Museum: 50th Anniversary");
+        	}
+    		if (face2 == 73) {
+    			message.channel.send("007 Nightfire");
+        	}
+    		if (face2 == 74) {
+    			message.channel.send("007 Everything Or Nothing");
+        	}
+    		if (face2 == 75) {
+    			message.channel.send("All Star Baseball 2004");
+        	}
+    		if (face2 == 76) {
+    			message.channel.send("Shrek 2");
+        	}
+    		if (face2 == 77) {
+    			message.channel.send("Shrek Smash and Crash Racing");
+        	}
+    		if (face2 == 78) {
+    			message.channel.send("Crash Nitro Kart");
+        	}
+    		if (face2 == 79) {
+    			message.channel.send("Nicktoons Unite!");
+        	}
+		if (face2 == 80) {
+    			message.channel.send("Mario Party 8");
+        	}
+    		if (face2 == 81) {
+    			message.channel.send("Mario Party 9");
+        	}
+		if (face2 == 82) {
+    			message.channel.send("Mario Kart Wii");
+        	}
+		if (face2 == 83) {
+    			message.channel.send("Super Smash Bros Brawl");
+        	}
+		if (face2 == 84) {
+    			message.channel.send("Project M");
+        	}
+		if (face2 == 85) {
+    			message.channel.send("Dragon Ball Z Budokai 3");
+        	}
+		if (face2 == 86) {
+    			message.channel.send("Wii Sports");
+        	}
+		if (face2 == 87) {
+			message.channel.send("Wii Play");
+        	}
+		if (face2 == 88) {
+    			message.channel.send("Wii Sports Resort");
+        	}
+    		if (face2 == 89) {
+    			message.channel.send("Wii Music");
+        	}
+		if (face2 == 90) {
+    			message.channel.send("Wii Play Motion");
+        	}
+		if (face2 == 91) {
+    			message.channel.send("Wii Party");
+        	}
+		if (face2 == 92) {
+    			message.channel.send("Mario Kart Fun");
+        	}
+		if (face2 == 93) {
+    			message.channel.send("Mario Kart Wii Hack Pack");
+        	}
+		if (face2 == 94) {
+    			message.channel.send("Super Monkey Ball Banana Blitz");
+        	}
+		if (face2 == 95) {
+    			message.channel.send("Super Monkey Ball Step & Roll");
+        	}
+    		if (face2 == 96) {
+    			message.channel.send("Mario Super Sluggers");
+        	}
+		if (face2 == 97) {
+    			message.channel.send("Mario Strikers Charged");
+        	}
+		if (face2 == 98) {
+    			message.channel.send("Fortune Street");
+        	}
+		if (face2 == 99) {
+    			message.channel.send("Punch-Out!!");
+        	}
+		if (face2 == 100) {
+    			message.channel.send("Mrio Sports Mix");
+        	}
+		if (face2 == 101) {
+    			message.channel.send("Donkey Kong Country Returns");
+        	}
+    		if (face2 == 102) {
+    			message.channel.send("Kirby's Epic Yarn");
+        	}
+		if (face2 == 103) {
+    			message.channel.send("Kirby's Return To Dream Land");
+        	}
+		if (face2 == 104) {
+    			message.channel.send("WarioWare: Smooth Moves");
+        	}
+		if (face2 == 105) {
+    			message.channel.send("Rhythm Heaven Fever");
+        	}
+		if (face2 == 106) {
+    			message.channel.send("Mario & Sonic at the Olympic Games");
+        	}
+		if (face2 == 107) {
+    			message.channel.send("Mario & Sonic at the Olympic Winter Games");
+        	}
+		if (face2 == 108) {
+    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+        	}
+		if (face2 == 109) {
+    			message.channel.send("Donkey Kong Barrel Blast");
+        	}
+		if (face2 == 110) {
+    			message.channel.send("Namco Museum Remix");
+        	}
+		if (face2 == 111) {
+    			message.channel.send("Rayman Raving Rabbids");
+        	}
+		if (face2 == 112) {
+    			message.channel.send("Rayman Raving Rabbids 2");
+        	}
+		if (face2 == 113) {
+    			message.channel.send("Rabbids TV Party");
+        	}
+		if (face2 == 114) {
+    			message.channel.send("Rabbids Go Home");
+        	}
+		if (face2 == 115) {
+    			message.channel.send("Rayman Origins");
+        	}
+		if (face2 == 116) {
+    			message.channel.send("New Super Mario Bros Wii");
+        	}
+		if (face2 == 117) {
+    			message.channel.send("Newer Super Mario Bros Wii");
+        	}
+		if (face2 == 118) {
+    			message.channel.send("Another Super Mario Bros Wii");
+        	}
+		if (face2 == 119) {
+    			message.channel.send("New Summer Sun Bros Wii");
+        	}
+		if (face2 == 120) {
+    			message.channel.send("M&M's Kart Racing");
+        	}
+		if (face2 == 121) {
+    			message.channel.send("Bomberman 64");
+        	}
+		if (face2 == 122) {
+    			message.channel.send("Pokemon Puzzle League");
+        	}
+		if (face2 == 123) {
+    			message.channel.send("Tony Hawk's Pro Skater");
+        	}
+		if (face2 == 124) {
+    			message.channel.send("Tony Hawk's Pro Skater 2");
+        	}
+		if (face2 == 125) {
+    			message.channel.send("Tony Hawk's Pro Skater 3");
+        	}
+		if (face2 == 126) {
+    			message.channel.send("NFL Blitz 2000");
+        	}
+		if (face2 == 127) {
+    			message.channel.send("NFL Blitz 2001");
+        	}
+		if (face2 == 128) {
+    			message.channel.send("The Legend of Zelda: Four Swords Adventures");
+        	}
+		if (face2 == 129) {
+    			message.channel.send("Sonic Riders");
+        	}
+		if (face2 == 130) {
+    			message.channel.send("Digimon Rumble Arena 2");
+        	}
+		if (face2 == 131) {
+    			message.channel.send("Digimon World 4");
+        	}
+		if (face2 == 132) {
+    			message.channel.send("Tony Hawk's Underground");
+        	}
+		if (face2 == 133) {
+    			message.channel.send("Tony Hawk's Underground 2");
+        	}
+		if (face2 == 134) {
+    			message.channel.send("Destroy All Monsters Melee");
+        	}
+		if (face2 == 135) {
+    			message.channel.send("Burnout 2");
+        	}
+		if (face2 == 136) {
+    			message.channel.send("Need For Speed: Hot Pursit");
+        	}
+		if (face2 == 137) {
+    			message.channel.send("Namco Museum: Battle Collection");
+        	}
+		if (face2 == 138) {
+    			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 139) {
+    			message.channel.send("Stunt Racer");
+        	}
+		if (face2 == 140) {
+    			message.channel.send("The New Tetris");
+        	}
+		if (face2 == 141) {
+    			message.channel.send("Deca Sports");
+        	}
+		if (face2 == 142) {
+    			message.channel.send("GoldenEye Wii");
+        	}
+		if (face2 == 143) {
+    			message.channel.send("some call of duty game idk");
+        	}
+	}
+	if (message_content == ("/seemein any")) {
 		var face2 = Math.floor(Math.random() * 144);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
