@@ -25,6 +25,6 @@ client.on('message', message => {
 	if (message_content.includes("code")) {
 		message.channel.send("Notepad is better than Microsoft Word");
 	}
-}
+});
 
 client.login(process.env.BOT_TOKEN);
