@@ -6421,7 +6421,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 50) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 51) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -6580,7 +6580,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 50) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 51) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -6739,7 +6739,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 50) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 51) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -6898,7 +6898,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 50) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 51) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -7438,7 +7438,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 177) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -7978,7 +7978,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 177) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -8512,7 +8512,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 177) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -9046,7 +9046,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 177) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -9580,7 +9580,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 177) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -10114,7 +10114,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 177) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -10648,7 +10648,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 177) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
@@ -11182,7 +11182,7 @@ client.on('message', message => {
     			message.channel.send("Trauma Center: New Blood");
         	}
 		if (face2 == 177) {
-    			message.channel.send("Trauma Center: Under The Knife");
+    			message.channel.send("Boom Blox");
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
