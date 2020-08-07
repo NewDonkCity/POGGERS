@@ -2618,7 +2618,7 @@ client.on('message', message => {
 		message.channel.send("Minigame Match");
 	}
 	if (message_content == ("/game 64")) {
-		var face2 = Math.floor(Math.random() * 40);
+		var face2 = Math.floor(Math.random() * 48);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -2738,10 +2738,34 @@ client.on('message', message => {
         	}
 		if (face2 == 39) {
     			message.channel.send("The New Tetris");
+		}
+		if (face2 == 40) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 41) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 42) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 43) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 44) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 45) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 46) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 47) {
+    			message.channel.send("ClayFighter 63 1/3");
 		}
 	}
 	if (message_content.includes("which 64 game should")) {
-		var face2 = Math.floor(Math.random() * 40);
+		var face2 = Math.floor(Math.random() * 48);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -2861,10 +2885,34 @@ client.on('message', message => {
         	}
 		if (face2 == 39) {
     			message.channel.send("The New Tetris");
+		}
+		if (face2 == 40) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 41) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 42) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 43) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 44) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 45) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 46) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 47) {
+    			message.channel.send("ClayFighter 63 1/3");
 		}
 	}
 	if (message_content.includes("which n64 game should")) {
-		var face2 = Math.floor(Math.random() * 40);
+		var face2 = Math.floor(Math.random() * 48);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -2984,10 +3032,34 @@ client.on('message', message => {
         	}
 		if (face2 == 39) {
     			message.channel.send("The New Tetris");
+		}
+		if (face2 == 40) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 41) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 42) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 43) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 44) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 45) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 46) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 47) {
+    			message.channel.send("ClayFighter 63 1/3");
 		}
 	}
 	if (message_content == ("/seemein n64")) {
-		var face2 = Math.floor(Math.random() * 40);
+		var face2 = Math.floor(Math.random() * 48);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3107,10 +3179,34 @@ client.on('message', message => {
         	}
 		if (face2 == 39) {
     			message.channel.send("The New Tetris");
+		}
+		if (face2 == 40) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 41) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 42) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 43) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 44) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 45) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 46) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 47) {
+    			message.channel.send("ClayFighter 63 1/3");
 		}
 	}
 	if (message_content == ("/seemein 64")) {
-		var face2 = Math.floor(Math.random() * 40);
+		var face2 = Math.floor(Math.random() * 48);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3230,10 +3326,34 @@ client.on('message', message => {
         	}
 		if (face2 == 39) {
     			message.channel.send("The New Tetris");
+		}
+		if (face2 == 40) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 41) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 42) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 43) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 44) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 45) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 46) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 47) {
+    			message.channel.send("ClayFighter 63 1/3");
 		}
 	}
 	if (message_content.includes("what 64 game should")) {
-		var face2 = Math.floor(Math.random() * 40);
+		var face2 = Math.floor(Math.random() * 48);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3353,10 +3473,34 @@ client.on('message', message => {
         	}
 		if (face2 == 39) {
     			message.channel.send("The New Tetris");
+		}
+		if (face2 == 40) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 41) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 42) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 43) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 44) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 45) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 46) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 47) {
+    			message.channel.send("ClayFighter 63 1/3");
 		}
 	}
 	if (message_content.includes("what n64 game should")) {
-		var face2 = Math.floor(Math.random() * 40);
+		var face2 = Math.floor(Math.random() * 48);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3476,10 +3620,34 @@ client.on('message', message => {
         	}
 		if (face2 == 39) {
     			message.channel.send("The New Tetris");
+		}
+		if (face2 == 40) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 41) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 42) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 43) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 44) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 45) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 46) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 47) {
+    			message.channel.send("ClayFighter 63 1/3");
 		}
 	}
 	if (message_content == ("/game n64")) {
-		var face2 = Math.floor(Math.random() * 40);
+		var face2 = Math.floor(Math.random() * 48);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3600,9 +3768,33 @@ client.on('message', message => {
 		if (face2 == 39) {
     			message.channel.send("The New Tetris");
 		}
+		if (face2 == 40) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 41) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 42) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 43) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 44) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 45) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 46) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 47) {
+    			message.channel.send("ClayFighter 63 1/3");
+		}
 	}
 	if (message_content == ("/game gamecube")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -3779,10 +3971,55 @@ client.on('message', message => {
         	}
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
         	}
 	}
 	if (message_content == ("/game gcn")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -3959,10 +4196,55 @@ client.on('message', message => {
         	}
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
         	}
 	}
 	if (message_content.includes("which gcn game should")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4139,10 +4421,55 @@ client.on('message', message => {
         	}
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
         	}
 	}
 	if (message_content.includes("which gc game should")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4319,10 +4646,55 @@ client.on('message', message => {
         	}
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
         	}
 	}
 	if (message_content.includes("/seemein gc")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4499,10 +4871,55 @@ client.on('message', message => {
         	}
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
         	}
 	}
 	if (message_content == ("/seemein gamecube")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4679,10 +5096,55 @@ client.on('message', message => {
         	}
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
         	}
 	}
 	if (message_content.includes("which gamecube game should")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4859,10 +5321,55 @@ client.on('message', message => {
         	}
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
         	}
 	}
 	if (message_content.includes("what gcn game should")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5039,10 +5546,55 @@ client.on('message', message => {
         	}
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
         	}
 	}
 	if (message_content.includes("what gc game should")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5219,10 +5771,55 @@ client.on('message', message => {
         	}
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
         	}
 	}
 	if (message_content.includes("what gamecube game should")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5399,10 +5996,55 @@ client.on('message', message => {
         	}
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
+        	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
         	}
 	}
 	if (message_content == ("/game gc")) {
-		var face2 = Math.floor(Math.random() * 59);
+		var face2 = Math.floor(Math.random() * 73);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5580,9 +6222,54 @@ client.on('message', message => {
 		if (face2 == 58) {
     			message.channel.send("some WWE game idk");
         	}
+		if (face2 == 59) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 60) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 61) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 62) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 63) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 64) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 65) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 66) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 67) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 68) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 69) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 70) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 71) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 72) {
+    			message.channel.send("NHL Hitz 20-02");
+        	}
 	}
 	if (message_content == ("/game wii")) {
-		var face2 = Math.floor(Math.random() * 44);
+		var face2 = Math.floor(Math.random() * 52);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 8");
         	}
@@ -5714,10 +6401,34 @@ client.on('message', message => {
         	}
 		if (face2 == 43) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 44) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 45) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 46) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 47) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 48) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 49) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 50) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 51) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (message_content.includes("which wii game should")) {
-		var face2 = Math.floor(Math.random() * 44);
+		var face2 = Math.floor(Math.random() * 52);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 8");
         	}
@@ -5849,10 +6560,34 @@ client.on('message', message => {
         	}
 		if (face2 == 43) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 44) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 45) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 46) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 47) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 48) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 49) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 50) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 51) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (message_content == ("/seemein wii")) {
-		var face2 = Math.floor(Math.random() * 44);
+		var face2 = Math.floor(Math.random() * 52);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 8");
         	}
@@ -5984,10 +6719,34 @@ client.on('message', message => {
         	}
 		if (face2 == 43) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 44) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 45) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 46) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 47) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 48) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 49) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 50) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 51) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (message_content.includes("what wii game should")) {
-		var face2 = Math.floor(Math.random() * 44);
+		var face2 = Math.floor(Math.random() * 52);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 8");
         	}
@@ -6120,9 +6879,33 @@ client.on('message', message => {
 		if (face2 == 43) {
     			message.channel.send("some call of duty game idk");
         	}
+		if (face2 == 44) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 45) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 46) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 47) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 48) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 49) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 50) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 51) {
+    			message.channel.send("Pokemon Battle Revolution");
+        	}
 	}
 	if (message_content == ("/game all")) {
-		var face2 = Math.floor(Math.random() * 144);
+		var face2 = Math.floor(Math.random() * 179);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -6554,10 +7337,115 @@ client.on('message', message => {
         	}
 		if (face2 == 143) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 144) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 145) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 146) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 147) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 148) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 149) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 150) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 151) {
+    			message.channel.send("ClayFighter 63 1/3");
+		}
+		if (face2 == 152) {
+    			message.channel.send("Madden 2002");
+		}
+		if (face2 == 153) {
+    			message.channel.send("Perfect Dark");
+		}
+		if (face2 == 154) {
+    			message.channel.send("StarFox 64");
+		}
+		if (face2 == 155) {
+    			message.channel.send("Jet Force Gemini");
+		}
+		if (face2 == 156) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 157) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 158) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 159) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 160) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 161) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 162) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 163) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 164) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 165) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 166) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 167) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 168) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 169) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 170) {
+    			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 171) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 172) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 173) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 174) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 175) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 176) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 177) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 178) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (message_content.includes("which game should")) {
-		var face2 = Math.floor(Math.random() * 144);
+		var face2 = Math.floor(Math.random() * 179);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -6989,10 +7877,115 @@ client.on('message', message => {
         	}
 		if (face2 == 143) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 144) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 145) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 146) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 147) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 148) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 149) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 150) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 151) {
+    			message.channel.send("ClayFighter 63 1/3");
+		}
+		if (face2 == 152) {
+    			message.channel.send("Madden 2002");
+		}
+		if (face2 == 153) {
+    			message.channel.send("Perfect Dark");
+		}
+		if (face2 == 154) {
+    			message.channel.send("StarFox 64");
+		}
+		if (face2 == 155) {
+    			message.channel.send("Jet Force Gemini");
+		}
+		if (face2 == 156) {
+    			message.channel.send("Sonic the Fighters");
+        	}
+		if (face2 == 157) {
+    			message.channel.send("Smashing Drive");
+        	}
+		if (face2 == 158) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 159) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 160) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 161) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 162) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 163) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 164) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 165) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 166) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 167) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 168) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 169) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 170) {
+    			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 171) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 172) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 173) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 174) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 175) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 176) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 177) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 178) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (message_content.includes("what game should")) {
-		var face2 = Math.floor(Math.random() * 144);
+		var face2 = Math.floor(Math.random() * 179);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -7424,10 +8417,109 @@ client.on('message', message => {
         	}
 		if (face2 == 143) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 144) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 145) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 146) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 147) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 148) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 149) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 150) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 151) {
+    			message.channel.send("ClayFighter 63 1/3");
+		}
+		if (face2 == 152) {
+    			message.channel.send("Madden 2002");
+		}
+		if (face2 == 153) {
+    			message.channel.send("Perfect Dark");
+		}
+		if (face2 == 154) {
+    			message.channel.send("StarFox 64");
+		}
+		if (face2 == 155) {
+    			message.channel.send("Jet Force Gemini");
+		}
+		if (face2 == 158) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 159) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 160) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 161) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 162) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 163) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 164) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 165) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 166) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 167) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 168) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 169) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 170) {
+    			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 171) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 172) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 173) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 174) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 175) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 176) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 177) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 178) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (message_content == ("/game any")) {
-		var face2 = Math.floor(Math.random() * 144);
+		var face2 = Math.floor(Math.random() * 179);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -7859,10 +8951,109 @@ client.on('message', message => {
         	}
 		if (face2 == 143) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 144) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 145) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 146) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 147) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 148) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 149) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 150) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 151) {
+    			message.channel.send("ClayFighter 63 1/3");
+		}
+		if (face2 == 152) {
+    			message.channel.send("Madden 2002");
+		}
+		if (face2 == 153) {
+    			message.channel.send("Perfect Dark");
+		}
+		if (face2 == 154) {
+    			message.channel.send("StarFox 64");
+		}
+		if (face2 == 155) {
+    			message.channel.send("Jet Force Gemini");
+		}
+		if (face2 == 158) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 159) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 160) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 161) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 162) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 163) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 164) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 165) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 166) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 167) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 168) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 169) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 170) {
+    			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 171) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 172) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 173) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 174) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 175) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 176) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 177) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 178) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (message_content == ("/seemein")) {
-		var face2 = Math.floor(Math.random() * 144);
+		var face2 = Math.floor(Math.random() * 179);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -8294,10 +9485,109 @@ client.on('message', message => {
         	}
 		if (face2 == 143) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 144) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 145) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 146) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 147) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 148) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 149) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 150) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 151) {
+    			message.channel.send("ClayFighter 63 1/3");
+		}
+		if (face2 == 152) {
+    			message.channel.send("Madden 2002");
+		}
+		if (face2 == 153) {
+    			message.channel.send("Perfect Dark");
+		}
+		if (face2 == 154) {
+    			message.channel.send("StarFox 64");
+		}
+		if (face2 == 155) {
+    			message.channel.send("Jet Force Gemini");
+		}
+		if (face2 == 158) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 159) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 160) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 161) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 162) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 163) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 164) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 165) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 166) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 167) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 168) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 169) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 170) {
+    			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 171) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 172) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 173) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 174) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 175) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 176) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 177) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 178) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (message_content == ("/seemein all")) {
-		var face2 = Math.floor(Math.random() * 144);
+		var face2 = Math.floor(Math.random() * 179);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -8729,10 +10019,109 @@ client.on('message', message => {
         	}
 		if (face2 == 143) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 144) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 145) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 146) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 147) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 148) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 149) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 150) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 151) {
+    			message.channel.send("ClayFighter 63 1/3");
+		}
+		if (face2 == 152) {
+    			message.channel.send("Madden 2002");
+		}
+		if (face2 == 153) {
+    			message.channel.send("Perfect Dark");
+		}
+		if (face2 == 154) {
+    			message.channel.send("StarFox 64");
+		}
+		if (face2 == 155) {
+    			message.channel.send("Jet Force Gemini");
+		}
+		if (face2 == 158) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 159) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 160) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 161) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 162) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 163) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 164) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 165) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 166) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 167) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 168) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 169) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 170) {
+    			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 171) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 172) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 173) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 174) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 175) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 176) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 177) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 178) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (message_content == ("/seemein any")) {
-		var face2 = Math.floor(Math.random() * 144);
+		var face2 = Math.floor(Math.random() * 179);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -9164,10 +10553,109 @@ client.on('message', message => {
         	}
 		if (face2 == 143) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 144) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 145) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 146) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 147) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 148) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 149) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 150) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 151) {
+    			message.channel.send("ClayFighter 63 1/3");
+		}
+		if (face2 == 152) {
+    			message.channel.send("Madden 2002");
+		}
+		if (face2 == 153) {
+    			message.channel.send("Perfect Dark");
+		}
+		if (face2 == 154) {
+    			message.channel.send("StarFox 64");
+		}
+		if (face2 == 155) {
+    			message.channel.send("Jet Force Gemini");
+		}
+		if (face2 == 158) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 159) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 160) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 161) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 162) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 163) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 164) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 165) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 166) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 167) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 168) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 169) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 170) {
+    			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 171) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 172) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 173) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 174) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 175) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 176) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 177) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 178) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (message_content == ("/game")) {
-		var face2 = Math.floor(Math.random() * 144);
+		var face2 = Math.floor(Math.random() * 179);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -9599,6 +11087,105 @@ client.on('message', message => {
         	}
 		if (face2 == 143) {
     			message.channel.send("some call of duty game idk");
+        	}
+		if (face2 == 144) {
+    			message.channel.send("Cruis'n Exotica");
+		}
+		if (face2 == 145) {
+    			message.channel.send("WWF No Mercy");
+		}
+		if (face2 == 146) {
+    			message.channel.send("Superman 64");
+		}
+		if (face2 == 147) {
+    			message.channel.send("Mundial Ronaldinho Soccer 64");
+		}
+		if (face2 == 148) {
+    			message.channel.send("International Superstar Soccer 64");
+		}
+		if (face2 == 149) {
+    			message.channel.send("ClayFighter: Sculptor's Cut");
+		}
+		if (face2 == 150) {
+    			message.channel.send("Rush 2: Extreme Racing USA");
+		}
+		if (face2 == 151) {
+    			message.channel.send("ClayFighter 63 1/3");
+		}
+		if (face2 == 152) {
+    			message.channel.send("Madden 2002");
+		}
+		if (face2 == 153) {
+    			message.channel.send("Perfect Dark");
+		}
+		if (face2 == 154) {
+    			message.channel.send("StarFox 64");
+		}
+		if (face2 == 155) {
+    			message.channel.send("Jet Force Gemini");
+		}
+		if (face2 == 158) {
+    			message.channel.send("Sonic Heroes");
+        	}
+		if (face2 == 159) {
+    			message.channel.send("Madagascar");
+        	}
+		if (face2 == 160) {
+    			message.channel.send("Pac-Man World Rally");
+        	}
+		if (face2 == 161) {
+    			message.channel.send("Rayman Arena");
+        	}
+		if (face2 == 162) {
+    			message.channel.send("SSX Tricky");
+        	}
+		if (face2 == 163) {
+    			message.channel.send("Nintendo Puzzle Collection");
+        	}
+		if (face2 == 164) {
+    			message.channel.send("Mega Man 2: The Power Fighters");
+        	}
+		if (face2 == 165) {
+    			message.channel.send("Black & Bruised");
+        	}
+		if (face2 == 166) {
+    			message.channel.send("Capcom vs SNK 2");
+        	}
+		if (face2 == 167) {
+    			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
+        	}
+		if (face2 == 168) {
+    			message.channel.send("Pokemon Colosseum");
+        	}
+		if (face2 == 169) {
+    			message.channel.send("Pokemon XD: Gale of Darkness");
+        	}
+		if (face2 == 170) {
+    			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 171) {
+    			message.channel.send("Brawl Minus");
+        	}
+		if (face2 == 172) {
+    			message.channel.send("Hasbro Family Game Night 3");
+        	}
+		if (face2 == 173) {
+    			message.channel.send("Guilty Gear XX Accent Core +");
+        	}
+		if (face2 == 174) {
+    			message.channel.send("Tatsunoko vs Capcom");
+        	}
+		if (face2 == 175) {
+    			message.channel.send("Chicken Little: Ace in Action");
+        	}
+		if (face2 == 176) {
+    			message.channel.send("Trauma Center: New Blood");
+        	}
+		if (face2 == 177) {
+    			message.channel.send("Trauma Center: Under The Knife");
+        	}
+		if (face2 == 178) {
+    			message.channel.send("Pokemon Battle Revolution");
         	}
 	}
 	if (Math.floor(Math.random() * 8192) == 8191) {
