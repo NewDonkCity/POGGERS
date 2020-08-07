@@ -2606,7 +2606,7 @@ client.on('message', message => {
 		message.channel.send("Minigame Match");
 	}
 	if (message_content == ("/game 64")) {
-		var face2 = Math.floor(Math.random() * 52);
+		var face2 = Math.floor(Math.random() * 53);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -2762,10 +2762,13 @@ client.on('message', message => {
 		}
 		if (face2 == 51) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 52) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content.includes("which 64 game should")) {
-		var face2 = Math.floor(Math.random() * 52);
+		var face2 = Math.floor(Math.random() * 53);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -2921,10 +2924,13 @@ client.on('message', message => {
 		}
 		if (face2 == 51) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 52) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content.includes("which n64 game should")) {
-		var face2 = Math.floor(Math.random() * 52);
+		var face2 = Math.floor(Math.random() * 53);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3080,10 +3086,13 @@ client.on('message', message => {
 		}
 		if (face2 == 51) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 52) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content == ("/seemein n64")) {
-		var face2 = Math.floor(Math.random() * 52);
+		var face2 = Math.floor(Math.random() * 53);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3239,10 +3248,13 @@ client.on('message', message => {
 		}
 		if (face2 == 51) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 52) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content == ("/seemein 64")) {
-		var face2 = Math.floor(Math.random() * 52);
+		var face2 = Math.floor(Math.random() * 53);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3398,10 +3410,13 @@ client.on('message', message => {
 		}
 		if (face2 == 51) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 52) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content.includes("what 64 game should")) {
-		var face2 = Math.floor(Math.random() * 52);
+		var face2 = Math.floor(Math.random() * 53);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3557,10 +3572,13 @@ client.on('message', message => {
 		}
 		if (face2 == 51) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 52) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content.includes("what n64 game should")) {
-		var face2 = Math.floor(Math.random() * 52);
+		var face2 = Math.floor(Math.random() * 53);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3716,10 +3734,13 @@ client.on('message', message => {
 		}
 		if (face2 == 51) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 52) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content == ("/game n64")) {
-		var face2 = Math.floor(Math.random() * 52);
+		var face2 = Math.floor(Math.random() * 53);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -3875,6 +3896,9 @@ client.on('message', message => {
 		}
 		if (face2 == 51) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 52) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content == ("/game gamecube")) {
@@ -7055,7 +7079,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content == ("/game all")) {
-		var face2 = Math.floor(Math.random() * 185);
+		var face2 = Math.floor(Math.random() * 186);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -8169,9 +8193,12 @@ client.on('message', message => {
 		if (face2 == 184) {
     			message.channel.send("Mortal Kombat Trilogy");
 		}
+		if (face2 == 185) {
+    			message.channel.send("Mario Tennis");
+		}
 	}
 	if (message_content.includes("what game should")) {
-		var face2 = Math.floor(Math.random() * 185);
+		var face2 = Math.floor(Math.random() * 186);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -8720,10 +8747,13 @@ client.on('message', message => {
 		}
 		if (face2 == 184) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 185) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content == ("/game any")) {
-		var face2 = Math.floor(Math.random() * 185);
+		var face2 = Math.floor(Math.random() * 186);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -9272,10 +9302,13 @@ client.on('message', message => {
 		}
 		if (face2 == 184) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 185) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content == ("/seemein")) {
-		var face2 = Math.floor(Math.random() * 185);
+		var face2 = Math.floor(Math.random() * 186);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -9824,10 +9857,13 @@ client.on('message', message => {
 		}
 		if (face2 == 184) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 185) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content == ("/seemein all")) {
-		var face2 = Math.floor(Math.random() * 185);
+		var face2 = Math.floor(Math.random() * 186);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -10376,10 +10412,13 @@ client.on('message', message => {
 		}
 		if (face2 == 184) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 185) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content == ("/seemein any")) {
-		var face2 = Math.floor(Math.random() * 185);
+		var face2 = Math.floor(Math.random() * 186);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -10928,10 +10967,13 @@ client.on('message', message => {
 		}
 		if (face2 == 184) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 185) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (message_content == ("/game")) {
-		var face2 = Math.floor(Math.random() * 185);
+		var face2 = Math.floor(Math.random() * 186);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -11480,6 +11522,9 @@ client.on('message', message => {
 		}
 		if (face2 == 184) {
     			message.channel.send("Mortal Kombat Trilogy");
+		}
+		if (face2 == 185) {
+    			message.channel.send("Mario Tennis");
 		}
 	}
 	if (Math.floor(Math.random() * 8192) == 8191) {
