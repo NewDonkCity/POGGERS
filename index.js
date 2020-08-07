@@ -3782,7 +3782,7 @@ client.on('message', message => {
 		}
 	}
 	if (message_content == ("/game gamecube")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4007,10 +4007,13 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content == ("/game gcn")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4235,10 +4238,13 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content.includes("which gcn game should")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4463,10 +4469,13 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content.includes("which gc game should")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4691,10 +4700,13 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content.includes("/seemein gc")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4919,10 +4931,13 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content == ("/seemein gamecube")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5147,10 +5162,13 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content.includes("which gamecube game should")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5375,10 +5393,13 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content.includes("what gcn game should")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5603,10 +5624,13 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content.includes("what gc game should")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5831,10 +5855,13 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content.includes("what gamecube game should")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -6059,10 +6086,13 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content == ("/game gc")) {
-		var face2 = Math.floor(Math.random() * 75);
+		var face2 = Math.floor(Math.random() * 76);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -6287,6 +6317,9 @@ client.on('message', message => {
         	}
 		if (face2 == 74) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 75) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content == ("/game wii")) {
@@ -6926,7 +6959,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content == ("/game all")) {
-		var face2 = Math.floor(Math.random() * 180);
+		var face2 = Math.floor(Math.random() * 181);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -7466,10 +7499,13 @@ client.on('message', message => {
         	}
 		if (face2 == 179) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 180) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content.includes("which game should")) {
-		var face2 = Math.floor(Math.random() * 180);
+		var face2 = Math.floor(Math.random() * 181);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -8010,9 +8046,12 @@ client.on('message', message => {
 		if (face2 == 179) {
     			message.channel.send("Need For Speed: Carbon");
         	}
+		if (face2 == 180) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
+        	}
 	}
 	if (message_content.includes("what game should")) {
-		var face2 = Math.floor(Math.random() * 180);
+		var face2 = Math.floor(Math.random() * 181);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -8546,10 +8585,13 @@ client.on('message', message => {
         	}
 		if (face2 == 179) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 180) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content == ("/game any")) {
-		var face2 = Math.floor(Math.random() * 180);
+		var face2 = Math.floor(Math.random() * 181);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -9083,10 +9125,13 @@ client.on('message', message => {
         	}
 		if (face2 == 179) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 180) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content == ("/seemein")) {
-		var face2 = Math.floor(Math.random() * 180);
+		var face2 = Math.floor(Math.random() * 181);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -9620,10 +9665,13 @@ client.on('message', message => {
         	}
 		if (face2 == 179) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 180) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content == ("/seemein all")) {
-		var face2 = Math.floor(Math.random() * 180);
+		var face2 = Math.floor(Math.random() * 181);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -10157,10 +10205,13 @@ client.on('message', message => {
         	}
 		if (face2 == 179) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 180) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content == ("/seemein any")) {
-		var face2 = Math.floor(Math.random() * 180);
+		var face2 = Math.floor(Math.random() * 181);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -10694,10 +10745,13 @@ client.on('message', message => {
         	}
 		if (face2 == 179) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 180) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (message_content == ("/game")) {
-		var face2 = Math.floor(Math.random() * 180);
+		var face2 = Math.floor(Math.random() * 181);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -11231,6 +11285,9 @@ client.on('message', message => {
         	}
 		if (face2 == 179) {
     			message.channel.send("Need For Speed: Carbon");
+        	}
+		if (face2 == 180) {
+    			message.channel.send("Mary-Kate and Ashley: Sweet 16 – Licensed to Drive");
         	}
 	}
 	if (Math.floor(Math.random() * 8192) == 8191) {
