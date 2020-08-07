@@ -4066,7 +4066,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -4297,7 +4297,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -4528,7 +4528,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -4759,7 +4759,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -4990,7 +4990,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -5221,7 +5221,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -5452,7 +5452,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -5683,7 +5683,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -5914,7 +5914,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -6145,7 +6145,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -6376,7 +6376,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 54) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 55) {
     			message.channel.send("Burnout 2");
@@ -7483,7 +7483,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 134) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 135) {
     			message.channel.send("Burnout 2");
@@ -8041,7 +8041,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 134) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 135) {
     			message.channel.send("Burnout 2");
@@ -8602,7 +8602,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 134) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 135) {
     			message.channel.send("Burnout 2");
@@ -9157,7 +9157,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 134) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 135) {
     			message.channel.send("Burnout 2");
@@ -9712,7 +9712,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 134) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 135) {
     			message.channel.send("Burnout 2");
@@ -10267,7 +10267,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 134) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 135) {
     			message.channel.send("Burnout 2");
@@ -10822,7 +10822,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 134) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 135) {
     			message.channel.send("Burnout 2");
@@ -11377,7 +11377,7 @@ client.on('message', message => {
     			message.channel.send("Tony Hawk's Underground 2");
         	}
 		if (face2 == 134) {
-    			message.channel.send("Destroy All Monsters Melee");
+    			message.channel.send("Godzilla: Destroy All Monsters Melee");
         	}
 		if (face2 == 135) {
     			message.channel.send("Burnout 2");
