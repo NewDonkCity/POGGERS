@@ -7,18 +7,6 @@ client.once('ready', () => {
 
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
-	if (message_content.includes("microsoft word")) {
-		message.channel.send("Notepad is better than Microsoft Word");
-	}
-	if (message_content.includes("visual studio")) {
-		message.channel.send("Notepad is better than Microsoft Word");
-	}
-	if (message_content.includes("notepad")) {
-		message.channel.send("Notepad is better than Microsoft Word");
-	}
-	if (message_content.includes("text editor")) {
-		message.channel.send("Notepad is better than Microsoft Word");
-	}
 	if (message_content == ("/game mario party")) {
 		var face2 = Math.floor(Math.random() * 11);
 		if (face2 == 0) {
@@ -3794,7 +3782,7 @@ client.on('message', message => {
 		}
 	}
 	if (message_content == ("/game gamecube")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -3883,7 +3871,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -3964,7 +3952,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -3990,36 +3978,39 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content == ("/game gcn")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4108,7 +4099,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -4189,7 +4180,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -4215,36 +4206,39 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content.includes("which gcn game should")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4333,7 +4327,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -4414,7 +4408,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -4440,36 +4434,39 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content.includes("which gc game should")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4558,7 +4555,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -4639,7 +4636,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -4665,36 +4662,39 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content.includes("/seemein gc")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4783,7 +4783,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -4864,7 +4864,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -4890,36 +4890,39 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content == ("/seemein gamecube")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5008,7 +5011,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -5089,7 +5092,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -5115,36 +5118,39 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content.includes("which gamecube game should")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5233,7 +5239,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -5314,7 +5320,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -5340,36 +5346,39 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content.includes("what gcn game should")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5458,7 +5467,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -5539,7 +5548,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -5565,36 +5574,39 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content.includes("what gc game should")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5683,7 +5695,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -5764,7 +5776,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -5790,36 +5802,39 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content.includes("what gamecube game should")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5908,7 +5923,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -5989,7 +6004,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -6015,36 +6030,39 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content == ("/game gc")) {
-		var face2 = Math.floor(Math.random() * 73);
+		var face2 = Math.floor(Math.random() * 75);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -6133,7 +6151,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 29) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 30) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -6214,7 +6232,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 56) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 57) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -6240,32 +6258,35 @@ client.on('message', message => {
 		if (face2 == 64) {
     			message.channel.send("Rayman Arena");
         	}
-		if (face2 == 64) {
+		if (face2 == 65) {
     			message.channel.send("SSX Tricky");
         	}
-		if (face2 == 65) {
+		if (face2 == 66) {
     			message.channel.send("Nintendo Puzzle Collection");
         	}
-		if (face2 == 66) {
+		if (face2 == 67) {
     			message.channel.send("Mega Man 2: The Power Fighters");
         	}
-		if (face2 == 67) {
+		if (face2 == 68) {
     			message.channel.send("Black & Bruised");
         	}
-		if (face2 == 68) {
+		if (face2 == 69) {
     			message.channel.send("Capcom vs SNK 2");
         	}
-		if (face2 == 69) {
+		if (face2 == 70) {
     			message.channel.send("Viewtiful Joe: Red-Hot Rumble");
         	}
-		if (face2 == 70) {
+		if (face2 == 71) {
     			message.channel.send("Pokemon Colosseum");
         	}
-		if (face2 == 71) {
+		if (face2 == 72) {
     			message.channel.send("Pokemon XD: Gale of Darkness");
         	}
-		if (face2 == 72) {
+		if (face2 == 73) {
     			message.channel.send("NHL Hitz 20-02");
+        	}
+		if (face2 == 74) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content == ("/game wii")) {
@@ -6905,7 +6926,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content == ("/game all")) {
-		var face2 = Math.floor(Math.random() * 179);
+		var face2 = Math.floor(Math.random() * 180);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -7087,7 +7108,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 60) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 61) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -7315,7 +7336,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 136) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 137) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -7442,10 +7463,13 @@ client.on('message', message => {
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
+        	}
+		if (face2 == 179) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content.includes("which game should")) {
-		var face2 = Math.floor(Math.random() * 179);
+		var face2 = Math.floor(Math.random() * 180);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -7627,7 +7651,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 60) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 61) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -7855,7 +7879,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 136) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 137) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -7983,9 +8007,12 @@ client.on('message', message => {
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
         	}
+		if (face2 == 179) {
+    			message.channel.send("Need For Speed: Carbon");
+        	}
 	}
 	if (message_content.includes("what game should")) {
-		var face2 = Math.floor(Math.random() * 179);
+		var face2 = Math.floor(Math.random() * 180);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -8167,7 +8194,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 60) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 61) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -8395,7 +8422,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 136) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 137) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -8516,10 +8543,13 @@ client.on('message', message => {
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
+        	}
+		if (face2 == 179) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content == ("/game any")) {
-		var face2 = Math.floor(Math.random() * 179);
+		var face2 = Math.floor(Math.random() * 180);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -8701,7 +8731,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 60) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 61) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -8929,7 +8959,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 136) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 137) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -9050,10 +9080,13 @@ client.on('message', message => {
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
+        	}
+		if (face2 == 179) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content == ("/seemein")) {
-		var face2 = Math.floor(Math.random() * 179);
+		var face2 = Math.floor(Math.random() * 180);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -9235,7 +9268,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 60) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 61) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -9463,7 +9496,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 136) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 137) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -9584,10 +9617,13 @@ client.on('message', message => {
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
+        	}
+		if (face2 == 179) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content == ("/seemein all")) {
-		var face2 = Math.floor(Math.random() * 179);
+		var face2 = Math.floor(Math.random() * 180);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -9769,7 +9805,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 60) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 61) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -9997,7 +10033,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 136) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 137) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -10118,10 +10154,13 @@ client.on('message', message => {
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
+        	}
+		if (face2 == 179) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content == ("/seemein any")) {
-		var face2 = Math.floor(Math.random() * 179);
+		var face2 = Math.floor(Math.random() * 180);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -10303,7 +10342,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 60) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 61) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -10531,7 +10570,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 136) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 137) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -10652,10 +10691,13 @@ client.on('message', message => {
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
+        	}
+		if (face2 == 179) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (message_content == ("/game")) {
-		var face2 = Math.floor(Math.random() * 179);
+		var face2 = Math.floor(Math.random() * 180);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -10837,7 +10879,7 @@ client.on('message', message => {
     			message.channel.send("Super Monkey Ball Deluxe (patch for 2)");
         	}
 		if (face2 == 60) {
-    			message.channel.send("Monkeyed Ball 2");
+    			message.channel.send("Monkeyed Ball 2: Witty Subtitle");
         	}
 		if (face2 == 61) {
     			message.channel.send("Super Monkey Ball: Community Workshop Level Pack");
@@ -11065,7 +11107,7 @@ client.on('message', message => {
     			message.channel.send("Burnout 2");
         	}
 		if (face2 == 136) {
-    			message.channel.send("Need For Speed: Hot Pursit");
+    			message.channel.send("Need For Speed: Hot Pursuit");
         	}
 		if (face2 == 137) {
     			message.channel.send("Namco Museum: Battle Collection");
@@ -11186,6 +11228,9 @@ client.on('message', message => {
         	}
 		if (face2 == 178) {
     			message.channel.send("Pokemon Battle Revolution");
+        	}
+		if (face2 == 179) {
+    			message.channel.send("Need For Speed: Carbon");
         	}
 	}
 	if (Math.floor(Math.random() * 8192) == 8191) {
