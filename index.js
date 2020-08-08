@@ -6526,7 +6526,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 27) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 28) {
     			message.channel.send("Rhythm Heaven Fever");
@@ -6685,7 +6685,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 27) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 28) {
     			message.channel.send("Rhythm Heaven Fever");
@@ -6844,7 +6844,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 27) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 28) {
     			message.channel.send("Rhythm Heaven Fever");
@@ -7003,7 +7003,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 27) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 28) {
     			message.channel.send("Rhythm Heaven Fever");
@@ -7405,7 +7405,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 108) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 109) {
     			message.channel.send("Donkey Kong Barrel Blast");
@@ -7963,7 +7963,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 108) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 109) {
     			message.channel.send("Donkey Kong Barrel Blast");
@@ -8524,7 +8524,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 108) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 109) {
     			message.channel.send("Donkey Kong Barrel Blast");
@@ -9079,7 +9079,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 108) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 109) {
     			message.channel.send("Donkey Kong Barrel Blast");
@@ -9634,7 +9634,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 108) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 109) {
     			message.channel.send("Donkey Kong Barrel Blast");
@@ -10189,7 +10189,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 108) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 109) {
     			message.channel.send("Donkey Kong Barrel Blast");
@@ -10744,7 +10744,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 108) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 109) {
     			message.channel.send("Donkey Kong Barrel Blast");
@@ -11299,7 +11299,7 @@ client.on('message', message => {
     			message.channel.send("Mario & Sonic at the Olympic Winter Games");
         	}
 		if (face2 == 108) {
-    			message.channel.send("Mario & Sonic at the London 2012 Winter Games");
+    			message.channel.send("Mario & Sonic at the London 2012 Olympic Games");
         	}
 		if (face2 == 109) {
     			message.channel.send("Donkey Kong Barrel Blast");
