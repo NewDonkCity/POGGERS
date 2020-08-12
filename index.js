@@ -3902,7 +3902,7 @@ client.on('message', message => {
 		}
 	}
 	if (message_content == ("/game gamecube")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4133,10 +4133,19 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content == ("/game gcn")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4367,10 +4376,19 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content.includes("which gcn game should")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4601,10 +4619,19 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content.includes("which gc game should")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -4835,10 +4862,19 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content.includes("/seemein gc")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5069,10 +5105,19 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content == ("/seemein gamecube")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5303,10 +5348,19 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content.includes("which gamecube game should")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5537,10 +5591,19 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content.includes("what gcn game should")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -5771,10 +5834,19 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content.includes("what gc game should")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -6005,10 +6077,19 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content.includes("what gamecube game should")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -6239,10 +6320,19 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content == ("/game gc")) {
-		var face2 = Math.floor(Math.random() * 77);
+		var face2 = Math.floor(Math.random() * 80);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 4");
         	}
@@ -6473,6 +6563,15 @@ client.on('message', message => {
         	}
 		if (face2 == 76) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 77) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 78) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 79) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content == ("/game wii")) {
@@ -7112,7 +7211,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content == ("/game all")) {
-		var face2 = Math.floor(Math.random() * 187);
+		var face2 = Math.floor(Math.random() * 190);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -7673,10 +7772,19 @@ client.on('message', message => {
 		}
 		if (face2 == 186) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 187) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 188) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 189) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content.includes("which game should")) {
-		var face2 = Math.floor(Math.random() * 187);
+		var face2 = Math.floor(Math.random() * 190);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -8238,9 +8346,18 @@ client.on('message', message => {
 		if (face2 == 186) {
     			message.channel.send("Pac-Man Fever");
         	}
+		if (face2 == 187) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 188) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 189) {
+    			message.channel.send("Lego Star Wars: The Video Game");
+        	}
 	}
 	if (message_content.includes("what game should")) {
-		var face2 = Math.floor(Math.random() * 187);
+		var face2 = Math.floor(Math.random() * 190);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -8795,10 +8912,19 @@ client.on('message', message => {
 		}
 		if (face2 == 186) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 187) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 188) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 189) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content == ("/game any")) {
-		var face2 = Math.floor(Math.random() * 187);
+		var face2 = Math.floor(Math.random() * 190);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -9353,10 +9479,19 @@ client.on('message', message => {
 		}
 		if (face2 == 186) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 187) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 188) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 189) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content == ("/seemein")) {
-		var face2 = Math.floor(Math.random() * 187);
+		var face2 = Math.floor(Math.random() * 190);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -9911,10 +10046,19 @@ client.on('message', message => {
 		}
 		if (face2 == 186) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 187) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 188) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 189) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content == ("/seemein all")) {
-		var face2 = Math.floor(Math.random() * 187);
+		var face2 = Math.floor(Math.random() * 190);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -10469,10 +10613,19 @@ client.on('message', message => {
 		}
 		if (face2 == 186) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 187) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 188) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 189) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content == ("/seemein any")) {
-		var face2 = Math.floor(Math.random() * 187);
+		var face2 = Math.floor(Math.random() * 190);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -11027,10 +11180,19 @@ client.on('message', message => {
 		}
 		if (face2 == 186) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 187) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 188) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 189) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (message_content == ("/game")) {
-		var face2 = Math.floor(Math.random() * 187);
+		var face2 = Math.floor(Math.random() * 190);
 		if (face2 == 0) {
     			message.channel.send("Mario Party 1");
         	}
@@ -11585,6 +11747,15 @@ client.on('message', message => {
 		}
 		if (face2 == 186) {
     			message.channel.send("Pac-Man Fever");
+        	}
+		if (face2 == 187) {
+    			message.channel.send("Timesplitters 2");
+        	}
+		if (face2 == 188) {
+    			message.channel.send("Timesplitters: Future Perfect");
+        	}
+		if (face2 == 189) {
+    			message.channel.send("Lego Star Wars: The Video Game");
         	}
 	}
 	if (Math.floor(Math.random() * 8192) == 8191) {
