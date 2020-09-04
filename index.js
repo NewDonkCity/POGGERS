@@ -28093,7 +28093,7 @@ client.on('message', message => {
 		message.react('650886937632309268');
 	}
 	if (message_content.includes("wahah")) {
-		message.react('230129083533623296');
+		message.react('681398765482934294');
 	}
 	if (message_content == "wa") {
 		message.react('316734055427211266');
@@ -28120,16 +28120,16 @@ client.on('message', message => {
 		message.react('316734055427211266');
 	}
 	if (message_content.includes("have a rotten day")) {
-		message.react('230129083533623296');
+		message.react('681398765482934294');
 	}
 	if (message_content.includes("wario show you fun")) {
-		message.react('230129083533623296');
+		message.react('681398765482934294');
 	}
 	if (message_content.includes("ario i gotta")) {
-		message.react('230129083533623296');
+		message.react('747677009118756914');
 	}
 	if (message_content.includes("ario, i gotta")) {
-		message.react('230129083533623296');
+		message.react('747677009118756914');
 	}
 	if (message_content.includes("lousy")) {
 		message.react('316734055427211266');
