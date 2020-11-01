@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.once('ready', () => {
-	console.log('Notepad is better than Microsoft Word');
+	console.log('Pog');
 });
 
 client.on('message', message => {
