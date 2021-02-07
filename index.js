@@ -7,6 +7,48 @@ client.once('ready', () => {
 
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
+	if (message_content.includes("pick me?")) {
+		var face2 = Math.floor(Math.random() * 12);
+		if (face2 == 0) {
+    			message.channel.send("I, POGGERS, do not concern myself with such trifles");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Absolutely");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Maybe");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("The opposite is true");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("Phrase your quesry with eloquence please!");
+        	}
+		if (face2 == 5) {
+    			message.channel.send("Ask the opposite question");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("Not likely");
+        	}
+		if (face2 == 7) {
+			message.channel.send("Reply hazy, try again");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("Ask again later");
+        	}
+		if (face2 == 9) {
+    			message.channel.send("What was the question?");
+        	}
+		if (face2 == 10) {
+    			message.channel.send("Don't count on it");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("<:BetaBuzz:807778656683425833>");
+        	}
+	}
+	if (message_content.includes("fuck me?")) {
+		message.channel.send("<:BetaBuzz:807778656683425833>");
+        }
 	if (message_content == ("/game mario party")) {
 		var face2 = Math.floor(Math.random() * 11);
 		if (face2 == 0) {
@@ -3916,7 +3958,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -4159,7 +4201,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -4402,7 +4444,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -4645,7 +4687,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -4888,7 +4930,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -5131,7 +5173,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -5374,7 +5416,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -5617,7 +5659,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -5860,7 +5902,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -6103,7 +6145,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -6346,7 +6388,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 4) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 5) {
     			message.channel.send("DDR Mario Mix");
@@ -7318,7 +7360,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 35) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 36) {
     			message.channel.send("DDR Mario Mix");
@@ -7891,7 +7933,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 35) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 36) {
     			message.channel.send("DDR Mario Mix");
@@ -8464,7 +8506,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 35) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 36) {
     			message.channel.send("DDR Mario Mix");
@@ -9031,7 +9073,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 35) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 36) {
     			message.channel.send("DDR Mario Mix");
@@ -9598,7 +9640,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 35) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 36) {
     			message.channel.send("DDR Mario Mix");
@@ -10165,7 +10207,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 35) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 36) {
     			message.channel.send("DDR Mario Mix");
@@ -10732,7 +10774,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 35) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 36) {
     			message.channel.send("DDR Mario Mix");
@@ -11299,7 +11341,7 @@ client.on('message', message => {
     			message.channel.send("Mario Party 7");
         	}
 		if (face2 == 35) {
-    			message.channel.send("Billy Hatcher");
+    			message.channel.send("Billy Hatcher and the Giant Egg");
         	}
 		if (face2 == 36) {
     			message.channel.send("DDR Mario Mix");
@@ -15963,6 +16005,87 @@ client.on('message', message => {
 			message.react('682863062474293268');
         	}
 	}
+    	if (message_content.includes("s behind the middle")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
+    	if (message_content.includes("s under the middle")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
+    	if (message_content.includes("s underneath the middle")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
     	if (message_content.includes("s in the right door")) {
 		var face2 = Math.floor(Math.random() * 8);
 		if (face2 == 0) {
@@ -16207,6 +16330,60 @@ client.on('message', message => {
         	}
 	}
     	if (message_content.includes("s behind the left")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
+    	if (message_content.includes("s under the left")) {
+		var face2 = Math.floor(Math.random() * 8);
+		if (face2 == 0) {
+    			message.react('687668560193126428');
+        	}
+    		if (face2 == 1) {
+    			message.react('687678432045170689');
+        	}
+		if (face2 == 2) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 3) {
+    			message.react('404197234436079618');
+        	}
+		if (face2 == 4) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 5) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 6) {
+    			message.react('408092112748544001');
+        	}
+		if (face2 == 7) {
+			message.react('682863062474293268');
+        	}
+	}
+    	if (message_content.includes("s underneath the left")) {
 		var face2 = Math.floor(Math.random() * 8);
 		if (face2 == 0) {
     			message.react('687668560193126428');
@@ -17514,6 +17691,15 @@ client.on('message', message => {
 	if (message_content == "D:") {
 		message.react('282297846554951681');
 	}
+	if (message_content == "c:") {
+		message.react('681392742630555755');
+	}
+	if (message_content.includes(":>>")) {
+		message.react('681392742630555755');
+	}
+	if (message_content.includes("<<:")) {
+		message.react('681392742630555755');
+	}
 	if (message_content.includes(" :D ")) {
 		message.react('414701504143032331');
 	}
@@ -17580,6 +17766,30 @@ client.on('message', message => {
 	if (message_content == "[=") {
 		message.react('647686065557340160');
 	}
+	if (message_content.includes(":))")) {
+		message.react('647686065557340160');
+	}
+	if (message_content.includes("((:")) {
+		message.react('647686065557340160');
+	}
+	if (message_content.includes(":]]")) {
+		message.react('647686065557340160');
+	}
+	if (message_content.includes("[[:")) {
+		message.react('647686065557340160');
+	}
+	if (message_content.includes("=))")) {
+		message.react('647686065557340160');
+	}
+	if (message_content .includes("((=")) {
+		message.react('647686065557340160');
+	}
+	if (message_content.includes("=]]")) {
+		message.react('647686065557340160');
+	}
+	if (message_content.includes("[[=")) {
+		message.react('647686065557340160');
+	}
 	if (message_content.includes(" c;")) {
 		message.react('633443771895382068');
 	}
@@ -17617,6 +17827,12 @@ client.on('message', message => {
 		message.react('681392742630555755');
 	}
 	if (message_content == "<=") {
+		message.react('681392742630555755');
+	}
+	if (message_content.includes("=>>")) {
+		message.react('681392742630555755');
+	}
+	if (message_content.includes("<<=")) {
 		message.react('681392742630555755');
 	}
 	if (message_content.includes("c= ")) {
@@ -29346,6 +29562,12 @@ client.on('message', message => {
 	if (message_content.includes("beautiful pog")) {
 		message.react('632997792150847515');
 	}
+	if (message_content.includes("talented pog")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("talented bot")) {
+		message.react('632997792150847515');
+	}
 	if (message_content.includes("good bot")) {
 		message.react('632997792150847515');
 	}
@@ -29424,6 +29646,12 @@ client.on('message', message => {
 	if (message_content.includes("beautiful, bot")) {
 		message.react('632997792150847515');
 	}
+	if (message_content.includes("genius, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("genius, pog")) {
+		message.react('632997792150847515');
+	}
 	if (message_content.includes("awesome, pog")) {
 		message.react('632997792150847515');
 	}
@@ -29449,6 +29677,9 @@ client.on('message', message => {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("terriffic, bot")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("talented, bot")) {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("amazing, bot")) {
@@ -29544,6 +29775,9 @@ client.on('message', message => {
 	if (message_content.includes("amazing pog")) {
 		message.react('632997792150847515');
 	}
+	if (message_content.includes("incredible pog")) {
+		message.react('632997792150847515');
+	}
 	if (message_content.includes("love this pog")) {
 		message.react('632997792150847515');
 	}
@@ -29610,6 +29844,27 @@ client.on('message', message => {
 	if (message_content.includes("pog is best")) {
 		message.react('632997792150847515');
 	}
+	if (message_content.includes("pog is talented")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog is amazing")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog is beautiful")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers is beautiful")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers is talented")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers is amazing")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot is amazing")) {
+		message.react('632997792150847515');
+	}
 	if (message_content.includes("poggers is great")) {
 		message.react('632997792150847515');
 	}
@@ -29646,7 +29901,52 @@ client.on('message', message => {
 	if (message_content.includes("poggers is best")) {
 		message.react('632997792150847515');
 	}
-	if (message_content.includes("bot is great")) {
+	if (message_content.includes("poggers is good")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog is good")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot is good")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers is sweet")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog is sweet")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot is sweet")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers is good")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog is fantastic")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot is fantastic")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot is fantastic")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers is terriffic")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog is terriffic")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot is terriffic")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("poggers is incredible")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("pog is incredible")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot is incredible")) {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("bot is cool")) {
@@ -29680,6 +29980,9 @@ client.on('message', message => {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("bot is best")) {
+		message.react('632997792150847515');
+	}
+	if (message_content.includes("bot is beautiful")) {
 		message.react('632997792150847515');
 	}
 	if (message_content.includes("thanks bot")) {
