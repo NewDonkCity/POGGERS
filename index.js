@@ -13299,13 +13299,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -13431,13 +13431,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -13563,13 +13563,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -13695,13 +13695,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -13827,13 +13827,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -13959,13 +13959,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -14091,13 +14091,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -14223,13 +14223,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -14355,13 +14355,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -14487,13 +14487,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -14619,13 +14619,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -14751,13 +14751,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15264,13 +15264,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15291,13 +15291,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15318,13 +15318,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15345,13 +15345,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15372,13 +15372,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15399,13 +15399,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15426,13 +15426,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15453,13 +15453,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15480,13 +15480,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15507,13 +15507,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15534,13 +15534,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15561,13 +15561,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15588,13 +15588,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15615,13 +15615,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15642,13 +15642,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15669,13 +15669,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15696,13 +15696,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15723,13 +15723,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15750,13 +15750,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15777,13 +15777,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15804,13 +15804,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15831,13 +15831,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15858,13 +15858,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15885,13 +15885,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15912,13 +15912,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15939,13 +15939,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15966,13 +15966,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -15993,13 +15993,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16020,13 +16020,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16047,13 +16047,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16074,13 +16074,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16101,13 +16101,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16128,13 +16128,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16155,13 +16155,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16182,13 +16182,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16209,13 +16209,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16236,13 +16236,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16263,13 +16263,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16290,13 +16290,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16317,13 +16317,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16344,13 +16344,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16371,13 +16371,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16398,13 +16398,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16425,13 +16425,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16452,13 +16452,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
@@ -16479,13 +16479,13 @@ client.on('message', message => {
     			message.react('404197234436079618');
         	}
 		if (face2 == 4) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 5) {
-    			message.react('408092112748544001');
+    			message.react('739621939894550600');
         	}
 		if (face2 == 6) {
-    			message.react('408092112748544001');
+    			message.react('690633607382827069');
         	}
 		if (face2 == 7) {
 			message.react('682863062474293268');
