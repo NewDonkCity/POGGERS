@@ -16858,7 +16858,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content.includes("kappa")) {
-		message.react('322952286328455169');
+		message.react('768948482324168744');
 	}
 	if (message_content.includes("frankerz")) {
 		message.react('737765100714328164');
@@ -16882,7 +16882,7 @@ client.on('message', message => {
 		message.react('316737384819589120');
 	}
 	if (message_content.includes("🙃")) {
-		message.react('322952286328455169');
+		message.react('768948482324168744');
 	}
 	if (message_content.includes("t-pos")) {
 		message.react('465644294074793984');
@@ -18343,19 +18343,19 @@ client.on('message', message => {
 		message.react('317186770104221697');
 	}
 	if (message_content.includes("😡")) {
-		message.react('632997792075218957');
+		message.react('364238473193848832');
 	}
 	if (message_content.includes("swiftrage")) {
-		message.react('632997792075218957');
+		message.react('705643524804050945');
 	}
 	if (message_content.includes("what were they thinking")) {
-		message.react('632997792075218957');
+		message.react('705643524804050945');
 	}
 	if (message_content.includes("is2g")) {
-		message.react('632997792075218957');
+		message.react('364238473193848832');
 	}
 	if (message_content.includes("swear to god")) {
-		message.react('632997792075218957');
+		message.react('364238473193848832');
 	}
 	if (message_content.includes("hey stinky")) {
 		message.react('282295903006621697');
