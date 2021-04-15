@@ -1,4 +1,4 @@
-if (channel != null) {
+if (id != null) {
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
