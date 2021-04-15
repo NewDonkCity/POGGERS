@@ -6,6 +6,7 @@ client.once('ready', () => {
 });
 
 client.on('message', message => {
+if (channel != null) {
 	var message_content = message.content.toLowerCase();
 	if (message_content.includes("pick me?")) {
 		var face2 = Math.floor(Math.random() * 12);
@@ -30272,7 +30273,8 @@ client.on('message', message => {
 	}
         if (message_content.includes("gotta be done")) {
             	message.react('681984948282064904');
-        }	
+        }
+}
 });
 
 client.login(process.env.BOT_TOKEN);
