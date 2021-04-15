@@ -21098,7 +21098,7 @@ client.on('message', message => {
 		message.react('827400490211213322');
 	}
 	if (message_content.includes("😳")) {
-		message.react('282295242407936000');
+		message.react('827403000259018782');
 	}
 	if (message_content.includes("eff the cops")) {
 		message.react('721934878081286194');
