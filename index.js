@@ -12404,6 +12404,7 @@ client.on('message', message => {
 				message.react('635515880540733452');
 			}
 		])
+			.catch(() => console.error('One of the emojis failed to react.'));
 	}
 	if (message_content.includes("rock riot")) {
 		if (Math.floor(Math.random() * 2) == 0) {
