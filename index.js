@@ -19448,13 +19448,13 @@ client.on('message', message => {
 		message.react('818030443591892992');
 	}
 	if (message_content.includes("💪")) {
-		message.react('832900444061302824');
+		message.react('836668476214607932');
 	}
 	if (message_content.includes("stronk")) {
-		message.react('832900444061302824');
+		message.react('836668476214607932');
 	}
 	if (message_content.includes("s t r o n k")) {
-		message.react('832900444061302824');
+		message.react('836668476214607932');
 	}
 	if (message_content.includes("🤔")) {
 		message.react('832863821554253834');
@@ -20588,10 +20588,10 @@ client.on('message', message => {
 		message.react('282292955761475584');
 	}
 	if (message_content.includes("notlikethis")) {
-		message.react('832899758447132672');
+		message.react('836668476185378886');
 	}
 	if (message_content.includes("pepehands")) {
-		message.react('832899758447132672');
+		message.react('836668476185378886');
 	}
 	if (message_content.includes(" a selfie")) {
 		message.react('705437491095666688');
@@ -21155,7 +21155,7 @@ client.on('message', message => {
 		message.react('827400490211213322');
 	}
 	if (message_content.includes("😳")) {
-		message.react('832900667802386452');
+		message.react('836775942361710612');
 	}
 	if (message_content.includes("eff the cops")) {
 		message.react('721934878081286194');
@@ -29945,25 +29945,25 @@ client.on('message', message => {
 		message.react('414662215107346433');
 	}
 	if (message_content.includes("chocolate milk")) {
-		message.react('342063809105625099');
+		message.react('836668475769749536');
 	}
 	if (message_content.includes("choccy milk")) {
-		message.react('342063809105625099');
+		message.react('836668475769749536');
 	}
 	if (message_content.includes("lonely space vixens")) {
-		message.react('342063809105625099');
+		message.react('836668475769749536');
 	}
 	if (message_content.includes("boomer")) {
-		message.react('342063809105625099');
+		message.react('836668475769749536');
 	}
 	if (message_content.includes("old man")) {
-		message.react('342063809105625099');
+		message.react('836668475769749536');
 	}
 	if (message_content.includes(" olden")) {
-		message.react('342063809105625099');
+		message.react('836668475769749536');
 	}
 	if (message_content == "olden") {
-		message.react('342063809105625099');
+		message.react('836668475769749536');
 	}
 	if (message_content.includes("everybody cheat")) {
 		message.react('415041303718395932');
@@ -29996,13 +29996,13 @@ client.on('message', message => {
 		message.react('458023278234042399');
 	}
 	if (message_content.includes("holy shit")) {
-		message.react('827397351572373544');
+		message.react('458023278234042399');
 	}
 	if (message_content.includes("holy fuck")) {
-		message.react('827397351572373544');
+		message.react('458023278234042399');
 	}
 	if (message_content.includes("holy crap")) {
-		message.react('827397351572373544');
+		message.react('458023278234042399');
 	}
 	if (message_content.includes("oh shit")) {
 		message.react('458023278234042399');
@@ -30218,34 +30218,34 @@ client.on('message', message => {
 		message.react('284233977529630720');
 	}
 	if (message_content.includes("nice of the princess")) {
-		message.react('727577560799641662');
+		message.react('836668476046442576');
 	}
 	if (message_content.includes("check out the enclosed")) {
-		message.react('727577560799641662');
+		message.react('836668476046442576');
 	}
 	if (message_content.includes("enclosed instruction book")) {
-		message.react('727577560799641662');
+		message.react('836668476046442576');
 	}
 	if (message_content.includes("too many toasters")) {
-		message.react('727577560799641662');
+		message.react('836668476046442576');
 	}
 	if (message_content.includes("all toasters toast toast")) {
-		message.react('727577560799641662');
+		message.react('836668476046442576');
 	}
 	if (message_content.includes("all toasters, toast toast")) {
-		message.react('727577560799641662');
+		message.react('836668476046442576');
 	}
 	if (message_content.includes("they pinch back")) {
-		message.react('727577560799641662');
+		message.react('836668476046442576');
 	}
 	if (message_content.includes("s been one of those days")) {
-		message.react('727577560799641662');
+		message.react('836668476046442576');
 	}
 	if (message_content.includes("where there's smoke")) {
-		message.react('727577560799641662');
+		message.react('836668476046442576');
 	}
 	if (message_content.includes("where theres smoke")) {
-		message.react('727577560799641662');
+		message.react('836668476046442576');
 	}
 	if (message_content.includes("high five")) {
 		message.react('713213661941989416');
