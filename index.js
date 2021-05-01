@@ -20732,7 +20732,7 @@ client.on('message', message => {
 		message.react('647326428299395072');
 	}
 	if (message_content.includes("4head")) {
-		message.react('632997790150033448');
+		message.react('836775829693530163');
 	}
 	if (message_content.includes("elegiggle")) {
 		message.react('323972935230685184');
