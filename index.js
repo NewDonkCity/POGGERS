@@ -20183,7 +20183,7 @@ client.on('message', message => {
 		message.react('632997789378412554');
 	}
 	if (message_content.includes("😔")) {
-		message.react('415041303718395932');
+		message.react('838318254974828574');
 	}
 	if (message_content.includes("kreygasm")) {
 		message.react('499395421559324684');
