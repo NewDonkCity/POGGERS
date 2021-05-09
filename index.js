@@ -17800,6 +17800,12 @@ client.on('message', message => {
 	if (message_content.includes("kek")) {
 		message.react('323972935230685184');
 	}
+	if (message_content.includes(" haha")) {
+		message.react('323972935230685184');
+	}
+	if (message_content.includes("haha ")) {
+		message.react('323972935230685184');
+	}
 	if (message_content.includes("hahah")) {
 		message.react('323972935230685184');
 	}
