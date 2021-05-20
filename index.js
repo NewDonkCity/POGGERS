@@ -19495,6 +19495,9 @@ client.on('message', message => {
 	if (message_content.includes("🧐")) {
 		message.react('279394964952055808');
 	}
+	if (message_content.includes("🤤")) {
+		message.react('818030445299367959');
+	}
 	if (message_content.includes("😈")) {
 		message.react('316737233279385600');
 	}
@@ -19862,9 +19865,6 @@ client.on('message', message => {
 		message.react('650886937632309268');
 	}
 	if (message_content.includes(" =<")) {
-		message.react('650886937632309268');
-	}
-	if (message_content.includes(">: ")) {
 		message.react('650886937632309268');
 	}
 	if (message_content.includes(">= ")) {
