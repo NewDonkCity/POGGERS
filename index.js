@@ -17189,7 +17189,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content.includes("kappa")) {
-		message.react('768948482324168744');
+		message.react('846312277581627393');
 	}
 	if (message_content.includes("frankerz")) {
 		message.react('737765100714328164');
@@ -18134,28 +18134,28 @@ client.on('message', message => {
 		message.react('647686065557340160');
 	}
 	if (message_content.includes(" c;")) {
-		message.react('633443771895382068');
+		message.react('846307477620260885');
 	}
 	if (message_content.includes(";>")) {
-		message.react('633443771895382068');
+		message.react('846307477620260885');
 	}
 	if (message_content.includes(";3")) {
-		message.react('633443771895382068');
+		message.react('846307477620260885');
 	}
 	if (message_content.includes("<;")) {
-		message.react('633443771895382068');
+		message.react('846307477620260885');
 	}
 	if (message_content.includes(";)")) {
-		message.react('633443771895382068');
+		message.react('846307477620260885');
 	}
 	if (message_content.includes("(;")) {
-		message.react('633443771895382068');
+		message.react('846307477620260885');
 	}
 	if (message_content.includes(";]")) {
-		message.react('633443771895382068');
+		message.react('846307477620260885');
 	}
 	if (message_content.includes("[;")) {
-		message.react('633443771895382068');
+		message.react('846307477620260885');
 	}
 	if (message_content.includes("😃")) {
 		message.react('414701504143032331');
@@ -18389,67 +18389,67 @@ client.on('message', message => {
 		message.react('827400490340843560');
 	}
 	if (message_content == ("bedtime")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content == ("bedtime.")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content == ("bedtime!")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("🥱")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("gnight")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("goodnight")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("goodnite")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes(" nite")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("night night")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("nightnight")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes(" nity")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes(" nighty")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("g'night")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("good night")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("night every")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("🌙")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("😴")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("afk")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("brb")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("💤")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("residentsleeper")) {
-		message.react('636669695013027841');
+		message.react('846305681844731944');
 	}
 	if (message_content.includes("💯")) {
 		message.react('633446681991708776');
@@ -20783,7 +20783,7 @@ client.on('message', message => {
 		message.react('647326428299395072');
 	}
 	if (message_content.includes("4head")) {
-		message.react('836775829693530163');
+		message.react('846308116291387413');
 	}
 	if (message_content.includes("elegiggle")) {
 		message.react('323972935230685184');
