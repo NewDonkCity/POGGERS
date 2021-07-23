@@ -11832,6 +11832,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 4) == 0) {
             		message.react('705437489271275550');
         	}
+		if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('861820377281724437');
+        	}
 	}
 	if (message_content.includes("oh baby a triple")) {
 		if (Math.floor(Math.random() * 2) == 0) {
@@ -11896,6 +11899,9 @@ client.on('message', message => {
         	}
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('818030447669542942');
+        	}
+		if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('861820377281724437');
         	}
 	}
 	if (message_content.includes("o baby a triple")) {
@@ -11962,6 +11968,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('818030447669542942');
         	}
+		if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('861820377281724437');
+        	}
 	}
 	if (message_content.includes("oh baby, a triple")) {
 		if (Math.floor(Math.random() * 2) == 0) {
@@ -12026,6 +12035,9 @@ client.on('message', message => {
         	}
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('818030447669542942');
+        	}
+		if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('861820377281724437');
         	}
 	}
 	if (message_content.includes("o baby, a triple")) {
@@ -12092,6 +12104,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('818030447669542942');
         	}
+		if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('861820377281724437');
+        	}
 	}
 	if (message_content.includes("more like stupei")) {
 		if (Math.floor(Math.random() * 2) == 0) {
@@ -12156,6 +12171,9 @@ client.on('message', message => {
         	}
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('818030447669542942');
+        	}
+		if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('861820377281724437');
         	}
 	}
 	if (message_content.includes("more like, stupei")) {
@@ -12222,6 +12240,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('818030447669542942');
         	}
+		if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('861820377281724437');
+        	}
 	}
 	if (message_content.includes("babyyy")) {
 		if (Math.floor(Math.random() * 2) == 0) {
@@ -12287,6 +12308,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('818030447669542942');
         	}
+		if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('861820377281724437');
+        	}
 	}
 	if (message_content.includes("baybee")) {
 		if (Math.floor(Math.random() * 2) == 0) {
@@ -12351,6 +12375,9 @@ client.on('message', message => {
         	}
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('818030447669542942');
+        	}
+		if (Math.floor(Math.random() * 8) == 0) {
+            		message.react('861820377281724437');
         	}
 	}
 	if (message_content.includes("😎")) {
