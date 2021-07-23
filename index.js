@@ -19184,25 +19184,25 @@ client.on('message', message => {
 		message.react('682823847480918031');
 	}
 	if (message_content.includes("my bop")) {
-		message.react('316752108437372928');
+		message.react('849353108114767943');
 	}
 	if (message_content.includes("a bop")) {
-		message.react('316752108437372928');
+		message.react('849353108114767943');
 	}
 	if (message_content.includes("my jam")) {
-		message.react('316752108437372928');
+		message.react('849353108114767943');
 	}
 	if (message_content.includes("banger")) {
-		message.react('316752108437372928');
+		message.react('849353108114767943');
 	}
 	if (message_content.includes("a jam ")) {
-		message.react('316752108437372928');
+		message.react('849353108114767943');
 	}
 	if (message_content.includes("a jam.")) {
-		message.react('316752108437372928');
+		message.react('849353108114767943');
 	}
 	if (message_content.includes("a jam!")) {
-		message.react('316752108437372928');
+		message.react('849353108114767943');
 	}
 	if (message_content.includes("👋")) {
 		message.react('425059856559636490');
@@ -20480,40 +20480,40 @@ client.on('message', message => {
 		message.react('818265773293568071');
 	}
 	if (message_content.includes("babyrage")) {
-		message.react('632997789378412554');
+		message.react('846182889385099274');
 	}
 	if (message_content.includes(";-;")) {
-		message.react('632997789378412554');
+		message.react('846182889385099274');
 	}
 	if (message_content.includes(";.;")) {
-		message.react('632997789378412554');
+		message.react('846182889385099274');
 	}
 	if (message_content.includes(";_;")) {
-		message.react('632997789378412554');
+		message.react('846182889385099274');
 	}
 	if (message_content.includes("q-q")) {
-		message.react('632997789378412554');
+		message.react('846182889385099274');
 	}
 	if (message_content.includes("q.q")) {
-		message.react('632997789378412554');
+		message.react('846182889385099274');
 	}
 	if (message_content.includes("q_q")) {
-		message.react('632997789378412554');
+		message.react('846182889385099274');
 	}
 	if (message_content.includes("biblethump")) {
-		message.react('632997789378412554');
+		message.react('846182889385099274');
 	}
 	if (message_content.includes("😔")) {
-		message.react('838318254974828574');
+		message.react('846178996801503252');
 	}
 	if (message_content.includes("kreygasm")) {
-		message.react('499395421559324684');
+		message.react('851191770473955379');
 	}
 	if (message_content.includes("just vibin")) {
-		message.react('499395421559324684');
+		message.react('851191770473955379');
 	}
 	if (message_content.includes("vibin ")) {
-		message.react('499395421559324684');
+		message.react('851191770473955379');
 	}
 	if (message_content.includes("😮")) {
 		message.react('827397351572373544');
