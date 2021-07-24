@@ -17635,164 +17635,179 @@ client.on('message', message => {
 	if (message_content == "banned") {
 		message.react('827400489770811393');
 	}
+	if (message_content.includes("clearly you don")) {
+		message.react('817832708105175091');
+	}
+	if (message_content.includes("clearly, you don")) {
+		message.react('817832708105175091');
+	}
+	if (message_content == "pathetic") {
+		message.react('853856510287544351');
+	}
+	if (message_content == "pathetic.") {
+		message.react('853856510287544351');
+	}
+	if (message_content == "pathetic!") {
+		message.react('853856510287544351');
+	}
 	if (message_content.includes("^^^")) {
-		message.react('647326430010802185');
+		message.react('852722293783134209');
 	}
 	if (message_content == "^") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "^^") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "this") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("☝️")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("👆")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("^th")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("^ th")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "this tbh") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "this.") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "this tbh.") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "this!") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "this tbh!") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "this so much") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "this so much.") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "this so much!") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "facts") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "facts.") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "facts!") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "true facts") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "true facts.") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "true facts!") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "same") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "same with me") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "same tbh") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "tbh same") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "same for me") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "me too") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "me three") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "same.") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "same with me.") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "same for me.") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "me too.") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "me three.") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "same!") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "same with me!") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "same for me!") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "me too!") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "me three!") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "i agree") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("i agree.")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("i agree!")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == "agreed") {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("agreed.")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("agreed!")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("i concur")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("seconded")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("thirded")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("i second th")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("ill second th")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("i'll second th")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("i’ll second th")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content.includes("so much this")) {
-		message.react('832863821361315870');
+		message.react('852722293783134209');
 	}
 	if (message_content == ":/") {
 		message.react('681365757115891725');
