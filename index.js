@@ -17870,7 +17870,7 @@ client.on('message', message => {
 		message.react('681365757115891725');
 	}
 	if (message_content.includes("🤮")) {
-		message.react('818030443496079370');
+		message.react('846313208393367582');
 	}
 	if (message_content.includes("cmonbruh")) {
 		message.react('231640439483138048');
@@ -20990,109 +20990,109 @@ client.on('message', message => {
 		message.react('653344834018344960');
 	}
 	if (message_content.includes("😛")) {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content.includes(":p ")) {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content.includes(" =p")) {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content == ":p") {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content == "=p") {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content.includes(";^p")) {
 		message.react('653344834018344960');
 	}
 	if (message_content.includes(":^p ")) {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content.includes(" =^p")) {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content == ":^p") {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content == "=^p") {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content.includes(";-p")) {
 		message.react('653344834018344960');
 	}
 	if (message_content.includes(":-p ")) {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content.includes(" =-p")) {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content == ":-p") {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content == "=-p") {
-		message.react('414701504143032331');
+		message.react('847738126713749565');
 	}
 	if (message_content.includes("🤢")) {
 		message.react('322817712931733505');
 	}
 	if (message_content == "yuck") {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content == "yuck.") {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content == "yuck!") {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes(" yuck")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content == "gross") {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes("gross.")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes("blech")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes("gross!")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content == "ew") {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content == "ew.") {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content == "ew!") {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes("groty")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes("eww")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes(" ew ")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes(" ew.")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes(" ew!")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes(" ew,")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes("disgust")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes("discust")) {
-		message.react('838317860765696011');
+		message.react('848830669491666974');
 	}
 	if (message_content.includes("boning")) {
 		message.react('647326428299395072');
