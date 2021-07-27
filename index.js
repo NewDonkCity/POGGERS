@@ -17528,7 +17528,7 @@ client.on('message', message => {
 		message.react('316737384819589120');
 	}
 	if (message_content.includes("🙃")) {
-		message.react('768948482324168744');
+		message.react('846312277581627393');
 	}
 	if (message_content.includes("t-pos")) {
 		message.react('465644294074793984');
