@@ -17504,7 +17504,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content.includes("kappa")) {
-		message.react('846312277581627393');
+		message.react('849352541037002783');
 	}
 	if (message_content.includes("frankerz")) {
 		message.react('737765100714328164');
@@ -17528,7 +17528,7 @@ client.on('message', message => {
 		message.react('316737384819589120');
 	}
 	if (message_content.includes("🙃")) {
-		message.react('846312277581627393');
+		message.react('849352541037002783');
 	}
 	if (message_content.includes("t-pos")) {
 		message.react('465644294074793984');
