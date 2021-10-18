@@ -11810,7 +11810,7 @@ client.on('message', message => {
         	message.react('682682177875476686');
         }
 	if (message_content.includes("pog")) {
-		if (!message_content.includes("toadpog") or !message_content.includes("plantpoggers") or !message_content.includes("peteypog")) {
+		if (!message_content.includes("toadpog") || !message_content.includes("plantpoggers") || !message_content.includes("peteypog")) {
 			message.react('636662427596881931');
 		}
 		if (Math.floor(Math.random() * 2) == 0) {
@@ -20973,7 +20973,7 @@ client.on('message', message => {
 		message.react('282292955761475584');
 	}
 	if (message_content.includes("notlikethis")) {
-		if (!message_content.includes("toadettenotlikethis") or !message_content.includes("bowsernotlikethis")) {
+		if (!message_content.includes("toadettenotlikethis") || !message_content.includes("bowsernotlikethis")) {
 			message.react('836668476185378886');
 		}
 	}
