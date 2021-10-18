@@ -11810,7 +11810,9 @@ client.on('message', message => {
         	message.react('682682177875476686');
         }
 	if (message_content.includes("pog")) {
-		message.react('636662427596881931');
+		if !(message_content.includes("toadpog") or message_content.includes("plantpoggers") or message_content.includes("peteypog")) {
+			message.react('636662427596881931');
+		}
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('317479698621792267');
         	}
@@ -20024,7 +20026,9 @@ client.on('message', message => {
 		message.react('832864279921033216');
 	}
 	if (message_content.includes("cringe")) {
-		message.react('832864279921033216');
+		if !(message_content.includes("diddycringe")) {
+			message.react('832864279921033216');
+		}
 	}
 	if (message_content.includes(" hahaa")) {
 		message.react('832864279921033216');
@@ -20969,7 +20973,9 @@ client.on('message', message => {
 		message.react('282292955761475584');
 	}
 	if (message_content.includes("notlikethis")) {
-		message.react('836668476185378886');
+		if !(message_content.includes("toadettenotlikethis") or message_content.includes("bowsernotlikethis")) {
+			message.react('836668476185378886');
+		}
 	}
 	if (message_content.includes("pepehands")) {
 		message.react('836668476185378886');
