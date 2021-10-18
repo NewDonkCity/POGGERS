@@ -11810,8 +11810,12 @@ client.on('message', message => {
         	message.react('682682177875476686');
         }
 	if (message_content.includes("pog")) {
-		if (!message_content.includes("toadpog") || !message_content.includes("plantpoggers") || !message_content.includes("peteypog")) {
-			message.react('636662427596881931');
+		if (!message_content.includes("toadpog")) {
+			if (!message_content.includes("plantpoggers")) {
+				if (!message_content.includes("peteypog")) {
+					message.react('636662427596881931');
+				}
+			}
 		}
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('317479698621792267');
@@ -20973,8 +20977,10 @@ client.on('message', message => {
 		message.react('282292955761475584');
 	}
 	if (message_content.includes("notlikethis")) {
-		if (!message_content.includes("toadettenotlikethis") || !message_content.includes("bowsernotlikethis")) {
-			message.react('836668476185378886');
+		if (!message_content.includes("toadettenotlikethis")) {
+			if (!message_content.includes("bowsernotlikethis")) {
+				message.react('836668476185378886');
+			}
 		}
 	}
 	if (message_content.includes("pepehands")) {
