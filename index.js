@@ -7555,7 +7555,7 @@ client.on('message', message => {
     			message.channel.send("Punch-Out!!");
         	}
 		if (face2 == 100) {
-    			message.channel.send("Mrio Sports Mix");
+    			message.channel.send("Mario Sports Mix");
         	}
 		if (face2 == 101) {
     			message.channel.send("Donkey Kong Country Returns");
@@ -8128,7 +8128,7 @@ client.on('message', message => {
     			message.channel.send("Punch-Out!!");
         	}
 		if (face2 == 100) {
-    			message.channel.send("Mrio Sports Mix");
+    			message.channel.send("Mario Sports Mix");
         	}
 		if (face2 == 101) {
     			message.channel.send("Donkey Kong Country Returns");
@@ -8701,7 +8701,7 @@ client.on('message', message => {
     			message.channel.send("Punch-Out!!");
         	}
 		if (face2 == 100) {
-    			message.channel.send("Mrio Sports Mix");
+    			message.channel.send("Mario Sports Mix");
         	}
 		if (face2 == 101) {
     			message.channel.send("Donkey Kong Country Returns");
@@ -9268,7 +9268,7 @@ client.on('message', message => {
     			message.channel.send("Punch-Out!!");
         	}
 		if (face2 == 100) {
-    			message.channel.send("Mrio Sports Mix");
+    			message.channel.send("Mario Sports Mix");
         	}
 		if (face2 == 101) {
     			message.channel.send("Donkey Kong Country Returns");
@@ -9835,7 +9835,7 @@ client.on('message', message => {
     			message.channel.send("Punch-Out!!");
         	}
 		if (face2 == 100) {
-    			message.channel.send("Mrio Sports Mix");
+    			message.channel.send("Mario Sports Mix");
         	}
 		if (face2 == 101) {
     			message.channel.send("Donkey Kong Country Returns");
@@ -10402,7 +10402,7 @@ client.on('message', message => {
     			message.channel.send("Punch-Out!!");
         	}
 		if (face2 == 100) {
-    			message.channel.send("Mrio Sports Mix");
+    			message.channel.send("Mario Sports Mix");
         	}
 		if (face2 == 101) {
     			message.channel.send("Donkey Kong Country Returns");
@@ -10969,7 +10969,7 @@ client.on('message', message => {
     			message.channel.send("Punch-Out!!");
         	}
 		if (face2 == 100) {
-    			message.channel.send("Mrio Sports Mix");
+    			message.channel.send("Mario Sports Mix");
         	}
 		if (face2 == 101) {
     			message.channel.send("Donkey Kong Country Returns");
@@ -11536,7 +11536,7 @@ client.on('message', message => {
     			message.channel.send("Punch-Out!!");
         	}
 		if (face2 == 100) {
-    			message.channel.send("Mrio Sports Mix");
+    			message.channel.send("Mario Sports Mix");
         	}
 		if (face2 == 101) {
     			message.channel.send("Donkey Kong Country Returns");
