@@ -20031,7 +20031,9 @@ client.on('message', message => {
 	}
 	if (message_content.includes("cringe")) {
 		if (!message_content.includes("diddycringe")) {
-			message.react('832864279921033216');
+			if (!message_content.includes("boocringe")) {
+				message.react('832864279921033216');
+			}
 		}
 	}
 	if (message_content.includes(" hahaa")) {
