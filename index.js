@@ -17533,6 +17533,9 @@ client.on('message', message => {
 	if (message_content.includes("s t o n k")) {
 		message.react('316737384819589120');
 	}
+	if (message_content.includes("🥴")) {
+		message.react('902425366562496522');
+	}
 	if (message_content.includes("🙃")) {
 		message.react('849352541037002783');
 	}
