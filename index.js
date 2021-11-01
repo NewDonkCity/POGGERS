@@ -841,6 +841,24 @@ client.on('message', message => {
     			message.channel.send("Kamek's Tantalizing Tower");
         	}
 	}
+	if (message_content == ("/board superstars")) {
+		var face2 = Math.floor(Math.random() * 5);
+		if (face2 == 0) {
+    			message.channel.send("Yoshi's Tropical Island");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Space Land");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Peach's Birthday Cake");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Woody Woods");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("Horror Land");
+        	}
+	}
 	if (message_content == ("/board 64")) {
 		var face2 = Math.floor(Math.random() * 26);
 		if (face2 == 0) {
