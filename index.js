@@ -49,9 +49,6 @@ client.on('message', message => {
 	if (message_content.includes("fuck me?")) {
 		message.channel.send("<:BetaBuzz:807778656683425833>");
         }
-	if (message_content.includes("banner")) {
-		message.channel.send("https://www.youtube.com/watch?v=JO_S04-VzDE");
-        }
 	if (message_content == ("/game mario party")) {
 		var face2 = Math.floor(Math.random() * 11);
 		if (face2 == 0) {
