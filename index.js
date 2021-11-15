@@ -50,7 +50,7 @@ client.on('message', message => {
 		message.channel.send("<:BetaBuzz:807778656683425833>");
         }
 	if (message_content == ("/game mario party")) {
-		var face2 = Math.floor(Math.random() * 11);
+		var face2 = Math.floor(Math.random() * 13);
 		if (face2 == 0) {
     			message.channel.send("1");
         	}
@@ -83,10 +83,16 @@ client.on('message', message => {
         	}
 		if (face2 == 10) {
     			message.channel.send("Top 100");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Super");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Superstars");
         	}
 	}
 	if (message_content == ("/seemein mario party")) {
-		var face2 = Math.floor(Math.random() * 11);
+		var face2 = Math.floor(Math.random() * 13);
 		if (face2 == 0) {
     			message.channel.send("1");
         	}
@@ -119,10 +125,16 @@ client.on('message', message => {
         	}
 		if (face2 == 10) {
     			message.channel.send("Top 100");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Super");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Superstars");
         	}
 	}
 	if (message_content == ("/seemein mp")) {
-		var face2 = Math.floor(Math.random() * 11);
+		var face2 = Math.floor(Math.random() * 13);
 		if (face2 == 0) {
     			message.channel.send("1");
         	}
@@ -155,10 +167,16 @@ client.on('message', message => {
         	}
 		if (face2 == 10) {
     			message.channel.send("Top 100");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Super");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Superstars");
         	}
 	}
 	if (message_content.includes("which mp game should")) {
-		var face2 = Math.floor(Math.random() * 11);
+		var face2 = Math.floor(Math.random() * 13);
 		if (face2 == 0) {
     			message.channel.send("1");
         	}
@@ -191,10 +209,16 @@ client.on('message', message => {
         	}
 		if (face2 == 10) {
     			message.channel.send("Top 100");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Super");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Superstars");
         	}
 	}
 	if (message_content.includes("which mario party should")) {
-		var face2 = Math.floor(Math.random() * 11);
+		var face2 = Math.floor(Math.random() * 13);
 		if (face2 == 0) {
     			message.channel.send("1");
         	}
@@ -227,10 +251,16 @@ client.on('message', message => {
         	}
 		if (face2 == 10) {
     			message.channel.send("Top 100");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Super");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Superstars");
         	}
 	}
 	if (message_content.includes("what mp game should")) {
-		var face2 = Math.floor(Math.random() * 11);
+		var face2 = Math.floor(Math.random() * 13);
 		if (face2 == 0) {
     			message.channel.send("1");
         	}
@@ -263,10 +293,16 @@ client.on('message', message => {
         	}
 		if (face2 == 10) {
     			message.channel.send("Top 100");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Super");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Superstars");
         	}
 	}
 	if (message_content.includes("what mario party should")) {
-		var face2 = Math.floor(Math.random() * 11);
+		var face2 = Math.floor(Math.random() * 13);
 		if (face2 == 0) {
     			message.channel.send("1");
         	}
@@ -299,10 +335,16 @@ client.on('message', message => {
         	}
 		if (face2 == 10) {
     			message.channel.send("Top 100");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Super");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Superstars");
         	}
 	}
 	if (message_content == ("/game mp")) {
-		var face2 = Math.floor(Math.random() * 11);
+		var face2 = Math.floor(Math.random() * 13);
 		if (face2 == 0) {
     			message.channel.send("1");
         	}
@@ -335,6 +377,12 @@ client.on('message', message => {
         	}
 		if (face2 == 10) {
     			message.channel.send("Top 100");
+        	}
+		if (face2 == 11) {
+    			message.channel.send("Super");
+        	}
+		if (face2 == 12) {
+    			message.channel.send("Superstars");
         	}
 	}
 	if (message_content == ("/roll")) {
@@ -797,7 +845,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content == ("/board switch")) {
-		var face2 = Math.floor(Math.random() * 4);
+		var face2 = Math.floor(Math.random() * 9);
 		if (face2 == 0) {
     			message.channel.send("Whomp's Domino Ruins");
         	}
@@ -809,6 +857,21 @@ client.on('message', message => {
         	}
 		if (face2 == 3) {
     			message.channel.send("Kamek's Tantalizing Tower");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("Yoshi's Tropical Island");
+        	}
+    		if (face2 == 5) {
+    			message.channel.send("Space Land");
+        	}
+		if (face2 == 6) {
+    			message.channel.send("Peach's Birthday Cake");
+        	}
+		if (face2 == 7) {
+    			message.channel.send("Woody Woods");
+        	}
+		if (face2 == 8) {
+    			message.channel.send("Horror Land");
         	}
 	}
 	if (message_content == ("/board 11")) {
@@ -824,6 +887,24 @@ client.on('message', message => {
         	}
 		if (face2 == 3) {
     			message.channel.send("Kamek's Tantalizing Tower");
+        	}
+	}
+	if (message_content == ("/board 12")) {
+		var face2 = Math.floor(Math.random() * 5);
+		if (face2 == 0) {
+    			message.channel.send("Yoshi's Tropical Island");
+        	}
+    		if (face2 == 1) {
+    			message.channel.send("Space Land");
+        	}
+		if (face2 == 2) {
+    			message.channel.send("Peach's Birthday Cake");
+        	}
+		if (face2 == 3) {
+    			message.channel.send("Woody Woods");
+        	}
+		if (face2 == 4) {
+    			message.channel.send("Horror Land");
         	}
 	}
 	if (message_content == ("/board super")) {
