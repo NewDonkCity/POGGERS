@@ -6676,7 +6676,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 13) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 14) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -6835,7 +6835,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 13) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 14) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -6994,7 +6994,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 13) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 14) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -7153,7 +7153,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 13) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 14) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -7552,7 +7552,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 93) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 94) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -8125,7 +8125,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 93) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 94) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -8698,7 +8698,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 93) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 94) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -9265,7 +9265,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 93) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 94) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -9832,7 +9832,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 93) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 94) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -10399,7 +10399,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 93) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 94) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -10966,7 +10966,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 93) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 94) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
@@ -11533,7 +11533,7 @@ client.on('message', message => {
     			message.channel.send("Mario Kart Fun");
         	}
 		if (face2 == 93) {
-    			message.channel.send("Mario Kart Wii Hack Pack");
+    			message.channel.send("Mario Kart Fusion");
         	}
 		if (face2 == 94) {
     			message.channel.send("Super Monkey Ball Banana Blitz");
