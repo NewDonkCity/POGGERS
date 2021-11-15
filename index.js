@@ -22278,10 +22278,10 @@ client.on('message', message => {
 		message.react('713265408899285072');
 	}
 	if (message_content.includes("🚶")) {
-		message.react('705616076519768124');
+		message.react('852721643548966972');
 	}
 	if (message_content.includes("a head out")) {
-		message.react('705616076519768124');
+		message.react('852721643548966972');
 	}
 	if (message_content.includes("holla get dolla")) {
 		message.react('705437479741947956');
