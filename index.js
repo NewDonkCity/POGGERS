@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.once('ready', () => {
-	console.log('Pog');}
+	console.log('Pog');
 });
 
 client.on('message', message => {
