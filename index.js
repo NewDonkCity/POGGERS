@@ -13289,9 +13289,6 @@ client.on('message', message => {
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827397352699985920');
         	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827398345257254962');
-        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -13466,6 +13463,9 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('711994063347384452');
+        	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827398345257254962');
         	}
 	}
 	if (message_content.includes("pepepls")) {
