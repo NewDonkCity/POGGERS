@@ -13286,6 +13286,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -13463,9 +13466,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("pepepls")) {
@@ -13502,6 +13502,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -13679,9 +13682,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("always smiling")) {
@@ -13718,6 +13718,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -13895,9 +13898,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("dance riot")) {
@@ -13934,6 +13934,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -14111,9 +14114,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("┌༼ຈل͜ຈ༽┘")) {
@@ -14150,6 +14150,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -14327,9 +14330,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("party like it's 10")) {
@@ -14366,6 +14366,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -14543,9 +14546,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("party like it’s 10")) {
@@ -14582,6 +14582,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -14759,9 +14762,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("party like its 10")) {
@@ -14798,6 +14798,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -14975,9 +14978,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("party rockers in the hou")) {
@@ -15014,6 +15014,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -15191,9 +15194,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("party rock is in the hou")) {
@@ -15230,6 +15230,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -15407,9 +15410,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("everybody dance now")) {
@@ -15446,6 +15446,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -15623,9 +15626,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("everybody jam")) {
@@ -15662,6 +15662,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -15839,9 +15842,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("oppa gangnam style")) {
@@ -15878,6 +15878,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -16055,9 +16058,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("do the harlem shake")) {
@@ -16094,6 +16094,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -16271,9 +16274,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content.includes("🦀")) {
@@ -16310,6 +16310,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -16487,9 +16490,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content == "dance mode") {
@@ -16526,6 +16526,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -16703,9 +16706,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
 	if (message_content == "dance mode!") {
@@ -16742,6 +16742,9 @@ client.on('message', message => {
 		if (Math.floor(Math.random() * 2) == 0) {
             		message.react('902333864184266782');
         	}
+        	if (Math.floor(Math.random() * 2) == 0) {
+            		message.react('827397352699985920');
+        	}
         	if (Math.floor(Math.random() * 4) == 0) {
             		message.react('902398095785086987');
         	}
@@ -16919,9 +16922,6 @@ client.on('message', message => {
         	}
         	if (Math.floor(Math.random() * 2) == 0) {
             		message.react('827398345257254962');
-        	}
-        	if (Math.floor(Math.random() * 2) == 0) {
-            		message.react('827397352699985920');
         	}
 	}
     	if (message_content.includes("loves me..")) {
