@@ -1,8 +1,9 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-client.once('ready'), () => {
+client.once('ready', () => {
 	console.log('Pog');}
+});
 
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
