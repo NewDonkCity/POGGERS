@@ -1,8 +1,8 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-client.once('ready', () => {
-	console.log('Pog');
+client.once('ready'), () => {
+	console.log('Pog');}
 
 client.on('message', message => {
 	var message_content = message.content.toLowerCase();
@@ -31392,7 +31392,7 @@ client.on('message', message => {
         	}
 	}
 	if (message_content.includes("reeee")) {
-		message.react('832866086814089266');832866086814089266
+		message.react('832866086814089266');
 	}
 	if (message_content.includes("rules of nature")) {
 		message.react('635515880540733452');
