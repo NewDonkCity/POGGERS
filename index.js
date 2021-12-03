@@ -22561,16 +22561,16 @@ client.on('message', message => {
 		message.react('316752108437372928');
 	}
 	if (message_content.includes("😜")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes("😗")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes("😙")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes(";p")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes("😛")) {
 		message.react('847738126713749565');
@@ -22588,7 +22588,7 @@ client.on('message', message => {
 		message.react('847738126713749565');
 	}
 	if (message_content.includes(";^p")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes(":^p ")) {
 		message.react('847738126713749565');
@@ -22603,7 +22603,7 @@ client.on('message', message => {
 		message.react('847738126713749565');
 	}
 	if (message_content.includes(";-p")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes(":-p ")) {
 		message.react('847738126713749565');
@@ -31468,16 +31468,16 @@ client.on('message', message => {
 		message.react('727577560279679036');
 	}
 	if (message_content.includes("😽")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes("😘")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes("😗")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes("💋")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes("✋")) {
 		message.react('737125828583882782');
@@ -31495,7 +31495,7 @@ client.on('message', message => {
 		message.react('737125828583882782');
 	}
 	if (message_content.includes("💅")) {
-		message.react('653344834018344960');
+		message.react('915721121763041290');
 	}
 	if (message_content.includes("d’oh i missed")) {
 		message.react('681545564684288060');
@@ -31516,28 +31516,28 @@ client.on('message', message => {
 		message.react('681398765482934294');
 	}
 	if (message_content == "wa") {
-		message.react('316734055427211266');
+		message.react('902297340075970610');
 	}
 	if (message_content == "wah") {
-		message.react('316734055427211266');
+		message.react('902297340075970610');
 	}
 	if (message_content == "wa.") {
-		message.react('316734055427211266');
+		message.react('902297340075970610');
 	}
 	if (message_content.includes("wah.")) {
-		message.react('316734055427211266');
+		message.react('902297340075970610');
 	}
 	if (message_content.includes("wa!")) {
-		message.react('316734055427211266');
+		message.react('902297340075970610');
 	}
 	if (message_content.includes("wah!")) {
-		message.react('316734055427211266');
+		message.react('902297340075970610');
 	}
 	if (message_content.includes("waa")) {
-		message.react('316734055427211266');
+		message.react('902297340075970610');
 	}
 	if (message_content.includes("wahh")) {
-		message.react('316734055427211266');
+		message.react('902297340075970610');
 	}
 	if (message_content.includes("have a rotten day")) {
 		message.react('681398765482934294');
@@ -31552,10 +31552,7 @@ client.on('message', message => {
 		message.react('747677009118756914');
 	}
 	if (message_content.includes("lousy")) {
-		message.react('316734055427211266');
-	}
-	if (message_content.includes("lousy")) {
-		message.react('316734055427211266');
+		message.react('681395776198279194');
 	}
 	if (message_content == "mushroom") {
 		message.react('639317986011774986');
