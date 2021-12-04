@@ -23221,34 +23221,34 @@ client.on('message', message => {
 		message.react('632997788527099925');
 	}
 	if (message_content.includes("t_t")) {
-		message.react('818030444297584681');
+		message.react('891943353283915826');
 	}
 	if (message_content.includes("t.t")) {
-		message.react('818030444297584681');
+		message.react('891943353283915826');
 	}
 	if (message_content.includes(" t-t")) {
-		message.react('818030444297584681');
+		message.react('891943353283915826');
 	}
 	if (message_content.includes("t-t ")) {
-		message.react('818030444297584681');
+		message.react('891943353283915826');
 	}
 	if (message_content == "t-t") {
-		message.react('818030444297584681');
+		message.react('891943353283915826');
 	}
 	if (message_content.includes("-_-")) {
-		message.react('818030444297584681');
+		message.react('891943353283915826');
 	}
 	if (message_content.includes("😑")) {
-		message.react('818030444297584681');
+		message.react('891943353283915826');
 	}
 	if (message_content.includes("-.-")) {
-		message.react('818030444297584681');
+		message.react('891943353283915826');
 	}
 	if (message_content.includes("v_v")) {
-		message.react('818030444297584681');
+		message.react('891943353283915826');
 	}
 	if (message_content.includes("v.v")) {
-		message.react('818030444297584681');
+		message.react('891943353283915826');
 	}
 	if (message_content.includes("gotem")) {
 		message.react('414662215107346433');
