@@ -22532,6 +22532,9 @@ client.on('message', message => {
 	if (message_content.includes("🤦")) {
 		message.react('282292955761475584');
 	}
+	if (message_content.includes("🙈")) {
+		message.react('852662228947173376');
+	}
 	if (message_content.includes("notlikethis")) {
 		if (!message_content.includes("toadettenotlikethis")) {
 			if (!message_content.includes("bowsernotlikethis")) {
