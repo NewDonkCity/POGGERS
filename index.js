@@ -22675,7 +22675,9 @@ client.on('message', message => {
 		message.react('848830669491666974');
 	}
 	if (message_content.includes("disgust")) {
-		message.react('848830669491666974');
+		if (!message_content.includes("KingBooDisgust")) {
+			message.react('848830669491666974');
+		}
 	}
 	if (message_content.includes("discust")) {
 		message.react('848830669491666974');
