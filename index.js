@@ -20707,6 +20707,9 @@ client.on('message', message => {
 	if (message_content.includes("what did one wall")) {
 		message.react('682824065789984773');
 	}
+	if (message_content.includes("forgor")) {
+		message.react('682824065789984773');
+	}
 	if (message_content.includes("there go all my bones")) {
 		message.react('682824065789984773');
 	}
