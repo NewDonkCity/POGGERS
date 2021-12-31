@@ -21373,6 +21373,9 @@ client.on('message', message => {
 	if (message_content.includes("🅱️")) {
 		message.react('838670815553781790');
 	}
+	if (message_content.includes("🤯")) {
+		message.react('832863821923352608');
+	}
 	if (message_content.includes("💪")) {
 		message.react('836668476214607932');
 	}
