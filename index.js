@@ -33441,7 +33441,8 @@ client.on('message', message => {
 		message.react('675523558700482561');
 	}
 	if (message_content.includes("http")) {
-		if(message.channel.id == "677922077969219584") {
+		cmdChannel = bot.get_channel(677922077969219584)
+		if(message.channel.id == cmdChannel.id) {
 			message.react('852738141391028234');
 			message.react('832875447108894760');
 			message.react('852795050273669150');
