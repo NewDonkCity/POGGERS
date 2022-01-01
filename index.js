@@ -33440,6 +33440,22 @@ client.on('message', message => {
 	if (message_content.includes("kermiepls")) {
 		message.react('675523558700482561');
 	}
+	if (message_content.includes("http")) {
+		if(message.channel.Id == "677922077969219584") {
+			message.react('852738141391028234');
+			message.react('832875447108894760');
+			message.react('852795050273669150');
+			message.react('902333863739682877');
+			message.react('852662228963557396');
+			message.react('902290578476249108');
+			message.react('636662427596881931');
+			message.react('852721361390141450');
+			message.react('637113890442051614');
+			message.react('915716337089802240');
+			message.react('637049719293476875');
+			message.react('810344461426229276');
+		}
+	}
 	if (message_content.includes("lord of the snack falcons")) {
 		message.react('527614081369112578');
 	}
