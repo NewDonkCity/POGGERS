@@ -49,6 +49,9 @@ client.on('message', message => {
 	if (message_content.includes("fuck me?")) {
 		message.channel.send("<:BetaBuzz:807778656683425833>");
         }
+	if (message_content.includes("can i just say")) {
+		message.channel.send("NO you can NOT");
+        }
 	if (message_content.includes("trisha-")) {
 		message.channel.send("https://media.discordapp.net/attachments/283845095357153282/913910525145002044/141743460297342976.jpg");
         }
