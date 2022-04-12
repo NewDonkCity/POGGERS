@@ -21592,13 +21592,6 @@ client.on('message', message => {
 	if (message_content.includes("yike")) {
 		message.react('832864279921033216');
 	}
-	if (message_content.includes("cringe")) {
-		if (!message_content.includes("diddycringe")) {
-			if (!message_content.includes("boocringe")) {
-				message.react('832864279921033216');
-			}
-		}
-	}
 	if (message_content.includes(" hahaa")) {
 		message.react('832864279921033216');
 	}
@@ -22682,11 +22675,6 @@ client.on('message', message => {
 	}
 	if (message_content.includes(" ew,")) {
 		message.react('848830669491666974');
-	}
-	if (message_content.includes("disgust")) {
-		if (!message_content.includes("KingBooDisgust")) {
-			message.react('848830669491666974');
-		}
 	}
 	if (message_content.includes("discust")) {
 		message.react('848830669491666974');
